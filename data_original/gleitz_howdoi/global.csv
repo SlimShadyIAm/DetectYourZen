@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc
+0,2a5f6615fada06992107831c2aad31018918e4f8,Benjamin Gleitzman,gleitz@mit.edu,2018-02-23T20:15-08:00,Benjamin Gleitzman,gleitz@mit.edu,2018-02-23T20:15-08:00,1,2,17455,3,41,542

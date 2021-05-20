@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,1d283bf6441f2ed6f511ca2269bf0ae62e386ba1,Markus Siemens,markus@m-siemens.de,2018-04-17T16:11+02:00,Markus Siemens,markus@m-siemens.de,2018-04-17T16:11+02:00,14,23,25,0,25,48,93404,7,20,257,3,5,3450,1,3

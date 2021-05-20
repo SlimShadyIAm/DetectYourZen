@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,2a9321e97f4cc3a35dda041edce59003c641768b,Rael Gugelmin Cunha,rael.gc@gmail.com,2018-04-11T07:16-03:00,GitHub,noreply@github.com,2018-04-11T07:16-03:00,1,1,1,0,16,6,65702,2,18,148,1,0,1,1670,4

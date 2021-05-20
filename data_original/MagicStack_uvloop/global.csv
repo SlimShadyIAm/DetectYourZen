@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate,counters.Yield
+0,28d35d9b7ff7108cd6195d51373f8058b5c57598,Yury Selivanov,yury@magic.io,2018-04-17T16:11-04:00,Yury Selivanov,yury@magic.io,2018-04-17T16:11-04:00,1,87,9,0,97,183,217636,1,61,436,0,2,7085,41,1,7

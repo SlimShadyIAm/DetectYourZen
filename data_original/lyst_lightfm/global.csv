@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate,counters.Yield
+0,3b791d6766c1309283083fd49eded4912e16f12f,Maciej Kula,maciejkula@users.noreply.github.com,2018-04-15T16:25+01:00,GitHub,noreply@github.com,2018-04-15T16:25+01:00,1,1,0,5,28,135943,6,2,125,0,3988,4,3

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,ea9ff985bc96b79edb12ad4bed69403173f75562,Michael Elsdörfer,michael@elsdoerfer.com,2017-01-07T22:18+01:00,Michael Elsdörfer,michael@elsdoerfer.com,2017-01-07T22:18+01:00,2,4,0,15,7,49655,1,2,73,0,1,1377,1

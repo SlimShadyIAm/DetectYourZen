@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
+0,9fbeb9211369402f51c7946b1d6e63bf9e79179a,Anthony Sottile,asottile@umich.edu,2018-04-20T14:29-07:00,GitHub,noreply@github.com,2018-04-20T14:29-07:00,6,1,0,53,64,196597,11,256,0,6,5512

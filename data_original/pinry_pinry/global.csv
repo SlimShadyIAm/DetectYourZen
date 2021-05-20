@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
+0,34ee2fbeccae25fc48e42f8676886d35dcab01ad,Isaac Bythewood,isaac@bythewood.me,2018-04-03T14:59-04:00,GitHub,noreply@github.com,2018-04-03T14:59-04:00,2,0,0,40,3,43251,4,1,79,1,2,1274

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,FileMeta.loc
+0,f90a33315ec94e39dd51a48cf61e18ae5e951be3,Russell Stewart,russell.sb.stewart@gmail.com,2018-04-08T17:02-05:00,GitHub,noreply@github.com,2018-04-08T17:02-05:00,2,2,2,1,22128,7,2,2,31,633

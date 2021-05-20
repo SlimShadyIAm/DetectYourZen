@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.filter
+0,0dc14e7ba8eb7ee1a96330e5061c0651ca63bf66,Jonathan Salwan,jonathan.salwan@gmail.com,2017-12-25T12:28+01:00,GitHub,noreply@github.com,2017-12-25T12:28+01:00,1,1,44,107462,4,2,1,149,1,1,2825,1,1

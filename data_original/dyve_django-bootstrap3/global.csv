@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.filter
+0,415ad0b0cdc7a1ec5ea946d8595062e245e074a0,Dylan Verheul,dylan@zostera.nl,2017-12-04T15:20+01:00,Dylan Verheul,dylan@zostera.nl,2017-12-04T15:20+01:00,3,1,0,39,5,115902,4,1,187,0,3719,1

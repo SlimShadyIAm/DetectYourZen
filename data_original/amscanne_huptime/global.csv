@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.Exprfinalbody
+0,75482b7ea2ee89d3bcce748c3063d41d10d30a8f,Adin Scannell,adin@scannell.ca,2015-01-18T21:08-08:00,Adin Scannell,adin@scannell.ca,2015-01-18T21:08-08:00,7,4,0,17,27217,4,4,70,0,917,4

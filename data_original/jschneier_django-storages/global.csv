@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.DictCompargs,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody
+0,9f07eab9c2f86c3d911ec9f6b0f45dca36626bd1,Josh Schneier,josh.schneier@gmail.com,2018-03-26T17:16-04:00,Josh Schneier,josh.schneier@gmail.com,2018-03-26T17:16-04:00,1,1,1,38,27,170461,2,367,31,3343,2

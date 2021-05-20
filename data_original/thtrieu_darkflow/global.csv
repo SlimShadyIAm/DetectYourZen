@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,b2aee0000cd2a956b9f1de6dbfef94d53158b7d8,Andrew Bagshaw,abagshaw@users.noreply.github.com,2018-03-24T19:17-07:00,GitHub,noreply@github.com,2018-03-24T19:17-07:00,3,3,0,44,24,110228,11,1,2,169,0,5,3256,8,25

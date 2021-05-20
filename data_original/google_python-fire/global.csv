@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate,counters.Yield
+0,6912ccd56f50e0f4bb30a0725d95858ef29f3bde,David Bieber,dbieber@google.com,2018-02-23T10:08-08:00,David Bieber,dbieber@google.com,2018-02-23T10:18-08:00,1,9,6,4,0,54,56,165215,4,1,308,0,4852,7,6

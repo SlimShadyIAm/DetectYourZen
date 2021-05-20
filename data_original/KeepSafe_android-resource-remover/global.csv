@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.filter
+0,f2b4fb5a6822da79c9b166e3250ca6bdc6ee06e8,Philipp Berner,philipp@getkeepsafe.com,2018-03-28T14:07-07:00,GitHub,noreply@github.com,2018-03-28T14:07-07:00,0,2,0,4,4,16697,1,9,1,35,0,411,8

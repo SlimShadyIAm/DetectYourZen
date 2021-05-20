@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate,counters.Yield
+0,376d5975a033a7bde0102fa4b8fc29750d7fc98b,Jan Erik Solem,jesolem@gmail.com,2014-07-19T23:32+02:00,Jan Erik Solem,jesolem@gmail.com,2014-07-19T23:33+02:00,4,4,0,26,10,174343,35,6,7,275,0,5670,12,2

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.DictCompargs,counters.OrderedDict,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate
+0,815b3f7808f8f2d9d683e9ed6c5b0a39bec232fb,Richard Zhang,rzhang88@gmail.com,2018-02-25T10:25-08:00,GitHub,noreply@github.com,2018-02-25T10:25-08:00,16,2,2,3,0,42,5,194004,17,34,335,0,5423,37

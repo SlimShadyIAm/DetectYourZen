@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,d898520439e1ea4d08f6b191e0b55850e8849789,Justin Musgrove,justin.musgrove@gmail.com,2018-04-08T19:22-05:00,Donne Martin,donne.martin@gmail.com,2018-04-08T20:22-04:00,3,10,0,137,121413,6,343,0,1,4460,2,1

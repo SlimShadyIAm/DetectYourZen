@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,counters.OrderedDict,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody
+0,8d240c8b2d7b9c824a1b6133c6dcc085d9d63b68,Joe Alcorn,joealcorn123@gmail.com,2018-03-18T15:57Z,Joe Alcorn,joealcorn123@gmail.com,2018-03-18T15:57Z,1,1,6,3,0,7,5,23276,2,8,48,0,2,751,1

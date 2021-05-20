@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Yield
+0,4e24742e6f42eeed7f09a6e36e54d84344a1bb98,Denny Britz,dennybritz@gmail.com,2017-12-04T17:21+09:00,GitHub,noreply@github.com,2017-12-04T17:21+09:00,0,1,11,18243,5,2,1,6,432,1,1

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate
+0,9f8fb944c5574365e50887aca0170e5c4a9462ed,Mo Kweon,kkweon@gmail.com,2017-10-05T21:47-07:00,GitHub,noreply@github.com,2017-10-05T21:47-07:00,1,4,0,15,44,295151,38,4,2,76,0,9322,29

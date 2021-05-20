@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,counters.OrderedDict,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,40a9e5f1450b87858852777379e63b16b45e6430,REMitchell,Ryan.E.Mitchell@gmail.com,2018-03-27T23:33-04:00,GitHub,noreply@github.com,2018-03-27T23:33-04:00,2,1,0,15,73940,10,3,96,2,2032,6,4

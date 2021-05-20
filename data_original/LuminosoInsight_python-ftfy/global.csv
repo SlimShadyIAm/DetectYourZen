@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,96c831974d400d3c67935a8421ff3e214471081d,Andrew Lin,alin-luminoso@users.noreply.github.com,2018-01-25T15:12-05:00,GitHub,noreply@github.com,2018-01-25T15:12-05:00,2,1,6,10,3,118190,3,88,1,1,3189,1,3

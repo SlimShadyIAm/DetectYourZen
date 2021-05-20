@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,8faf6bb1f2ab0042608ae06f997f2dc27c4a9e6e,Andrew Moffat,arwmoffat@gmail.com,2018-03-03T17:19Z,Andrew Moffat,arwmoffat@gmail.com,2018-03-03T17:19Z,5,10,10,43904,136,5,1592,2,5

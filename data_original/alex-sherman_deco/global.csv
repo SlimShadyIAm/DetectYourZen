@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,b17e6b51ed5dafb4486cfb8e4f9886bb753a24f4,Alex Sherman,asherman1024@gmail.com,2017-11-05T23:32-06:00,Alex Sherman,asherman1024@gmail.com,2017-11-05T23:32-06:00,1,2,7,0,8,21021,5,74,3,0,22,697,3

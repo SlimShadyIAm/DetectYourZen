@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,counters.deque,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,bb49172d9235c426d3559972d9926a769b0ee093,KUAN Hsuan-Tso,kst920106@gmail.com,2018-04-11T08:28+08:00,Donne Martin,donne.martin@gmail.com,2018-04-10T20:28-04:00,0,2,54,25182,1,142,6,972,1,6

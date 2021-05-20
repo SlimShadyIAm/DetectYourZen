@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody
+0,575720854de4f609b6209028857ec8d81efcf654,chantra,chantra@users.noreply.github.com,2017-07-08T16:12+02:00,GitHub,noreply@github.com,2017-07-08T16:12+02:00,2,52,147,0,95,23,251689,52,598,1,0,15,7991,3

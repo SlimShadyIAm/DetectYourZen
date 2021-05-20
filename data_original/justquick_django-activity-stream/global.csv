@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,a6d359de540f3b531f1ea46f12b91f4b48bc7d7f,Asif Saifuddin Auvi,auvipy@gmail.com,2018-04-12T11:47+06:00,GitHub,noreply@github.com,2018-04-12T11:47+06:00,1,1,7,0,65,113180,17,5,2,197,0,18,3253,1

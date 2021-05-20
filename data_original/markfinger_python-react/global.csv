@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
+0,5631e2b211be5b1a6f2b74893a1fab8b591c03df,Mark Finger,markfinger@gmail.com,2017-08-09T10:14+10:00,Mark Finger,markfinger@gmail.com,2017-08-09T10:14+10:00,0,1,0,12,3,19547,1,35,1,4,617

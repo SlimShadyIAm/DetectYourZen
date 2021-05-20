@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.OrderedDict,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Yield,counters.filter
+0,76bb27399ace6dd671dfc61e8020c4ccf1e565f2,Adrian Rosebrock,jrosebr1@umbc.edu,2018-04-15T06:34-04:00,GitHub,noreply@github.com,2018-04-15T06:34-04:00,1,0,11,55311,3,2,1,73,1718,5,1,1

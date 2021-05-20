@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,counters.DictCompargs,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody
+0,d828c8c41ef21f26512531bfdd4d90d72d54e20a,Bora M. Alper,boramalper@users.noreply.github.com,2017-10-17T10:42+01:00,GitHub,noreply@github.com,2017-10-17T10:42+01:00,8,1,6,1,32,10,110516,8,6,165,31,44,2734,5

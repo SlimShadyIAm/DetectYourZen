@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,1682975ccca50f1a0582c806aacd07266f689061,Andrej Karpathy,andrej.karpathy@gmail.com,2017-06-15T18:45-07:00,Andrej Karpathy,andrej.karpathy@gmail.com,2017-06-15T18:45-07:00,2,0,1,8,57232,30,48,2,1573,4,3

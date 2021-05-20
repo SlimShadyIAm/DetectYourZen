@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.Yield,counters.filter
+0,ccbbbeb928a560353f73d2e6661abe03c3a28831,Jason Wilder,jwilder@users.noreply.github.com,2018-03-30T17:34-04:00,GitHub,noreply@github.com,2018-03-30T17:34-04:00,8,1,0,2,12,55037,1,7,2,155,0,1462,7,1

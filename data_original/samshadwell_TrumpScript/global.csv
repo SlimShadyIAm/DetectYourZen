@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.filter
+0,a76f0783cebc87297be9282398e94e734373171e,Sam Shadwell,smshdwll@gmail.com,2017-01-31T18:01-06:00,GitHub,noreply@github.com,2017-01-31T18:01-06:00,0,5,1,65999,60,22,22,3364,1

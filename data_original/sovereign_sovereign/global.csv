@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,FileMeta.loc
+0,71db4f18c3412fb6dad8fec1106d3b4abde345c6,Sven Neuhaus,neuhaus@users.noreply.github.com,2018-03-14T22:10+01:00,GitHub,noreply@github.com,2018-03-14T22:10+01:00,0,6,3,14298,30,437

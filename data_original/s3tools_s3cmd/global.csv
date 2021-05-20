@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,d07bcfa6e151ee485931288106f4f9078fea5100,Florent Viard,fviard@lacie.com,2018-03-03T22:42+01:00,Florent Viard,fviard@lacie.com,2018-03-03T22:42+01:00,11,19,0,50,6,343375,13,1,2,405,15,5,15,8586,7

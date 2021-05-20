@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,counters.classmethod,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield,counters.filter
+0,b17e2f16cb81eb538a49b7c9e6c9602b35bc25f5,Weixuan Fu,weixuanf@pennmedicine.upenn.edu,2018-04-09T16:29-04:00,GitHub,noreply@github.com,2018-04-09T16:29-04:00,2,3,1,9,11,29,338983,29,10,1,262,8,8822,9,2,1

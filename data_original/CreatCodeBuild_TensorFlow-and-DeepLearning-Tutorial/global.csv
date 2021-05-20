@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Yield
+0,1b705236629316a32ada90c8cd810521e8775448,Albert Wang,wangxuanzhealbert@gmail.com,2017-09-12T15:19-04:00,GitHub,noreply@github.com,2017-09-12T15:19-04:00,26,15,152,193852,3,17,195,5472,36,21

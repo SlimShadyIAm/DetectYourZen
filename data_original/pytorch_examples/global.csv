@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,counters.namedtuple,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate
+0,dcdabc22b305d2f2989c6f03570dfcd3919e8a5b,Jason Park,diligensloth@gmail.com,2018-03-23T00:11+09:00,Soumith Chintala,soumith@gmail.com,2018-03-22T11:11-04:00,3,2,0,3,0,23,8,97584,2,3,3,105,0,2682,14

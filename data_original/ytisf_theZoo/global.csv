@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate,counters.filter
+0,7dba877ca5c464d9dc5910c71cbafba23c5bfc9b,tisf,james@js.local,2018-04-01T18:15+07:00,tisf,james@js.local,2018-04-01T18:15+07:00,2,3,0,13,4,103659,17,10,1,2,176,1,2839,1,1

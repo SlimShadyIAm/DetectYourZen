@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Yield
+0,ab58bba76cad68674ce50df7382c235ed21ab5ae,Adam Tauber,asciimoo@gmail.com,2017-12-25T11:27+01:00,GitHub,noreply@github.com,2017-12-25T11:27+01:00,2,2,3,7,31713,60,1195,4,17

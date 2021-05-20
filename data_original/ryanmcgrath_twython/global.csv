@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,677849aa756e99a820cd7c8e53ccdf0433839519,Mike Helmick,michaelhelmick@users.noreply.github.com,2018-01-08T09:36-05:00,GitHub,noreply@github.com,2018-01-08T09:36-05:00,4,1,0,17,1,150510,1,284,4,0,5,3715,2

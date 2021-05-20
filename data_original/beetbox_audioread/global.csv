@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate,counters.Yield
+0,47e712ccdacd5cec03cc1485e14cf73620ac020c,Adrian Sampson,adrian@radbox.org,2018-04-07T11:56-04:00,Adrian Sampson,adrian@radbox.org,2018-04-07T11:56-04:00,1,0,21,0,29,4,48631,2,81,0,11,1530,1,2,4

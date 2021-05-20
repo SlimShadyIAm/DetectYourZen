@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.Yield,counters.filter
+0,53d32bc1b28717774149afe4bc481af6e930b814,Aaron Mildenstein,aaron@mildensteins.com,2017-12-11T14:54-07:00,GitHub,noreply@github.com,2017-12-11T14:54-07:00,6,17,1,0,146,8,755973,8,1,5,1001,0,18489,2,1

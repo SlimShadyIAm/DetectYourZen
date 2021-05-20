@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,1eff6d0d8f5e880db63493b59126a448a30a74e1,Jannis Leidel,jannis@leidel.info,2018-01-10T10:58+01:00,Jannis Leidel,jannis@leidel.info,2018-01-10T10:59+01:00,10,2,15,0,129,27,133206,5,323,3,3,3807,5

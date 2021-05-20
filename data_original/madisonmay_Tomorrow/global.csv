@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,9d397c3f4dc7df3fd1e0c66ed912935e69c08ea5,Madison May,madison@indico.io,2016-04-27T14:46-04:00,Madison May,madison@indico.io,2016-04-27T14:46-04:00,8,1,0,2,2,3923,22,0,183

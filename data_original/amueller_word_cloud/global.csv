@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,counters.GeneratorExpargs,counters.tee,counters.namedtuple,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.Yield
+0,411121d4c8002ebb44009160bb6a3af10318960f,Andreas Mueller,t3kcit@gmail.com,2018-03-27T12:36-04:00,GitHub,noreply@github.com,2018-03-27T12:36-04:00,3,2,1,1,1,7,0,8,6,82565,9,2,2,80,0,2381,3

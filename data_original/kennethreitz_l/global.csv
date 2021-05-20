@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.namedtuple,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.filter
+0,7345d702aa0ad56ae92d450dcac2991d2db35f7a,Graham Ullrich,graham@flyingcracker.com,2018-03-17T12:41-06:00,Graham Ullrich,graham@flyingcracker.com,2018-03-17T12:41-06:00,1,2,3,0,5,1,38331,3,1,1,76,1,6,1246,1

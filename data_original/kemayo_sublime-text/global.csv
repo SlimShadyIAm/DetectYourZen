@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate,counters.filter
+0,a49b1a510f241baed602a7cb63d0babafa80644b,David Lynch,kemayo@gmail.com,2017-12-13T15:59-06:00,GitHub,noreply@github.com,2017-12-13T15:59-06:00,1,1,81,3,82921,16,5,1,208,1,2337,2,2,2

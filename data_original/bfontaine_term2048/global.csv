@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.Exprfinalbody
+0,984f35b774a8a5ec4c14bcfabd4b2ba48854789a,Baptiste Fontaine,b@ptistefontaine.fr,2017-12-25T20:39+01:00,Baptiste Fontaine,b@ptistefontaine.fr,2017-12-25T20:39+01:00,2,1,0,12,5,48329,6,1,175,0,1733,1

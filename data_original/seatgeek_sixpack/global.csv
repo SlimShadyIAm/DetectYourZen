@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,056e305596266d472b6719c7f6ed644694115cc3,zackkitzmiller,zackkitzmiller@gmail.com,2017-11-22T09:27-05:00,zackkitzmiller,zackkitzmiller@gmail.com,2017-11-22T09:27-05:00,2,3,5,0,18,15,97278,11,249,8,0,21,2666,2

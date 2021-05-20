@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.Counter,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate
+0,6c785eb810848f259431865b12bb8795f4abcb23,Yunjey Choi,yunjey47@naver.com,2018-02-23T12:53+09:00,GitHub,noreply@github.com,2018-02-23T12:53+09:00,1,0,9,0,31,9,103175,4,2,1,1,112,0,2994,20

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate
+0,5700de83856781fa0c097a349e46dbaae5792cb0,Dave Crossland,dave@lab6.com,2017-08-02T11:35-04:00,GitHub,noreply@github.com,2017-08-02T11:35-04:00,4,26,4,0,52,3,264856,34,8,2,404,0,8213,11

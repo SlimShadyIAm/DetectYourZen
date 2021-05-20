@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
+0,875f509d3ff3cef99d88694e5ba592e5cb1df9dc,John Wheeler,jwheeler726@gmail.com,2018-02-28T13:53-08:00,GitHub,noreply@github.com,2018-02-28T13:53-08:00,18,2,0,23,7,117092,1,8,236,3,0,18,3210

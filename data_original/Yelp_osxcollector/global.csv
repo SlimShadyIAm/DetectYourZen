@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,counters.namedtuple,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,0fc767abeb36b10049463511a7d4412fd63ca68c,ytonui,ytonui@yelp.com,2017-10-13T10:30+01:00,GitHub,noreply@github.com,2017-10-13T10:30+01:00,20,1,6,4,0,21,37,96179,16,1,158,0,43,2580,1

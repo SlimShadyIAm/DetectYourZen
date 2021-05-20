@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,FileMeta.loc,counters.enumerate
+0,401ebfd639eb32586a9bf9312e3b442abc47ebed,Sherjil Ozair,sherjilozair@gmail.com,2017-09-12T00:56-07:00,GitHub,noreply@github.com,2017-09-12T00:56-07:00,2,2,14,16731,1,4,1,14,384,1

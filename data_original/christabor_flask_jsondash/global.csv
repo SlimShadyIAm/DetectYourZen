@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.Counter,counters.defaultdict,counters.DictCompargs,counters.namedtuple,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,ffced12ae4bd697a19207fc6cbb162bd0ca0ef64,dependabot[bot],dependabot[bot]@users.noreply.github.com,2018-04-18T11:04-07:00,Chris Tabor,dxdstudio@gmail.com,2018-04-18T11:04-07:00,1,1,5,1,14,2,45,147587,40,19,280,1,4723,7,1

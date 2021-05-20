@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,2a584349077583695516d36aa79ae6e9961a15fa,Chris Simpkins,git.simpkins@gmail.com,2017-09-17T20:23-04:00,Chris Simpkins,git.simpkins@gmail.com,2017-09-17T20:23-04:00,0,1,0,5,9,61604,6,0,1297

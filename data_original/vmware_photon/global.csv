@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.OrderedDict,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.Lambdaargs,counters.map,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate
+0,5d822c2d9f9621d686edd04e35d0a8ca5beced77,Xiaolin Li,xiaolinl@vmware.com,2018-04-10T16:58-07:00,Sharath George,sharathjg@photon-jenkins.eng.vmware.com,2018-04-19T11:41-07:00,1,2,56,55,391783,1,1,489,76,85,9692,13,7

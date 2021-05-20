@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,counters.deque,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,FileMeta.loc,counters.Yield
+0,0bc5fe348c14a0178df5cfeaf083d3f7dcd3a660,Jorge Bastida,neo2001@gmail.com,2017-06-03T20:28+02:00,GitHub,noreply@github.com,2017-06-03T20:28+02:00,8,1,7,43159,4,1,54,1181,6

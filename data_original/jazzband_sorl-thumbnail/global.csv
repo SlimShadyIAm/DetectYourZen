@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.OrderedDict,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,b6358d234d7de3927a2666a2a5ab3d7870c0e1d3,David D Lowe,daviddlowe.flimm@gmail.com,2017-12-29T14:10+01:00,GitHub,noreply@github.com,2017-12-29T14:10+01:00,2,11,7,0,74,23,156322,4,1,4,357,1,11,4718,3,4

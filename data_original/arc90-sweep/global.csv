@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,d7522b4de1dbc85570ec36b82bc155a4fa371b5e,Chris LoSacco,chris.losacco@gmail.com,2016-03-14T09:07-04:00,Chris LoSacco,chris.losacco@gmail.com,2016-03-14T09:07-04:00,0,13,5,34890,7,49,6,1192,1,1

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,0d89cd4a64126b0921178887b16f2988b64bd66a,BJ Dierkes,derks@datafolklabs.com,2018-01-16T22:44-06:00,GitHub,noreply@github.com,2018-01-16T22:44-06:00,1,2,19,8,0,342,63,539935,4,848,0,8,17037,17,5

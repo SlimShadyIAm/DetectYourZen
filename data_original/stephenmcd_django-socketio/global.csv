@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.filter
+0,d7d7a1a52b689c15de3dc54f5d20dc3eb293d771,Stephen McDonald,steve@jupo.org,2017-03-03T16:04+11:00,GitHub,noreply@github.com,2017-03-03T16:04+11:00,1,2,4,0,13,27662,3,1,47,2,822,1

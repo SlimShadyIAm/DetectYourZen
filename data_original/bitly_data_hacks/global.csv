@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,counters.namedtuple,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.map,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Yield
+0,c66693bc41299691974868557e9d7f4b30f2b3cd,Jehiah Czebotar,jehiah@gmail.com,2018-03-13T17:08-04:00,GitHub,noreply@github.com,2018-03-13T17:08-04:00,1,1,1,1,21512,5,2,20,624,1,5

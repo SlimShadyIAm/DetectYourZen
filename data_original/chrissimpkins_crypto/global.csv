@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.Exprfinalbody
+0,6b95fa81b26312e46f02557dca0b5f5c898a76fd,Chris Simpkins,git.simpkins@gmail.com,2016-01-04T09:08-05:00,Chris Simpkins,git.simpkins@gmail.com,2016-01-04T09:08-05:00,0,16,5,158471,2,196,3384,1

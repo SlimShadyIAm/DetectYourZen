@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate
+0,94337e9f40e43caae995f7f74195117680d4eb98,Jimmy,jimmysoa@sina.cn,2017-12-25T22:36+08:00,GitHub,noreply@github.com,2017-12-25T22:36+08:00,0,1,0,31,2,591773,47,1,62,1,973,0,14190,11

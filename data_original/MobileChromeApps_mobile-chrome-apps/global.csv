@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.Yield
+0,ab60c264e23624917a8ac9973d43a0b44e5f96c4,agrieve,agrieve@chromium.org,2015-11-27T10:16-05:00,agrieve,agrieve@chromium.org,2015-11-27T10:16-05:00,1,10,22,0,63,232163,3,399,1,4814,1

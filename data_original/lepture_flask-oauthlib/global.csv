@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.Lambdaargs,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,47c7df24be3560487509dab071edb7a0aa63e0c0,Hsiaoming Yang,me@lepture.com,2018-04-10T22:27+09:00,Hsiaoming Yang,me@lepture.com,2018-04-10T22:27+09:00,1,28,12,0,84,5,247432,3,558,1,1,59,7736,3

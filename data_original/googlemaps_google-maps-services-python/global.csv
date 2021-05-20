@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.Yield
+0,a1474c5bfb9f8f6ea93d706401c3ccbd63287ecd,Stephen McDonald,steve@jupo.org,2018-04-16T15:50+10:00,Stephen McDonald,steve@jupo.org,2018-04-16T15:50+10:00,6,6,0,22,21,153581,2,158,0,3925,1

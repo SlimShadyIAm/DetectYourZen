@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate
+0,e8205b3487d3a6ad817fbdc268f62359c2297ee5,junyanz,junyanz@berkeley.edu,2017-04-18T04:44-07:00,junyanz,junyanz@berkeley.edu,2017-04-18T04:44-07:00,0,31,0,46,10,152659,6,16,294,0,4322,14

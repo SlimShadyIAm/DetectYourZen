@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,FileMeta.loc,counters.Yield
+0,b2fac92b27dea18cf1ab8438c981b3537fa9ad06,Alex J. Champandard,alexjc@aigamedev.com,2016-05-13T18:22+02:00,Alex J. Champandard,alexjc@aigamedev.com,2016-05-13T18:22+02:00,0,3,34849,10,9,4,26,658,1

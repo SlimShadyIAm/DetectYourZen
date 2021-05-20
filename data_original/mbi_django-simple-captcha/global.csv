@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
+0,c30c73ec9f23fc5cdb0439bdee684bb738d252ae,Marco Bonetti,marco@cruncher.ch,2018-02-12T10:37+01:00,Marco Bonetti,marco@cruncher.ch,2018-02-12T10:37+01:00,3,2,1,0,20,2,67123,8,1,2,98,0,4,1647

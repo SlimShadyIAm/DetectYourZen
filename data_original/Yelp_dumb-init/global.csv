@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,733264f7a4e2c0295db0fc7d2a54c31673aa9e0b,Chris Kuehl,ckuehl@ckuehl.me,2018-04-17T15:17-07:00,GitHub,noreply@github.com,2018-04-17T15:17-07:00,3,4,6,14,28542,1,1,58,1,827,7

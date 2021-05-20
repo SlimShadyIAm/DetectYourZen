@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,0b135829734ccb12401276defa66d0882be0b93f,Josh Junon,junon@zeit.co,2018-01-16T16:19+01:00,Josh Junon,junon@zeit.co,2018-01-16T16:19+01:00,1,1,0,9,3,22817,7,50,0,824

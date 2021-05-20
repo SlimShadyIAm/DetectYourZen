@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,6b326d79fe07fc5e90d48bb67fb834f76253b028,Gael Pasgrimaud,gael@gawel.org,2018-03-30T21:05+02:00,GitHub,noreply@github.com,2018-03-30T21:05+02:00,2,2,9,12,0,28,129990,15,9,2,236,1,21,4053,10,3

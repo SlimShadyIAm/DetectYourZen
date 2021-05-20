@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
+0,528e94d613083425fcd7c056b655d92909abe1a4,Hubert Kario,hkario@redhat.com,2017-11-21T01:33+01:00,GitHub,noreply@github.com,2017-11-21T01:33+01:00,37,10,1,1,0,15,6,114596,5,7,62,6,1,2926

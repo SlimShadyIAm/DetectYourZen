@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.filter
+0,340421f852c190a0b473d395f1a6db5cca52dcb6,Ryan Henderson,hendersonry@gmail.com,2017-07-10T16:38+02:00,GitHub,noreply@github.com,2017-07-10T16:38+02:00,4,5,7,77372,6,1,71,7,7,1922,6,1

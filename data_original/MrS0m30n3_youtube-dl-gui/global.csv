@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,57eb51ccc8e2df4e8c766b31d677513adb5c86cb,MrS0m30n3,ytubedlg@gmail.com,2018-01-16T18:57+02:00,GitHub,noreply@github.com,2018-01-16T18:57+02:00,7,2,0,62,6,263727,23,2,492,1,0,5,7942,6

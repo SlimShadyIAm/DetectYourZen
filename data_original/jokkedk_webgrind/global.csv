@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.Yield
+0,5d0ab07a64246721c7e40e6de59b6887de493398,Alpha,alpha0010@users.noreply.github.com,2018-04-12T14:23-04:00,GitHub,noreply@github.com,2018-04-12T14:23-04:00,1,1,14,0,28,101348,2,2,201,2,3185,1

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,edae0854bf899238e37d088bfc671e73ababbd89,pyup.io bot,github-bot@pyup.io,2018-04-18T16:56+02:00,Wan Liuyang,tsfdye@gmail.com,2018-04-18T22:56+08:00,0,1,0,25,8,56783,1,2,65,0,1720

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.Counter,counters.defaultdict,counters.DictCompargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
+0,14b48c72854f0ac67f5c465e11ba3c13980d8afe,tylerlaberge,tylerlaberge@gmail.com,2017-10-21T14:30-04:00,GitHub,noreply@github.com,2017-10-21T14:30-04:00,2,1,1,36,22,0,132,6,88742,2,287,1,0,22,2937

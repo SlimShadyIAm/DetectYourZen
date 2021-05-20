@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,counters.classmethod,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate
+0,1722e99554f217d72cf82ef7b35e57888fc3c67f,Andy Pohl,apohl@morgridge.org,2018-04-18T19:06-05:00,Ben Letham,bletham@gmail.com,2018-04-18T17:06-07:00,1,1,1,6,9,99288,4,1,6,80,5,6,2633,3,4

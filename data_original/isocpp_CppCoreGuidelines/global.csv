@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,d49c720e98a914de4a21e6b8618dd4102c0a0139,Ian Hattendorf,ian@ianhattendorf.com,2018-04-17T16:26-07:00,Jonathan Wakely,github@kayari.org,2018-04-20T16:12+01:00,4,0,12,5,258674,7,179,1,1,6720,2

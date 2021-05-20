@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.izip_longest,counters.enumerate,counters.filter
+0,7a4322b5068de3426e8efee464b7f2c9e6cc2a47,Emre Yılmaz,hello@emre.sh,2017-07-21T09:19+03:00,GitHub,noreply@github.com,2017-07-21T09:19+03:00,2,1,0,8,12,61843,1,101,0,1930,1,3,1

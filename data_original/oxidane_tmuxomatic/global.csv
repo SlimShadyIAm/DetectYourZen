@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.filter
+0,5ea10f383702c4d8e864889f0f66f4da388c5877,oxidane,oxidane@gmx.com,2016-04-25T22:21-04:00,oxidane,oxidane@gmx.com,2016-04-25T22:21-04:00,12,2,0,26,296833,38,9,240,21,0,21,5584,28,1

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.map,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc
+0,6303ace670c2d2a1e1bbd9f86e378f854f347e59,Steven Black,steveb@stevenblack.com,2018-04-19T14:43-04:00,Steven Black,steveb@stevenblack.com,2018-04-19T14:43-04:00,2,33,73,123876,4,1,185,2,4,3690

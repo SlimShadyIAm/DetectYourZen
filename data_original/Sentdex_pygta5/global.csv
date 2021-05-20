@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.Counter,NestedFunctionCount.n,counters.deque,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.enumerate
+0,efdd66841ff909a027a42ebb48facbd63670e281,Harrison,Harrison@sentdex.com,2017-08-20T17:18-05:00,GitHub,noreply@github.com,2017-08-20T17:18-05:00,2,3,12,48,1,309043,16,216,7803,6

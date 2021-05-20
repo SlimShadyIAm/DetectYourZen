@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc
+0,8ddc844b03042faf4875d465580ad122f9292978,Aaron Swartz,me@aaronsw.com,2012-11-27T09:12-08:00,Aaron Swartz,me@aaronsw.com,2012-11-27T09:12-08:00,0,1,36637,2,52,1073

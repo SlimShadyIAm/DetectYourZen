@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield,counters.filter
+0,49a892d9e6f57ab3a774c0835fa563c77cf6a7a7,Fredrik Fornwall,fredrik@fornwall.net,2018-04-08T23:46+02:00,Marcin Kulik,17589+sickill@users.noreply.github.com,2018-04-09T08:57+02:00,1,1,14,0,36,17,54251,2,3,160,0,12,1750,17,1

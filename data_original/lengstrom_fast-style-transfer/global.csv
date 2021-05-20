@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,counters.GeneratorExpargs,NestedFunctionCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Yield
+0,c75d01f2324ad5949db23542c3a5e7493db319e5,Logan Engstrom,engstrom@mit.edu,2018-03-28T00:13-04:00,GitHub,noreply@github.com,2018-03-28T00:13-04:00,2,1,1,4,28199,6,1,1,33,743,4,1

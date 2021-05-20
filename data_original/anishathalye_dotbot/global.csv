@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,2f4cc0d9cb70235e7c5820dc4e7dd89b1d375fb5,Anish Athalye,me@anishathalye.com,2018-04-13T08:49-04:00,Anish Athalye,me@anishathalye.com,2018-04-13T08:49-04:00,1,2,0,14,2,24179,1,54,0,654

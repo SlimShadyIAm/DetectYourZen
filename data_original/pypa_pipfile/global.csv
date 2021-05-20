@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
+0,04c2616b5fe90f35ef169635e82d332e363f1059,Daniel van Flymen,vanflymen@gmail.com,2018-03-20T08:15-04:00,Kenneth Reitz,me@kennethreitz.org,2018-03-20T08:15-04:00,1,0,1,0,3,6,14869,1,17,2,0,5,478

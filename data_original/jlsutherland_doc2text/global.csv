@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc
+0,5405563037b42ffad5faa757c8534ecf499001fd,Joe Sutherland,jls124@icloud.com,2016-09-05T15:14-04:00,Joe Sutherland,jls124@icloud.com,2016-09-05T15:14-04:00,1,2,2,15491,1,31,506

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc
+0,ad7802f1c47e5c31a8e7dfedb3577e6c7d04844a,Daniel Roesler,diafygi@gmail.com,2018-03-17T17:04-07:00,GitHub,noreply@github.com,2018-03-17T17:04-07:00,1,3,1,24843,1,30,549

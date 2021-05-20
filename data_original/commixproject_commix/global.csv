@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate,counters.Yield
+0,21ae36e03b916672e0108205b52abd404bf880d9,stasinopoulos,an.stasinopoulos@gmail.com,2018-04-20T07:48+03:00,stasinopoulos,an.stasinopoulos@gmail.com,2018-04-20T07:48+03:00,163,20,23,2,38,29,1055484,30,4,3,558,2,26253,1,6

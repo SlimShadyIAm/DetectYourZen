@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,FileMeta.bytes,counters.ListComp,FileMeta.loc
+0,1aab097950cd17858da7018f90305393718446ea,Graham Ullrich,graham@flyingcracker.com,2018-03-24T16:37-06:00,GitHub,noreply@github.com,2018-03-24T16:37-06:00,0,3042,1,112

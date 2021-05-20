@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody
+0,7590f24d948071a03a41fd991807da1f11eede5e,Max Braun,max.braun@gmail.com,2017-07-01T00:10Z,Max Braun,max.braun@gmail.com,2017-07-01T00:10Z,1,6,113460,3,137,4,3065,4

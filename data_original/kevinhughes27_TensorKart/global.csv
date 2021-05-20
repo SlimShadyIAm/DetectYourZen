@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.map,MethodCount.n,counters.Namedecorator_list,FileMeta.loc
+0,a64999e0b81ce9e2e54594b55d9a355cad11a1a7,Brian Zier,zier.brian@gmail.com,2018-03-22T10:44-07:00,Kevin Hughes,kevinhughes27@gmail.com,2018-03-22T15:57-05:00,0,6,18011,1,25,1,605

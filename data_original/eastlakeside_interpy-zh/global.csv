@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield,counters.filter
+0,2e39ec4d5f495add5432d4570b0afe0bb516c5cf,Matt Su,deqi.su@gmail.com,2018-02-22T11:08+08:00,GitHub,noreply@github.com,2018-02-22T11:08+08:00,1,8,3,0,5,5,9574,2,3,2,72,0,5,480,1,4,1

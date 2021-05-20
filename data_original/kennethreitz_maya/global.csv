@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,3c8fe4478ce98182b2707c6406564d3fcbcdd568,Timo Furrer,tuxtimo@gmail.com,2018-04-17T17:58+02:00,GitHub,noreply@github.com,2018-04-17T17:58+02:00,6,7,24,0,4,31,60475,7,1,165,5,4,33,2071,6
