@@ -18,7 +18,7 @@ object NewPythonicAnalysisSuite extends AnalysisSuite {
       NestedFunctionAnalysis,
       MethodCountAnalysis,
       ClassCountAnalysis,
-      DecoratorAnalysis
+      NewDecoratorAnalysis
     ),
     List(
       NestedFunctionCountAnalysis

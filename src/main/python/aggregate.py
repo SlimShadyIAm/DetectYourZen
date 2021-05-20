@@ -33,6 +33,7 @@ idioms = OrderedDict([
     ("collections.Counter",        [0, 1, "counters.Counter", "counter"]),
     ("@classmethod",               [0, 1, "counters.classmethod", "classmethod"]),
     ("@staticmethod",              [0, 1, "counters.staticmethod", "staticmethod"]),
+    ("@property",              [0, 1, "counters.property", "property"]),
     ("zip",                        [1, 1, "counters.zip", "zip"]),
     ("itertools",                  [1, 1, "itertools", "itertools"]),
     ("functools.total\\_ordering,", [0, 1, "counters.total_ordering", "ordering"]),
