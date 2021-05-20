@@ -9,7 +9,7 @@ import java.io.File
 import scala.io.Source
 import java.io.PrintWriter
 
-object Crawler extends App with CSVStats {
+object CrawlerOrig extends App with CSVStats {
 
   val datadir = args(0)
 

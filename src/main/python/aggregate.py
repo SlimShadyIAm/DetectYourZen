@@ -36,6 +36,7 @@ idioms = OrderedDict([
     ("zip",                        [1, 1, "counters.zip", "zip"]),
     ("itertools",                  [1, 1, "itertools", "itertools"]),
     ("functools.total\\_ordering,", [0, 1, "counters.total_ordering", "ordering"]),
+    ("\_\_repr\_\_ and \_\_str\_\_", [0, 1, "ReprStrs.level1", "reprstr"]),
 ])
 itertools = [
   "counters.izip_longest",
@@ -88,28 +89,38 @@ for header in sorted(headers):
     idiomStats[header] = stats
 
 if args.tex:
+    print("\\begin{center}")
+    print("\\begin{tabular}{||c c c||}")
+    print("\hline\hline Idiom & Projects & Use Count \\\\ [0.5ex]")
+    print("\hline\hline")
     for name, meta in idioms.items():
-        stats = idiomStats[meta[2]]
-        # Idioms without a description
-        if not meta[3]:
-            print("\\textbf{%s} %s %s & \\np{%d} & \\np{%d} \\\\" %
-              (name,
-              tag_perf if meta[0] else "",
-              tag_read if meta[1] else "",
-              stats["present"],
-              stats["count"])
-            )
-        # All others
-        else:
-            print("\\textbf{%s} %s %s & \\np{%d} & \\np{%d} \\\\ \\multicolumn{3}{p{8cm}}{\idiom{%s}\\vspace{1mm}} \\\\" %
-              (name,
-              tag_perf if meta[0] else "",
-              tag_read if meta[1] else "",
-              stats["present"],
-              stats["count"],
-              meta[3])
-            )
-
+        stats = idiomStats.get(meta[2])
+        if stats is not None:
+            # Idioms without a description
+            if not meta[3]:
+                # print("\\textbf{%s} %s %s & \\np{%d} & \\np{%d} \\\\" %
+                print("\\textbf{%s} & \\textbf{%d} & \\textbf{%d} \\\\" %
+                (name,
+                # tag_perf if meta[0] else "",
+                # tag_read if meta[1] else "",
+                stats["present"],
+                stats["count"])
+                )
+            # All others
+            else:
+                # print("\\textbf{%s} & \\np{%d} & \\np{%d} \\\\ \\multicolumn{3}{p{8cm}}{\idiom{%s}\\vspace{1mm}} \\\\" %
+                print("\\textbf{%s} & \\textbf{%d} & \\textbf{%d} \\\\ " %
+                (name,
+                # tag_perf if meta[0] else "",
+                # tag_read if meta[1] else "",
+                stats["present"],
+                stats["count"],
+                # meta[3])
+                )
+                )
+    print("\hline\hline")
+    print("\end{tabular}")
+    print("\end{center}")
 if args.stdout:
     import pprint
     pp = pprint.PrettyPrinter(depth=6)
