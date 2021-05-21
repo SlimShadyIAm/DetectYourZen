@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.Exprfinalbody,counters.enumerate,counters.filter
+0,d34fac681487541e4be07e6978e0db233faf8252,Andy Dustman,farcepest@gmail.com,2014-01-02T10:42-08:00,Andy Dustman,farcepest@gmail.com,2014-01-02T10:42-08:00,2,24,7,0,30,127389,20,2,1,212,0,3965,26,2,5

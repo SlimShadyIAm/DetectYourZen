@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc
+0,6651cfad771f72521c78a5cc3a23a2313efeaa88,Ben,bstriner@users.noreply.github.com,2018-01-30T12:32-05:00,GitHub,noreply@github.com,2018-01-30T12:32-05:00,6,11,7,77377,11,6,9,120,4,2037

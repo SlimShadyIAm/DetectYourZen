@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.DictCompargs,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate
+0,948b1a7f1ed4ec7e27930ad8e027a740db3fe25e,rsheeter,rsheeter@google.com,2021-05-10T20:30-07:00,GitHub,noreply@github.com,2021-05-10T20:30-07:00,1,23,14,2,0,16,11,172715,15,1,1,237,0,5128,6

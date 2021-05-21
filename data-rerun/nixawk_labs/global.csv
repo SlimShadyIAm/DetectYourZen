@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.filter
+0,ce800ddc00a8bbf716afe754a1e81e58570b8c50,Nixawk,hap.ddup@gmail.com,2018-11-02T23:15+08:00,Nixawk,hap.ddup@gmail.com,2018-11-02T23:15+08:00,2,3,1,0,3,8,120756,6,2,3,99,0,2,3371,2,1

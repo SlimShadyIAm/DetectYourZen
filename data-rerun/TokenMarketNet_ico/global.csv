@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.Counter,counters.defaultdict,counters.OrderedDict,counters.GeneratorExpargs,counters.namedtuple,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,FileMeta.loc,counters.enumerate,counters.filter
+0,8892e85d1c75994871a0fa14eb8c03016db39d88,Ville Sundell,development@solarius.fi,2019-09-16T12:20+03:00,GitHub,noreply@github.com,2019-09-16T12:20+03:00,1,1,2,1,1,2,6,137,411435,8,2,538,10604,7,2

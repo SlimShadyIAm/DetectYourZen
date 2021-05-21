@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,counters.map,MethodCount.n,FileMeta.loc,counters.enumerate
+0,36717f1b18e6dc6c423d1601a41d39030f304749,Riwei Chen,riwei.chen@outlook.com,2016-09-11T17:09+08:00,Riwei Chen,riwei.chen@outlook.com,2016-09-11T17:09+08:00,0,1,7,88726,3,1,1,1,70,2222,2

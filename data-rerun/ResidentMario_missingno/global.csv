@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,FileMeta.loc,counters.enumerate,counters.filter
+0,8c31763be6474e9c52c798fa9831f063a1ee74bf,Max Mahlke,19716714+maxmahlke@users.noreply.github.com,2021-04-27T18:05+02:00,GitHub,noreply@github.com,2021-04-27T12:05-04:00,0,7,34597,1,4,40,841,1,7

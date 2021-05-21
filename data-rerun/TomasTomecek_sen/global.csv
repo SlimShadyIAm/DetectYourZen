@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,56fed9e4c137a4f884bf27029ca2c57750e659f5,Tomas Tomecek,tomas@tomecek.net,2021-05-18T11:23+02:00,GitHub,noreply@github.com,2021-05-18T11:23+02:00,4,19,19,0,122,19,223267,24,1,427,1,3,106,7184,6,2

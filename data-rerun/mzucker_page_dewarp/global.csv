@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,FileMeta.loc,counters.enumerate
+0,d3257d7b564bff994187a872d00537bc2fda7d3d,Matt Zucker,mzucker1@swarthmore.edu,2016-10-02T10:32-04:00,Matt Zucker,mzucker1@swarthmore.edu,2016-10-02T10:32-04:00,2,1,27090,4,1,36,959,6

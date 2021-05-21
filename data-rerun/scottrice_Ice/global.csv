@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.filter
+0,e78d046abfd6006b1a81d1cbdb516b7c3e141ac9,Scott Rice,srice@fb.com,2016-04-08T23:49-07:00,Scott Rice,srice@fb.com,2016-04-08T23:58-07:00,8,10,0,61,38,143437,2,15,21,385,2,0,2,4245,11

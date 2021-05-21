@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,017ad7536fec062820d40fc87de015cbec88bd89,mattya,e.mattya@gmail.com,2016-03-14T20:54+09:00,mattya,e.mattya@gmail.com,2016-03-14T20:54+09:00,0,3,0,4,10358,16,0,335

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,4c57f1bfdb4b87183ef4adea30e90dce86fde2fa,hustcc,vip@hust.edu.cn,2017-03-04T23:51+08:00,GitHub,noreply@github.com,2017-03-04T23:51+08:00,12,2,0,12,14,56166,5,5,127,0,1,1916,5

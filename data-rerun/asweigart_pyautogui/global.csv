@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.namedtuple,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,eb30f07ee64f76c1201f4f477fb66d1d183709f9,Al Sweigart,asweigart@gmail.com,2021-04-18T00:05-05:00,Al Sweigart,asweigart@gmail.com,2021-04-18T00:05-05:00,1,4,7,0,21,31,171710,1,158,5,28,4555,1

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Yield
+0,3ff3be4b4b2fa338b18e469888b6f0b7a1b2db48,Erik Linder-Norén,eriklindernoren@live.se,2021-01-06T17:32+01:00,GitHub,noreply@github.com,2021-01-06T17:32+01:00,18,27,3,171552,2,1,171,4843,7,3

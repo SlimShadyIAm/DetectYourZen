@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.namedtuple,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,da14f024647d918f2acf1c9e773f20d752190749,Anthony,pyskell@users.noreply.github.com,2019-11-05T17:01-05:00,GitHub,noreply@github.com,2019-11-05T17:01-05:00,1,0,2,0,3,17822,18,0,520

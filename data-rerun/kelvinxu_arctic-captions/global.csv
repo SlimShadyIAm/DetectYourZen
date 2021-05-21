@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.OrderedDict,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate
+0,f4565bfeba9098f54ce9c2495c55aa411fba39b0,Kelvin Xu,xukelvin@frontal06.iro.umontreal.ca,2016-01-08T11:53-05:00,Kelvin Xu,xukelvin@frontal06.iro.umontreal.ca,2016-01-08T11:53-05:00,3,5,1,0,1,16,83598,31,20,1,56,0,2165,11

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,counters.namedtuple,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.Exprfinalbody,counters.enumerate
+0,85c6365235229c16591fde02806805f47dbe510d,hiroyuki-komatsu,komatsu@google.com,2020-12-02T17:06+09:00,GitHub,noreply@github.com,2020-12-02T17:06+09:00,2,2,3,2,0,13,15,45774,2,61,0,1396,1,5

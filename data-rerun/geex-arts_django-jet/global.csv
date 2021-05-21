@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.OrderedDict,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield,counters.filter
+0,06ab6436d8add9aafcf771df40358409564e6bcb,Denis Kildishev,f1nal@cgaming.org,2019-05-21T13:57+03:00,GitHub,noreply@github.com,2019-05-21T13:57+03:00,2,5,11,0,102,178161,5,14,11,298,2,1,27,5082,2,5

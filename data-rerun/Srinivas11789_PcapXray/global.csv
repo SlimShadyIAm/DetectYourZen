@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.Lambdaargs,counters.map,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.filter
+0,dc2bd65e94b2031b9203ed68e549110f46f9cd9c,Srinivas P G,spg349@nyu.edu,2020-08-05T00:50-07:00,GitHub,noreply@github.com,2020-08-05T00:50-07:00,0,20,131130,1,1,107,4,4,2815,5

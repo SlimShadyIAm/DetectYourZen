@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.filter
+0,b8375442a70f60d76f9c80993fcaaafbf7a745b9,Adam Waldenberg,adam.waldenberg@ejwa.se,2020-10-19T11:24+02:00,Adam Waldenberg,adam.waldenberg@ejwa.se,2020-10-19T11:24+02:00,8,2,1,0,28,124961,1,172,19,3,19,3311,13,5

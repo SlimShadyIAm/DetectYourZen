@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,7f69140fbea14049495ca441e53c3f4f2b64a23b,ring04h,ring04h@gmail.com,2017-06-26T17:05+08:00,GitHub,noreply@github.com,2017-06-26T17:05+08:00,0,4,0,16,4,43697,89,11,0,12,1310,2,5

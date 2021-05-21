@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,1c4e68d02badf9ece2ed765d7ba7fffb8dd57fc9,jacobsin,jayrad.security@protonmail.com,2019-04-23T00:25-06:00,jacobsin,jayrad.security@protonmail.com,2019-04-23T00:25-06:00,1,7,0,5,27761,3,51,0,905

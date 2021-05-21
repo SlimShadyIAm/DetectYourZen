@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,MethodCount.n,FileMeta.loc,counters.enumerate
+0,0ab31017249fe5ef32e0b9027bb5b3196bd47a60,Siraj,sirajravel@gmail.com,2017-08-23T23:52+02:00,GitHub,noreply@github.com,2017-08-23T23:52+02:00,1,1,10,34741,16,1,2,21,802,2

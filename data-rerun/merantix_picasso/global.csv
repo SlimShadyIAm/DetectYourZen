@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.DictCompargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield,counters.filter
+0,d276b9b7408dd1032fe0ccb84ea9b6604a32915e,Jan Steinke,jan.steinke@gmail.com,2018-03-12T10:29+01:00,Ryan Henderson,hendersonry@gmail.com,2018-03-12T10:29+01:00,1,2,17,10,86878,8,1,92,2,12,2445,6,1,1

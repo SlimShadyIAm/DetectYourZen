@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,2849eb0d6cff036fd9e63c3fe19a9b493bec0b19,Jay Lee,jay0lee@gmail.com,2021-04-26T09:53-04:00,Jay Lee,jay0lee@gmail.com,2021-04-26T09:53-04:00,4,4,1,0,6,6,115028,3,79,0,3127

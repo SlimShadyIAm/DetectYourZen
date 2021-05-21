@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.Lambdaargs,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate
+0,d76adb041a4968906bf22575fee7a572596e5796,Lucas Stadler,lu@papill0n.org,2017-10-05T18:24+02:00,GitHub,noreply@github.com,2017-10-05T18:24+02:00,17,17,0,154,12,301323,5,2,1108,7,0,20,10196,4,5

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
+0,4cf9dd75c9117c0ddc69244dfa5bcbdec8d16ab0,Nikita Titov,nekit94-12@hotmail.com,2021-05-20T13:34+03:00,GitHub,noreply@github.com,2021-05-20T12:34+02:00,5,6,0,50,3,212859,3,5,320,0,3,6675

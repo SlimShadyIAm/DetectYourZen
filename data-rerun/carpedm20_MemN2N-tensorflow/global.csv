@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.Counter,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,FileMeta.loc
+0,f8f4da4ca1b3a4afa764748a6907e79ab2be1ffd,Taehoon Kim,carpedm20@gmail.com,2017-03-14T10:33+09:00,GitHub,noreply@github.com,2017-03-14T10:33+09:00,1,0,2,3,12435,1,1,9,337

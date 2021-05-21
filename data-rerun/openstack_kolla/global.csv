@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate,counters.Yield
+0,a80de4a7926ab9188191505a86c24fe6db3fbb75,Zuul,zuul@review.opendev.org,2021-05-21T09:42Z,Gerrit Code Review,review@openstack.org,2021-05-21T09:42Z,1,7,2,0,35,25,231572,7,227,0,8,6105,1,1,8

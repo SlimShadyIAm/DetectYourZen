@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.OrderedDict,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,FileMeta.loc,counters.enumerate
+0,1c9618889fb89500cc5e70c45c27859b89d44449,Julien Chaumond,chaumond@gmail.com,2018-01-01T14:55-05:00,Guillaume Lample,guismay@fb.com,2018-01-01T20:55+01:00,1,5,5,6,5,57468,30,11,54,1673,9

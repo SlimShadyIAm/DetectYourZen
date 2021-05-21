@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,4caba8f042f1d87ec0b41ec8e14d3a458a7409a4,Achilles Rasquinha,achillesrasquinha@gmail.com,2017-03-19T13:12+05:30,Achilles Rasquinha,achillesrasquinha@gmail.com,2017-03-19T13:12+05:30,0,1,0,18,5,37739,1,2,54,1,0,3,1162,2

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,91441fe4002fb6ebdb4aa5e33826230d8df560d0,dotcs,git@dotcs.me,2020-09-16T17:51+02:00,fernando,fmfnogueira@gmail.com,2020-12-18T20:11-05:00,11,8,3,0,18,24,69343,2,5,1,2,157,3,0,26,2281,4

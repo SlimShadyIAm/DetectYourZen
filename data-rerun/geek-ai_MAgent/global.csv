@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,b1fce2799bacd1d29f4a14b3196abc56425a6e6b,Lianmin Zheng,lianminzheng@gmail.com,2020-05-27T17:09-07:00,GitHub,noreply@github.com,2020-05-27T17:09-07:00,14,9,0,35,16,306553,92,14,4,322,1,1,11,8784,8

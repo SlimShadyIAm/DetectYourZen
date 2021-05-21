@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,FileMeta.loc,counters.enumerate
+0,fddc129da9692d7a2002d0df5baf142eae3b722b,Massimiliano Patacchiola,massimiliano.patacchiola@gmail.com,2020-04-30T20:26+01:00,GitHub,noreply@github.com,2020-04-30T20:26+01:00,11,17,29,369566,1,1,142,7759,1

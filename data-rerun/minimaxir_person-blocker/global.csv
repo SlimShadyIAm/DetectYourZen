@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.OrderedDict,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,counters.map,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield,counters.filter
+0,82cc1bab629ff9faf610861bf94660d0131c38ec,Max Woolf,max@minimaxir.com,2018-04-01T22:27-07:00,GitHub,noreply@github.com,2018-04-01T22:27-07:00,2,3,11,6,188408,10,9,24,1,124,1,4597,9,1,3

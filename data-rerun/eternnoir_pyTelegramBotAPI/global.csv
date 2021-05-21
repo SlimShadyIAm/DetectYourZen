@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,742f67c85b06076d0d164d812b60cac1bb5eafc0,Badiboy,badialex@gmail.com,2021-05-20T12:07+03:00,GitHub,noreply@github.com,2021-05-20T12:07+03:00,50,35,2,0,108,5,377833,12,9,783,7,0,60,8980,1,1

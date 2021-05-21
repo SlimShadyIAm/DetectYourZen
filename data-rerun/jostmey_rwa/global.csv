@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,41d73d0bd9ffba71ea5ead5b3de2704dacbe531d,Jared Ostmeyer,jostmey@gmail.com,2020-02-24T16:07-06:00,GitHub,noreply@github.com,2020-02-24T16:07-06:00,0,22,26,182460,2,64,8,5730,2

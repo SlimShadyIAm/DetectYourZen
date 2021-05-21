@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Yield
+0,2c7d132238ff89ca6a2350fa787c940e083a54cb,Randy Lai,randy.cs.lai@gmail.com,2019-03-18T20:23-04:00,GitHub,noreply@github.com,2019-03-18T20:23-04:00,2,0,13,24069,4,5,1,64,741,3,5

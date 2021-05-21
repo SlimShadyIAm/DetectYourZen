@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,counters.OrderedDict,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,49a0050cb59988713b470947292cd27a9fa7a48f,Mikko Ohtamaa,mikko@opensourcehacker.com,2014-10-06T09:07+02:00,Mikko Ohtamaa,mikko@opensourcehacker.com,2014-10-06T09:07+02:00,2,2,6,18,64372,1,97,2,7,2194,1,2

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,bf2ba1dbd4ccfcbf8debb341adffdd953bb60f6c,Jace Browning,jacebrowning@gmail.com,2021-05-14T14:11-04:00,GitHub,noreply@github.com,2021-05-14T14:11-04:00,11,4,0,51,50,73599,12,177,1,1,18,2065,1

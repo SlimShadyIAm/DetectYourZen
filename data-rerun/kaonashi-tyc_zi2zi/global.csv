@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.namedtuple,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,FileMeta.loc,counters.Exprfinalbody,counters.enumerate,counters.Yield,counters.filter
+0,546025f59690b7c7c85de0146aba6f24f26f6b9d,Yuchen Tian,ytian@flipboard.com,2019-08-08T21:02-07:00,GitHub,noreply@github.com,2019-08-08T21:02-07:00,4,5,5,15,59444,11,3,65,1237,1,2,5,4

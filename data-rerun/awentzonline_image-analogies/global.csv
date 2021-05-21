@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,066626149ccb96b0a0488ca7ea4fc992aa62b727,Adam Wentz,adam.wentz@dollarshaveclub.com,2016-12-03T18:48-08:00,Adam Wentz,adam.wentz@dollarshaveclub.com,2016-12-03T18:48-08:00,0,1,0,8,55086,4,3,61,0,1230

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.Lambdaargs,MethodCount.n,FileMeta.loc,counters.enumerate
+0,db1db2b1f95973afca907889581dd79befebad74,damien clochard,damien@dalibo.info,2020-02-04T11:41+01:00,GitHub,noreply@github.com,2020-02-04T11:41+01:00,0,4,4,110310,2,83,3208,1

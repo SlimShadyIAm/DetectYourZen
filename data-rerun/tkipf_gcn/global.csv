@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.DictCompargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,39a4089fe72ad9f055ed6fdb9746abdcfebc4d81,Thomas Kipf,tkipf@users.noreply.github.com,2020-09-26T22:16+02:00,GitHub,noreply@github.com,2020-09-26T22:16+02:00,1,2,1,0,6,5,24718,47,0,708

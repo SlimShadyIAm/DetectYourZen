@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate
+0,297f2afc2095acd97c12e827dd500e8ea5da0c0f,Ross Taylor,rj-taylor@live.co.uk,2018-12-16T15:30Z,GitHub,noreply@github.com,2018-12-16T15:30Z,2,51,12,0,68,5,1804716,104,2,2613,151,0,151,47735,1,34

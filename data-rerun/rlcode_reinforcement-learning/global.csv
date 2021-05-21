@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,NestedFunctionCount.n,counters.deque,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,2fe6984da684c3f64a8d09d1718dbac9330aecea,Chanwoong joo,jcwleo@naver.com,2017-11-28T17:19+09:00,GitHub,noreply@github.com,2017-11-28T17:19+09:00,3,0,6,34,173546,20,4,258,6,6,4896,5

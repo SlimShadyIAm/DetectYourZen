@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,24d2a60c2ae8d64973bc4dd52abddbf23dca55b6,Chen Zhiwei,zhiweik@gmail.com,2021-01-21T09:08+08:00,Chen Zhiwei,zhiweik@gmail.com,2021-01-21T09:08+08:00,1,43,0,88,82426,7,1,1,273,5,0,5,2318,1,1

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,counters.map,MethodCount.n,FileMeta.loc,counters.enumerate,counters.filter
+0,8ef6acf37cc92da6684b290c501c64708377e78c,Dobiasd,harry@daiw.de,2016-07-07T13:02+02:00,Dobiasd,harry@daiw.de,2016-07-07T13:02+02:00,1,4,28131,4,4,5,7,40,866,2,5

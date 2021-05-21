@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate,counters.Yield
+0,ee12b2d15a3856794b8dae77d1eb263c67c36e47,alec,alec.radford@gmail.com,2016-05-17T20:29-04:00,alec,alec.radford@gmail.com,2016-05-17T20:29-04:00,2,30,0,31,52806,20,9,1,126,0,1650,5,2

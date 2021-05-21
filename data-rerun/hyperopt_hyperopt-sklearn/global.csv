@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,counters.map,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Yield
+0,7f4925c9e3ba8cd076fe00ee3a90bb120eec32b1,Markus Mächler,markus.maechler@bithost.ch,2021-01-01T15:25+01:00,Brent Komer,brent.komer@gmail.com,2021-03-16T17:30-04:00,1,43,11,1,142649,5,3,2,3,266,4089,1,1

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,40538ae5ffee793c98355b2c03c30130aed51932,Chris Simpkins,chris@sourcefoundry.org,2020-09-19T13:07-04:00,GitHub,noreply@github.com,2020-09-19T13:07-04:00,0,1,0,5,9,61604,6,0,1283

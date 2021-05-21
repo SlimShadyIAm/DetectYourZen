@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.namedtuple,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield,counters.filter
+0,5119c0a81cb0e87974255dd29463a60b22916baa,Frost Ming,mianghong@gmail.com,2020-12-27T10:38+08:00,GitHub,noreply@github.com,2020-12-27T10:38+08:00,1,2,3,0,5,1,39160,4,1,1,84,1,1,7,1306,1,1

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.Yield
+0,be91eb810a3c354ab4ec43816b39e16b4f04640f,Dan McInerney,danhmcinerney@gmail.com,2018-10-24T12:13-06:00,Dan McInerney,danhmcinerney@gmail.com,2018-10-24T12:13-06:00,3,1,2,10,53468,3,74,1602,1

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,6f6feeef0767a75b3b968924727460eb09242d76,latyas,latyas@gmail.com,2019-02-15T04:01+08:00,GitHub,noreply@github.com,2019-02-15T04:01+08:00,8,1,0,6,2,81226,2,5,80,4,0,5,2468,1

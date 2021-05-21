@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,FileMeta.loc,counters.Exprfinalbody,counters.enumerate
+0,7992269af8dd3c9f5e9cd7637f24192d8332d1a4,moodyblue,hugo.castelobranco@gmail.com,2020-11-02T23:35Z,GitHub,noreply@github.com,2020-11-02T23:35Z,3,7,168256,2,1,2,126,4575,7,5

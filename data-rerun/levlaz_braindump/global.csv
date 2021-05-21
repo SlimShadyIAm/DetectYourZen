@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.filter
+0,9640dd03f99851dbd34dd6cac98a747a4a591b01,Lev Lazinskiy,lev@levlaz.org,2017-01-17T23:21-08:00,GitHub,noreply@github.com,2017-01-17T23:21-08:00,3,1,41,8,79390,2,7,4,162,6,38,2454,1,3

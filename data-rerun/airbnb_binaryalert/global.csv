@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,a9c0f06affc35e1f8e45bb77f835b92350c68a0b,Ryxias,derek.wang@airbnb.com,2020-01-23T14:49-08:00,GitHub,noreply@github.com,2020-01-23T14:49-08:00,13,0,5,0,36,39,167973,4,2,221,15,0,37,3094,4,9

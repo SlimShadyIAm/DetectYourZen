@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.Exprfinalbody,counters.enumerate,counters.Yield
+0,9ab1e5fb795eb0a50bf05388c66ec4f0fc642b4c,Greg Neagle,gregneagle@mac.com,2021-05-04T10:51-07:00,Greg Neagle,gregneagle@mac.com,2021-05-04T10:51-07:00,4,10,20,1,77,2,946830,84,1,1,686,1,24341,3,1,1

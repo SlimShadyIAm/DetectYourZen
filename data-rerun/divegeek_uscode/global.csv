@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc
+0,1be569084f6be6ffec2185be9defb57535cbad20,Shawn Willden,shawn@willden.org,2017-05-02T09:15-06:00,GitHub,noreply@github.com,2017-05-02T09:15-06:00,0,2668,1,4,96

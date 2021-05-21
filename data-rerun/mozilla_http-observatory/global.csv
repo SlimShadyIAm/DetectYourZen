@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.DictCompargs,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,92641c6b8d982fb37088a7d7778c74af2776da5a,foxliz,76079958+foxliz@users.noreply.github.com,2021-03-30T13:51-07:00,GitHub,noreply@github.com,2021-03-30T13:51-07:00,1,7,4,20,23,234162,18,209,16,5267,1,1

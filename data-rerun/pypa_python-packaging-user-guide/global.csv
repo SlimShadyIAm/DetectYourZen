@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,FileMeta.bytes,MethodCount.n,FileMeta.loc
+0,5054b06f1fc4418682c6fa81026d33f4677f525a,Sviatoslav Sydorenko,webknjaz@redhat.com,2021-05-21T10:17+02:00,GitHub,noreply@github.com,2021-05-21T10:17+02:00,0,13508,2,441

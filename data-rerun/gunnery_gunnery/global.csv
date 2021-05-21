@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
+0,733a261cae6243a11883a40e18b14f57cf6e47b2,Paweł Olejniczak,pawel.olejniczak@gmail.com,2015-10-29T14:14+01:00,Paweł Olejniczak,pawel.olejniczak@gmail.com,2015-10-29T14:14+01:00,15,1,5,0,168,278089,1,14,363,16,2,40,6007

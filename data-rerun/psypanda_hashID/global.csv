@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.namedtuple,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,FileMeta.loc,counters.Yield
+0,7e8473a823060e56d4b6090a98591e252bd9505e,c0re,c0re@psypanda.org,2015-03-17T15:12+01:00,c0re,c0re@psypanda.org,2015-03-17T15:12+01:00,2,0,1,2,49674,6,928,1

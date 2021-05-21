@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,NestedFunctionCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,FileMeta.loc,counters.enumerate
+0,a42c760ef868bc115e596b56863dc25624d2e756,allanzelener,allanzelener@gmail.com,2017-07-01T12:25-07:00,GitHub,noreply@github.com,2017-07-01T12:25-07:00,1,0,15,75693,32,5,5,43,2041,7

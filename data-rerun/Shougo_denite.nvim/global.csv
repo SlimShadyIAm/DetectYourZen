@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate,counters.Yield,counters.filter
+0,fb8174a07c3a19091bfdbfc9439a15466d1649fa,Shougo Matsushita,Shougo.Matsu@gmail.com,2021-05-17T12:53+09:00,Shougo Matsushita,Shougo.Matsu@gmail.com,2021-05-17T12:53+09:00,5,4,83,6,260376,61,8,2,484,9,6606,1,5,10,8

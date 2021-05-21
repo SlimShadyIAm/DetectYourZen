@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,727ee7f08f77d8f0a0f085ec3dfbc58e09f69a4b,Kurt McKee,contactme@kurtmckee.org,2021-01-01T14:41-06:00,Kurt McKee,contactme@kurtmckee.org,2021-01-01T14:41-06:00,7,4,4,0,46,1,263130,19,371,11,1,11,7068,3,1

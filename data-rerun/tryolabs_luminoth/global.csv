@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.Counter,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate,counters.Yield
+0,9109d8b98bcbb0ad4e8e0c928da0b20627fa774f,Alan Descoins,dekked@gmail.com,2020-01-07T17:47-03:00,Alan Descoins,dekked@gmail.com,2020-01-07T17:53-03:00,1,9,9,54,101,629400,27,23,8,487,23,17491,3,18,9

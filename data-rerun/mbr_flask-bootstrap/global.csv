@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,FileMeta.loc
+0,3e2695bb36f29bf72befce86c9e63609c3016203,Marc Brinkmann,git@git.marcbrinkmann.de,2019-12-31T11:04+01:00,Marc Brinkmann,git@git.marcbrinkmann.de,2019-12-31T11:04+01:00,3,10,1,27022,55,841

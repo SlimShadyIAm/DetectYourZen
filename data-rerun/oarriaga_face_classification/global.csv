@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Yield
+0,b861d21b0e76ca5514cdeb5b56a689b7318584f4,Octavio Arriaga,octavio.arriaga@dfki.de,2020-10-29T08:11+01:00,GitHub,noreply@github.com,2020-10-29T08:11+01:00,1,2,1,71579,4,1,64,1889,2,2

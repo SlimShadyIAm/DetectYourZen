@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.Yield
+0,8bafa3c34683f3a817a52ec158e48c904eadef01,Jose Fonseca,jose.r.fonseca@gmail.com,2021-02-21T19:23Z,Jose Fonseca,jose.r.fonseca@gmail.com,2021-02-21T19:23Z,3,1,15,0,30,119211,4,2,214,2,3681,1

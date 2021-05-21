@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,b4a17c587ea506eb72b01f6df5e0eca8372e52bf,ifduyue,ifduyue@gmail.com,2021-02-28T20:25+08:00,ifduyue,ifduyue@gmail.com,2021-02-28T20:45+08:00,14,1,7,0,30,7,83330,2,1,141,3,0,22,2165,2,3

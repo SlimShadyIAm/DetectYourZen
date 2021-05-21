@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.namedtuple,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,5263e1cba96a0c4cb878ab16863baccd12618cae,Sam Sudar,sudar.sam@gmail.com,2021-01-07T21:01-08:00,Sam Sudar,sudar.sam@gmail.com,2021-01-07T21:01-08:00,4,8,1,0,2,10,119858,6,179,0,4024

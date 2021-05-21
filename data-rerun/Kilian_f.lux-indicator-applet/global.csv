@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,1cd1df4628f6e2f8063d33622db6d544a867a783,Kilian Valkhof,kilian@kilianvalkhof.com,2016-04-05T19:09+02:00,Kilian Valkhof,kilian@kilianvalkhof.com,2016-04-05T19:09+02:00,0,1,0,18,26258,85,0,752

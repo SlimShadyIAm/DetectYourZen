@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.DictCompargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate
+0,ccb9cc8cc2cc7021c67e7df4a70f96faab9553c5,Ryan Dahl,ry@tinyclouds.org,2018-03-07T12:15-05:00,Ryan Dahl,ry@tinyclouds.org,2018-03-07T12:19-05:00,1,2,3,0,4,28,100143,5,5,65,0,2804,1

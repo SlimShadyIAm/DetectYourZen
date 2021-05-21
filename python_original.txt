@@ -130,7 +130,6 @@ git://github.com/chibisov/drf-extensions.git
 git://github.com/chinuno-usami/CuteR.git
 git://github.com/chrippa/livestreamer.git
 git://github.com/chrischoy/3D-R2N2.git
-git://github.com/chrismsimpson/Metropolis.git
 git://github.com/chrissimpkins/codeface.git
 git://github.com/christabor/flask_jsondash.git
 git://github.com/ChrisTruncer/EyeWitness.git
@@ -249,7 +248,6 @@ git://github.com/django-tastypie/django-tastypie.git
 git://github.com/django-wiki/django-wiki.git
 git://github.com/dlitz/pycrypto.git
 git://github.com/Dman95/SASM.git
-git://github.com/dmulholland/ivy.git
 git://github.com/dnouri/skorch.git
 git://github.com/Dobiasd/programming-language-subreddits-and-their-choice-of-words.git
 git://github.com/docker/compose.git
@@ -497,7 +495,6 @@ git://github.com/justquick/django-activity-stream.git
 git://github.com/Just-Some-Bots/MusicBot.git
 git://github.com/jxtech/wechatpy.git
 git://github.com/kachayev/fn.py.git
-git://github.com/kamyu104/LeetCode.git
 git://github.com/kaonashi-tyc/zi2zi.git
 git://github.com/Kapeli/Dash-User-Contributions.git
 git://github.com/kbengine/kbengine.git
@@ -549,7 +546,6 @@ git://github.com/lingthio/Flask-User.git
 git://github.com/lining0806/PythonSpiderNotes.git
 git://github.com/litl/rauth.git
 git://github.com/liuwons/wxBot.git
-git://github.com/livid/v2ex.git
 git://github.com/llazzaro/django-scheduler.git
 git://github.com/llSourcell/tensorflow_chatbot.git
 git://github.com/llSourcell/YOLO_Object_Detection.git
@@ -568,7 +564,6 @@ git://github.com/lxml/lxml.git
 git://github.com/ly0/baidupcsapi.git
 git://github.com/lyft/confidant.git
 git://github.com/m0rtem/CloudFail.git
-git://github.com/m4ll0k/WAScan.git
 git://github.com/m4n3dw0lf/pythem.git
 git://github.com/machinalis/iepy.git
 git://github.com/maciejkula/spotlight.git
@@ -646,7 +641,6 @@ git://github.com/MTG/sms-tools.git
 git://github.com/munki/munki.git
 git://github.com/musalbas/heartbleed-masstest.git
 git://github.com/mvantellingen/python-zeep.git
-git://github.com/mwhite/resume.git
 git://github.com/mwrlabs/drozer.git
 git://github.com/mwrlabs/needle.git
 git://github.com/mypaint/mypaint.git
@@ -969,7 +963,6 @@ git://github.com/TheAlgorithms/Python.git
 git://github.com/Theano/Theano.git
 git://github.com/thearn/webcam-pulse-detector.git
 git://github.com/theupdateframework/tuf.git
-git://github.com/threerocks/studyFiles.git
 git://github.com/thtrieu/darkflow.git
 git://github.com/thumbor/thumbor.git
 git://github.com/TileStache/TileStache.git

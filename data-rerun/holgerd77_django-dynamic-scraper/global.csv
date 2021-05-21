@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,635bd6eaed0ed183652ca2a9f5ed8c8a6b35437b,Holger Drewes,Holger.Drewes@gmail.com,2020-10-13T10:24+02:00,GitHub,noreply@github.com,2020-10-13T10:24+02:00,3,0,11,0,101,320466,6,2,310,1,0,18,7400,11

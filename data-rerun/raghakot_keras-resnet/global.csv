@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,5e9bcca7e467f7baf3459d809ef16bb75e53f115,Triantafyllos Afouras,afourast@gmail.com,2017-07-05T20:00+01:00,Raghavendra Kotikalapudi,ragha@outlook.com,2017-07-05T12:00-07:00,5,1,14069,28,6,6,392,1

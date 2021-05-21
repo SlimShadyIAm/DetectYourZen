@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,29aa84f8d4aa945dbef6cf580593b435cc708e31,FoxMaSk,foxmask@protonmail.com,2020-05-01T14:07+02:00,FoxMaSk,foxmask@protonmail.com,2020-05-01T14:07+02:00,2,23,0,278,27,405209,5,564,32,0,33,11840,2
