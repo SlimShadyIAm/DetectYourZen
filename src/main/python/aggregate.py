@@ -30,7 +30,9 @@ idioms = OrderedDict([
     ("collections.defaultdict",    [1, 1, "counters.defaultdict", "defaultdict"]),
     ("collections.namedtuple",     [0, 1, "counters.namedtuple", "namedtuple"]),
     ("collections.deque",          [1, 1, "counters.deque", "deque"]),
+    ("heapq",          [1, 1, "counters.heapq", "heapq"]),
     ("collections.Counter",        [0, 1, "counters.Counter", "counter"]),
+    ("pprint.pprint",              [0, 1, "counters.pprint", "pprint"]),
     ("@classmethod",               [0, 1, "counters.classmethod", "classmethod"]),
     ("@staticmethod",              [0, 1, "counters.staticmethod", "staticmethod"]),
     ("@property",              [0, 1, "counters.property", "property"]),
@@ -38,6 +40,9 @@ idioms = OrderedDict([
     ("itertools",                  [1, 1, "itertools", "itertools"]),
     ("functools.total\\_ordering,", [0, 1, "counters.total_ordering", "ordering"]),
     ("\_\_repr\_\_ and \_\_str\_\_", [0, 1, "ReprStrs.level1", "reprstr"]),
+    ("pprint", [0, 1, "counters.pprint", "pprint"]),
+    ("format", [0, 1, "counters.format", "format"]),
+    ("join", [0, 1, "counters.join", "join"]),
 ])
 itertools = [
   "counters.izip_longest",

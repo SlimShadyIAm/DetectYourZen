@@ -6,9 +6,9 @@ import ch.uzh.ifi.seal.lisa.module.analysis.ChildCountHelper
 object NewCallNameCountersAnalysis extends Analysis with ChildCountHelper {
 
   final val callNames = List("namedtuple", "defaultdict", "OrderedDict", "zip",
-    "deque", "Counter", "enumerate", "filter", "map",
+    "deque", "Counter", "heapq", "enumerate", "filter", "map",
     "izip_longest", "zip_longest", "starmap", "tee",
-    "groupby")
+    "groupby", "pprint", "format", "assert", "join")
 
   case class CallNameCounters(persist: Boolean, counters: Map[String,Int]) extends Data {
     def this() = this(false, Map[String,Int]())

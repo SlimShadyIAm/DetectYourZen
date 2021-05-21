@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.staticmethod,NestedFunctionCount.n,counters.filter,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,c1d22084f19b68c4eebb31dfb925e17c7ad56089,Гришин Алексей Юрьевич,aiu.grishin@severstal.com,2020-11-06T10:09+03:00,Ryan Henderson,hendersonry@gmail.com,2021-01-04T19:35+01:00,7,4,1,5,7,77823,6,1,72,7,1945,6
