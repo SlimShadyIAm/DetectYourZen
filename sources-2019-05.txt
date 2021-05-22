@@ -1,4 +1,5 @@
 git://github.com/Rapptz/discord.py.git 859ee751f9aa72f9fa95d6c33fa094bc9c551efb
-git://github.com/matplotlib/matplotlib.git e71c5a411f11d25686521da1e2fed7c1997901ac
-git://github.com/dask/dask.git cea4fd2db925deea117d3de82a4cea9789b619b3
-git://github.com/pyeve/eve.git 8bdc88591b56bf38ff0051795d46285de471c2ec
+git://github.com/matplotlib/matplotlib.git a2cb4ee267d40fbe49b55bb9b854c83b993a0132
+git://github.com/kubernetes-sigs/kubespray.git 6217184c7f270a4c79cf5c6fbc620ba2da5e9930
+git://github.com/dask/dask.git cdd47c6be09a2c006ccd8a29bfd22213a0faf785
+git://github.com/netbox-community/netbox.git b114b9d39687d143c915ee21bb5673fb7077f173

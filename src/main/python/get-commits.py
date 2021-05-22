@@ -1,12 +1,13 @@
 import requests
 from collections import defaultdict
-from time import sleep 
+from dotenv import load_dotenv 
+import os
 
 repos = ["git://github.com/Rapptz/discord.py.git", \
         "git://github.com/matplotlib/matplotlib.git", \
-        "git://github.com/bpython/bpython.git", \
+        "git://github.com/kubernetes-sigs/kubespray.git", \
         "git://github.com/dask/dask.git", \
-        "git://github.com/pyeve/eve.git" \
+        "git://github.com/netbox-community/netbox.git" \
 ]
 times = [('2021-04-31', '2021-05-31'), 
          ('2020-10-31', '2020-11-31'), 
@@ -20,7 +21,7 @@ time_period_to_commits = defaultdict(list)
 
 headers = {"Authorization": "token OAUTH-TOKEN"}
 
-def retrieve_commits(url):
+def retrieve_commits(url, session):
     parts = url.split("/")
     owner = parts[-2]
     repo = parts[-1].replace(".git", "")
@@ -29,7 +30,8 @@ def retrieve_commits(url):
         period = until.split("-")
         period = f"{period[0]}-{period[1]}"
         
-        res = requests.get(f"https://api.github.com/repos/{owner}/{repo}/commits?since={since}&until={until}")
+        
+        res = session.get(f"https://api.github.com/repos/{owner}/{repo}/commits?since={since}&until={until}")
         if res.status_code != 200:
             raise Exception(f"An error occured!\n {res.json()}")
         
@@ -47,14 +49,16 @@ if __name__ == "__main__":
     print()
     print()
     
-    for i, repo in enumerate(repos):
-        print(f"Repo {i+1}: {repo}")
-        retrieve_commits(repo)
-        print("Done!")
-        print("-------")
-        
-        print("Watiing 10 seconds for ratelimit...")
-        sleep(10)
+    load_dotenv()
+    token = os.environ.get("GITHUB_PAT")
+    
+    with requests.Session() as session:
+        session.auth = ('SlimShadyIAm', token)
+        for i, repo in enumerate(repos):
+            print(f"Repo {i+1}: {repo}")
+            retrieve_commits(repo, session)
+            print("Done!")
+            print("-------")
         
     for period in time_period_to_commits:
         with open(f"sources-{period}.txt", 'w') as f:
