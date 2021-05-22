@@ -1,0 +1,5 @@
+git://github.com/Rapptz/discord.py.git 25f23ec11366af17d35b696752e14a2e88983f0f
+git://github.com/matplotlib/matplotlib.git d7c84b255a6eb39a11c303d6670858d6abe855b3
+git://github.com/bpython/bpython.git 081e3f2d8dbdf08e3ea53bdfea115914c48cc002
+git://github.com/dask/dask.git 3e264491e5b5285ad5c1be9c0d01cea8bb432180
+git://github.com/pyeve/eve.git f029bd6e191aa290922350b34ffd52ea9ca95625

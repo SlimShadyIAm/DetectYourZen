@@ -11,7 +11,7 @@ object CrawlerNewCommit extends App with CSVStats {
 
   val datadir = args(0)
 
-  val projects = Source.fromFile("./python-commit.txt").getLines
+  val projects = Source.fromFile("./sources-2021-05.txt").getLines
 
   val gitLocalDir = "/tmp/lisa/"
 
