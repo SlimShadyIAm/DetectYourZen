@@ -14,7 +14,7 @@ times = [('2021-04-31', '2021-05-31'),
          ('2020-04-31', '2020-05-31'),
          ('2019-10-31', '2019-11-31'), 
          ('2019-04-31', '2019-05-31'),
-         ('2018-10-31', '2019-11-31'), 
+         ('2018-10-31', '2018-11-31'), 
          ('2018-04-31', '2018-05-31'),
          ]
 time_period_to_commits = defaultdict(list)
@@ -61,5 +61,5 @@ if __name__ == "__main__":
             print("-------")
         
     for period in time_period_to_commits:
-        with open(f"sources-{period}.txt", 'w') as f:
+        with open(f"sources_commit-{period}.txt", 'w') as f:
             f.write("\n".join(time_period_to_commits.get(period)))
