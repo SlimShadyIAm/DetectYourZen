@@ -1,6 +1,10 @@
 ### Project selection
 
-The projects to be analyzed are listed in `python.txt`, one per line.
+- The original sources used by Alexandru et. al are found in `sources_original.txt`. Some of the repos are removed from this list as they were removed, either due to a DMCA takedown or by the author themselves. These are listed below.
+
+### Results
+- The results from Alexandru et. al are found in `./data-original`
+- The results from the re-run from "today" are in `./data-rerun`
 
 ### Memory requirements
 
@@ -17,13 +21,16 @@ sbt 'runMain Crawler ./data'
 ./src/main/python/aggregate.py --stdout ./data
 ```
 
-<!-- github.com/chrismsimpson/Metropolis was removed -->
-<!-- git://github.com/dmulholland/ivy.git - NPE -->
-<!-- git://github.com/kamyu104/LeetCode.git -- DMCA takedown -->
-<!-- git://github.com/livid/v2ex.git - NPE -->
-<!-- git://github.com/m4ll0k/WAScan.git -->
-<!-- git://github.com/mwhite/resume.git -->
-<!-- git://github.com/threerocks/studyFiles.git -->
+### Removed sources
+
+git://github.com/chrismsimpson/Metropolis.git
+git://github.com/dmulholland/ivy.git
+git://github.com/kamyu104/LeetCode.git
+git://github.com/livid/v2ex.git
+git://github.com/m4ll0k/WAScan.git
+git://github.com/mwhite/resume.git
+git://github.com/threerocks/studyFiles.git
+
 <!-- error files -->
 <!-- git://github.com/abatchy17/WindowsExploits.git -->
 <!-- git://github.com/ckan/ckan.git -->

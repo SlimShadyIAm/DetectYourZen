@@ -95,8 +95,8 @@ class GitAgentWithCommit(parsers: List[Parser], url: String, localDirPath: Strin
     import scala.sys.process.ProcessIO
     import scala.io.Source
     val proc = Process(Seq("git", "clone", "-n", url, localDirPath))
-    val proc2 = Process(Seq("cd", localDirPath))
-    val proc3 = Process(Seq("git", "checkout", commit))
+    val proc2 = Process(Seq("git", "checkout", commit), new java.io.File(localDirPath))
+
     var result = ""
     var err = ""
     val io = new ProcessIO(
@@ -108,14 +108,12 @@ class GitAgentWithCommit(parsers: List[Parser], url: String, localDirPath: Strin
     if (run.exitValue != 0) {
       logger.error(s"git clone exited with ${run.exitValue}")
     }
+
     val run2 = proc2.run(io)
-    if (run.exitValue != 0) {
-      logger.error(s"dir cd exited with ${run.exitValue}")
-    }    
-    val run3 = proc3.run(io)
-    if (run.exitValue != 0) {
+    if (run2.exitValue != 0) {
       logger.error(s"git checkout exited with ${run.exitValue}")
     }
+
     val duration = (System.nanoTime - timestamp)/1000000000.0
     logger.info(f"clone duration: ${duration}%3.2fs")
     logger.debug("cloning finished")
@@ -130,20 +128,6 @@ class GitAgentWithCommit(parsers: List[Parser], url: String, localDirPath: Strin
     else {
       parseAsync(graph, this)
     }
-
-    import scala.sys.process.Process
-    import scala.sys.process.ProcessIO
-    import scala.io.Source    
-    val proc = Process(Seq("cd", ".."))
-    var result = ""
-    var err = ""
-    val io = new ProcessIO(
-      stdin  => { },
-      stdout => result = Source.fromInputStream(stdout).mkString,
-      stderr => err = Source.fromInputStream(stderr).mkString
-    )
-    val run = proc.run(io)
-
   }
 
   /** Removes the local clone directory */
