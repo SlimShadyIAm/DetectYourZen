@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,counters.DictCompargs,MagicMethods.level1,counters.GeneratorExpargs,counters.property,NestedFunctionCount.n,ClassCount.n,counters.map,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc
+0,2928e663dbacb990cc797ba5110cdf94bcc39961,R. Miles McCain,github@sendmiles.email,2021-05-14T17:01Z,R. Miles McCain,github@sendmiles.email,2021-05-14T17:01Z,0,1,4,2,3,1,52,1,95263,4,2,97,4,5,0,2687

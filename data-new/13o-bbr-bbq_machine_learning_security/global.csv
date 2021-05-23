@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,counters.filter,counters.zip,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.format,FileMeta.loc,counters.enumerate,counters.Yield
+0,95c9d866c22229767bcb335d2bea0393150218f9,isao takaesu,takaesu235@gmail.com,2021-05-17T23:17+09:00,GitHub,noreply@github.com,2021-05-17T23:17+09:00,1,2,6,23,4,17,264200,17,2,191,1,6185,31,7

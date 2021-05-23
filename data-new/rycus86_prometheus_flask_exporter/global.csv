@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,counters.staticmethod,counters.classmethod,counters.Counter,NestedFunctionCount.n,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,dd1184c387576e6a19e691452b57e5481762d47e,Viktor Adam,vadam@atlassian.com,2021-05-04T20:14+10:00,Viktor Adam,vadam@atlassian.com,2021-05-04T20:14+10:00,9,8,5,2,70,27,1,5,117103,1,5,237,17,3603,1,1

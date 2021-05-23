@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.map,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.Yield
+0,8f0038b8b021f8289a03ae153656106bd1015c9d,Erik Bernhardsson,mail@erikbern.com,2016-02-09T12:09-05:00,Erik Bernhardsson,mail@erikbern.com,2016-02-09T12:09-05:00,0,2,2,15835,2,23,492,3

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,counters.filter,ClassCount.n,counters.map,FileMeta.bytes,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,e2ee94ae9dc93e53558308344b443d71fdf03d40,Maciej Delmanowski,drybjed@drybjed.net,2017-10-18T20:35+02:00,Maciej Delmanowski,drybjed@drybjed.net,2017-10-18T20:35+02:00,0,3,1,6,2,14,3,72449,91,0,2180,1

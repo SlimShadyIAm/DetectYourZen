@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,FileMeta.loc,counters.enumerate
+0,4a4f27d3fb9f834a94e5d29226e26c9136e49dd4,dellacortelab,54990403+dellacortelab@users.noreply.github.com,2021-04-14T11:51-06:00,GitHub,noreply@github.com,2021-04-14T11:51-06:00,0,3,6,23208,5,2,32,649,3

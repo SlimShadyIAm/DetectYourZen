@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.enumerate
+0,ba5e6250797515d664d6cfa6df011f8cec1b2729,Mr. Phantom,phantom@phantom.im,2020-04-02T06:50-06:00,GitHub,noreply@github.com,2020-04-02T06:50-06:00,0,6,32927,4,22,1092,2

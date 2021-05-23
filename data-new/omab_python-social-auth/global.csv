@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.join,counters.GeneratorExpargs,counters.staticmethod,counters.classmethod,NestedFunctionCount.n,counters.filter,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc
+0,81c0a542d158772bd3486d31834c10af5d5f08b0,Matías Aguirre,matiasaguirre@gmail.com,2017-02-04T10:10-03:00,Matías Aguirre,matiasaguirre@gmail.com,2017-02-04T10:10-03:00,1,2,1,27,7,1,190,1,66,275315,4,1,480,31,7677

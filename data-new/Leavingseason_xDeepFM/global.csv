@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,NestedFunctionCount.n,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Yield
+0,114c4c45b1cb6144b2540f92a2b357c3f445e98e,Jianxun Lian,jialia@microsoft.com,2018-10-15T16:08+08:00,Jianxun Lian,jialia@microsoft.com,2018-10-15T16:08+08:00,5,3,11,1,24,108379,1,5,75,2265,10,2

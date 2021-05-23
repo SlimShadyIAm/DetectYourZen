@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.staticmethod,NestedFunctionCount.n,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.Exprfinalbody
+0,b8ef60ba40e3581ffc28441a16509ad8ffe5963d,dorazouri,dorazouri@gmail.com,2020-12-13T11:52+02:00,GitHub,noreply@github.com,2020-12-13T11:52+02:00,0,10,9,0,16,1,1,74727,3,64,10,9,0,1725,2

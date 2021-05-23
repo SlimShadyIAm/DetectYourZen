@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.join,MagicMethods.level2,counters.namedtuple,counters.defaultdict,MagicMethods.level1,counters.property,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,ec485c84db55227c9283319a9c58401e294a06ff,cr0hn,cr0hn@cr0hn.com,2020-05-27T10:37+02:00,GitHub,noreply@github.com,2020-05-27T10:37+02:00,4,0,2,1,1,6,22,34,16,118450,3,171,6,0,4193,2,2

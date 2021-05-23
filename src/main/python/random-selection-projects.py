@@ -10,3 +10,4 @@ if __name__ == "__main__":
         new_sources = random.sample(sources, 10)
         new_sources = {source: source.replace("git://", 'https://').replace(".git", "") for source in new_sources}
         pprint.pprint(new_sources)
+        # maybe do intersect with repos from today...

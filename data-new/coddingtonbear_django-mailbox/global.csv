@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,counters.property,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.Lambdaargs,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.Yield
+0,40263b66703332d82c179d79f5ea0d80fc1ea388,Adam Coddington,me@adamcoddington.net,2020-12-06T18:11-08:00,Adam Coddington,me@adamcoddington.net,2020-12-06T18:11-08:00,0,6,1,17,2,69,18,156803,1,179,3,17,0,4176,5

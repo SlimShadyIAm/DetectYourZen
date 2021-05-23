@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,2ffdd345e1fce4775ecb508d207e0ad465bcca80,Charles R. Qi,charlesq34@gmail.com,2018-10-01T14:33-07:00,GitHub,noreply@github.com,2018-10-01T14:33-07:00,0,7,5,11,51,317445,23,5,245,0,7617,9

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,counters.namedtuple,MagicMethods.level1,NestedFunctionCount.n,counters.zip,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.pprint,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,bd19873a2eca15383ab70786ec0beadcd6e00c7f,Xiaowei Hu,xhujoy@gmail.com,2018-02-24T23:05+08:00,GitHub,noreply@github.com,2018-02-24T23:05+08:00,0,1,1,1,2,2,8,29844,4,34,1,0,638,1

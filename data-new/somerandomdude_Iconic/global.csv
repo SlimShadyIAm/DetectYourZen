@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,ReprStrs.level1,MagicMethods.level3,FileMeta.loc,counters.Yield
+0,e14eac7f0c8e9db7a25e9b33468f9b10a78dd5b4,P.J. Onori,pj@somerandomdude.com,2014-12-29T13:14-08:00,P.J. Onori,pj@somerandomdude.com,2014-12-29T13:14-08:00,0,2,0,9,138511,5,85,2,0,4017,4

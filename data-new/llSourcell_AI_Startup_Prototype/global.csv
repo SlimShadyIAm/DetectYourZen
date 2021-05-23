@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.property,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc
+0,c92d04edd21b4b94ae3bd73b7ec04b22f7569d2c,Siraj Raval,sirajravel@gmail.com,2019-04-03T10:55-07:00,GitHub,noreply@github.com,2019-04-03T10:55-07:00,0,2,2,0,14,2,44864,2,71,10,0,1427

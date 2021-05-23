@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.deque,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,487d7fc1403772c307f2bb16f9fb637a038175c1,Taehoon Kim,carpedm20@gmail.com,2017-04-08T00:38+09:00,Taehoon Kim,carpedm20@gmail.com,2017-04-08T00:38+09:00,0,2,1,2,7,4,27563,2,43,1,0,788,1

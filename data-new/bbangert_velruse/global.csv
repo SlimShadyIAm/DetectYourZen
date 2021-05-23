@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,counters.classmethod,NestedFunctionCount.n,counters.filter,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,7027acc43df77331d34014fdbb796ee5c54c8d5e,Michael Merickel,michael@merickel.org,2013-10-06T14:17-05:00,Michael Merickel,michael@merickel.org,2013-10-06T14:17-05:00,2,12,2,4,62,2,2,182176,1,8,206,12,5292,1

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,counters.namedtuple,MagicMethods.level1,counters.classmethod,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc
+0,ebf904726278f1a33ff21f85c9ab65d8b46af636,Romain Gayon,romaing@google.com,2021-01-25T15:54+01:00,GitHub,noreply@github.com,2021-01-25T15:54+01:00,0,2,1,15,0,32,31,119607,8,159,15,0,3262

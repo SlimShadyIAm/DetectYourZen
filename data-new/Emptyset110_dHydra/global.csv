@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,counters.defaultdict,MagicMethods.level1,counters.property,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc
+0,8ec44994ff4dda8bf1ec40e38dd068b757945933,Emptyset,21324784@qq.com,2017-01-14T20:39+08:00,Emptyset,21324784@qq.com,2017-01-14T20:39+08:00,0,2,2,4,44,35,2,305450,4,1,476,27,0,9690

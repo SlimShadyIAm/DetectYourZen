@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.join,MagicMethods.level2,MagicMethods.level1,counters.staticmethod,NestedFunctionCount.n,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,efab5e70fa107575b07e170819a0dbcd0143d36b,sscottgvit,sscottgvit,2020-06-26T10:28-05:00,sscottgvit,sscott@govanguard.com,2020-06-26T10:28-05:00,1,0,2,5,6,112,9,5,616449,8,32,802,1,38,0,13256,1

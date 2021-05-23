@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate,counters.Exprfinalbody,counters.Yield
+0,8ca59f479f6b48714a22127d67fbf4ac5912d1a8,Gael Abadin,gael.abadin@gmail.com,2021-01-31T19:32+01:00,Kirill Borisov,lensvol@users.noreply.github.com,2021-04-30T11:48+02:00,0,1,0,1,2,18349,3,25,0,631,1,1,3

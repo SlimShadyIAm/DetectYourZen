@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,counters.zip,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,8fd53688b31c29555b1ee5774dab4ad685d7d44a,Fei,feixia@cs.cmu.edu,2018-01-04T01:37-08:00,GitHub,noreply@github.com,2018-01-04T01:37-08:00,0,2,0,3,3,2,3,26401,23,1,27,0,866,2

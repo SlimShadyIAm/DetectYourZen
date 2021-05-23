@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.enumerate
+0,9a54e808a2de5553383ae167051d9a8117696ba8,asvcode,25020209+asvcode@users.noreply.github.com,2020-07-04T21:00-07:00,GitHub,noreply@github.com,2020-07-04T21:00-07:00,50,4,91,193999,1,195,4576,11

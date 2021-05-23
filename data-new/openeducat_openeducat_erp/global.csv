@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.map,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc
+0,cff7c86c09f984620873e44728308f7f393a86cf,Parthiv Patel,parthivgls@gmail.com,2021-05-20T15:32+05:30,GitHub,noreply@github.com,2021-05-20T15:32+05:30,0,164,1,429954,11,375,10215

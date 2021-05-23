@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.classmethod,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,d2705e61f3dae8c656b1ef5db4cf078919840660,dbr,dbr.onix@gmail.com,2021-04-29T17:20+10:00,dbr,dbr.onix@gmail.com,2021-04-29T17:20+10:00,0,16,10,1,38,9,59577,3,105,6,10,0,1783,1

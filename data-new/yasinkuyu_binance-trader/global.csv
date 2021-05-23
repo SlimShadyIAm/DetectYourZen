@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.staticmethod,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,FileMeta.loc
+0,80e6a05a40ec3b69844d720e2bc25f8d705dba05,Yasin,yasinkuyu@gmail.com,2021-05-21T08:59+03:00,GitHub,noreply@github.com,2021-05-21T08:59+03:00,15,0,7,40000,1,65,15,1200

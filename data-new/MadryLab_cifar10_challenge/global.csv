@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.staticmethod,counters.property,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,bf0b4df22d84c1db7bc98acfbafc6149cf371355,Dimitris Tsipras,dtsip0@gmail.com,2020-09-08T10:38-04:00,GitHub,noreply@github.com,2020-09-08T10:38-04:00,1,5,0,7,30,32687,3,4,29,6,948,1

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,counters.staticmethod,NestedFunctionCount.n,counters.filter,ClassCount.n,counters.map,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,271fb2f9c1cfc58ccfa7b5f1db58a778732489ce,Liang Pang,pl8787@users.noreply.github.com,2017-12-20T14:51+08:00,GitHub,noreply@github.com,2017-12-20T14:51+08:00,3,84,5,4,62,2,129802,30,23,231,84,3260,2

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.join,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate,counters.Yield
+0,f98b6cbe1c9c8c78649e5a331f94113564521525,Tsun-Yi Yang,shamangary@hotmail.com,2019-11-22T15:42+08:00,GitHub,noreply@github.com,2019-11-22T15:42+08:00,1,0,6,4,8,3,119532,4,80,0,2917,7,6

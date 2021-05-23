@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.join,counters.GeneratorExpargs,counters.staticmethod,counters.property,NestedFunctionCount.n,counters.zip,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,d6da749f9cd678037bd520bc074e40066ea35b56,Fred Park,fred.park@microsoft.com,2019-12-13T21:32Z,Fred Park,fred.park@microsoft.com,2019-12-13T21:38Z,2,16,3,27,30,1,31,104,1654353,36,3,1160,587,42120,6,21

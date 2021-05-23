@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,ClassCount.n,counters.map,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,ReprStrs.level1,counters.pprint,MagicMethods.level3,FileMeta.loc,counters.enumerate,counters.Exprfinalbody
+0,f93f02101a38697feb8b1789f24b4fe6aae800fe,Dustin Smith,dustin@media.mit.edu,2014-10-13T11:33-04:00,Dustin Smith,dustin@media.mit.edu,2014-10-13T11:33-04:00,0,9,7,36,1,67325,1,1,104,6,2,0,1770,2,2

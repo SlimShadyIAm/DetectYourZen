@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,counters.filter,counters.OrderedDict,counters.map,counters.Withbody,FileMeta.bytes,counters.Lambdaargs,MethodCount.n,FileMeta.loc
+0,c3c8d7fbce681ff7e89e76ea01979d82fe2ad562,RikkaW,rikka@shizuku.moe,2021-05-03T13:58+08:00,RikkaW,rikka@shizuku.moe,2021-05-03T13:58+08:00,0,2,2,1,10,16734,11,16,480

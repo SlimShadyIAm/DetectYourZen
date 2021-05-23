@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.staticmethod,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.enumerate,counters.Exprfinalbody
+0,3097e502cc537a4573bb74ce319ba17ad372667d,R4v3zn,woo0nise@gmail.com,2021-05-21T18:23+08:00,R4v3zn,woo0nise@gmail.com,2021-05-21T18:23+08:00,0,1,4,0,90,7,211413,2,101,1,4,0,4467,1,3

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,counters.staticmethod,NestedFunctionCount.n,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,83badc75af596e76edce67e4917ba4fbacbb7c1d,Yan Wang,yw763@cornell.edu,2020-02-27T23:02-05:00,GitHub,noreply@github.com,2020-02-27T23:02-05:00,0,16,6,4,0,26,2,2,63080,47,97,4,0,1768,4

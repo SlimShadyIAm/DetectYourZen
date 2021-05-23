@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.property,NestedFunctionCount.n,counters.filter,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,8ce31204e1de1fbd2939ffe2d8c3b3120e93a4d0,npcole,nicholas.cole@gmail.com,2019-08-31T13:22+02:00,GitHub,noreply@github.com,2019-08-31T13:22+02:00,2,13,4,328,1,6,684816,23,5,1248,2,17278,4,15

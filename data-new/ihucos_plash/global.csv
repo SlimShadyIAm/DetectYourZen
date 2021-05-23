@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.join,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.Yield
+0,beb335bb0fb4d3bdcc44d89fb6ebe8d4d24e3ba6,ihucos,irae.hueck.costa@gmail.com,2020-06-05T11:14+02:00,GitHub,noreply@github.com,2020-06-05T11:14+02:00,1,0,2,3,7,5,5,15537,4,54,1,7,0,590,7

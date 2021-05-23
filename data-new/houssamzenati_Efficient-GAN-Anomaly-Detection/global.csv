@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc
+0,15568abb57d2965ce70d4fd0dc70f3fe00c68d1b,bruno,bruno.lecouat@gmail.com,2019-05-31T23:06+02:00,bruno,bruno.lecouat@gmail.com,2019-05-31T23:06+02:00,11,135,92417,12,67,2395

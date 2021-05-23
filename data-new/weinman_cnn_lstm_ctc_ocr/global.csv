@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.enumerate
+0,c3f03b730e7ee0eea11d3d17d25c7c7d1c12a40a,Jerod Weinman,jerod@acm.org,2021-02-18T08:27-06:00,Jerod Weinman,jerod@acm.org,2021-02-18T08:27-06:00,4,12,82354,5,69,2068,2

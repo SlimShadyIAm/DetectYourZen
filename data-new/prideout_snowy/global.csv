@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.namedtuple,NestedFunctionCount.n,counters.filter,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,FileMeta.loc
+0,995c373bd751daf35d8b9a851de7a744329552d7,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2020-02-24T19:44Z,Philip Rideout,philiprideout@gmail.com,2020-02-24T11:45-08:00,1,6,6,2,3,82236,4,4,141,2364

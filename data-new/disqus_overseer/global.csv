@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,counters.classmethod,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,MethodCount.n,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc
+0,b37573aba33b20aa86f89eb0c7e6f4d9905bedef,David Cramer,dcramer@gmail.com,2011-06-17T13:29-07:00,David Cramer,dcramer@gmail.com,2011-06-17T13:29-07:00,4,0,4,4,2,29,59886,54,7,0,1618

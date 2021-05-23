@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.staticmethod,counters.property,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc
+0,71fe3ac6b34d39c7227a23e93ac30035f5f6166d,David Burke,david@burkesoftware.com,2020-02-20T12:50-05:00,David Burke,david@burkesoftware.com,2020-02-20T12:50-05:00,0,1,4,1,0,40,9,88209,4,79,1,7,0,2328

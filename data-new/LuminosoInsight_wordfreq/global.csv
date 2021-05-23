@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.enumerate
+0,64bbcbd51bbff36e439690776381651e6d7ab235,Robyn Speer,rspeer@luminoso.com,2021-04-15T14:45-04:00,GitHub,noreply@github.com,2021-04-15T14:45-04:00,1,6,75918,10,71,1975,1

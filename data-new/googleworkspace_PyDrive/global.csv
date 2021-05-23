@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,counters.staticmethod,counters.property,NestedFunctionCount.n,counters.filter,ClassCount.n,FileMeta.bytes,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.Exprfinalbody
+0,59b6fc75f56eeeddfa09b3d8ec89d3d5f0939905,Steven Bazyl,sbazyl@google.com,2021-01-27T14:15-07:00,Steven Bazyl,sbazyl@google.com,2021-01-27T14:15-07:00,0,8,1,2,1,4,1,24,92812,139,1,21,0,2836,2

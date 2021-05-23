@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,counters.namedtuple,MagicMethods.level1,counters.Counter,NestedFunctionCount.n,counters.zip,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate,counters.tee,counters.Yield
+0,b22cde3437e0c701c72f74eb7455f06a4fd60de2,Nicolas,nickolas.ivanov@gmail.com,2016-12-19T20:04+03:00,GitHub,noreply@github.com,2016-12-19T20:04+03:00,0,1,1,1,0,1,1,4,19605,2,33,0,566,6,5,7

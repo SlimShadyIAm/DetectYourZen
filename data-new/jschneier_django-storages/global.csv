@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,counters.property,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.Exprfinalbody
+0,7a672d437e4bb633f2737048f5b70a96c70bc611,Josh Schneier,josh.schneier@gmail.com,2021-04-20T00:00-04:00,Josh Schneier,josh.schneier@gmail.com,2021-04-20T00:02-04:00,2,0,1,14,3,52,45,189875,3,2,417,23,0,4541,5

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,counters.filter,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.enumerate
+0,aa3e8af7a1f0831a51fd7e638a4acb077a1e5188,Sam Hewitt,sam@snwh.org,2020-03-12T11:05-04:00,Sam Hewitt,sam@snwh.org,2020-03-12T11:05-04:00,5,4,5,5,45203,1,65,1330,6

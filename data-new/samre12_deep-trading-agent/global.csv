@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.join,counters.DictCompargs,counters.property,NestedFunctionCount.n,counters.zip,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,58e6617fa78b18c31460962511ab83af430cc326,Kartikay Garg,kartikay123@gmail.com,2018-04-13T22:03+05:30,Kartikay Garg,kartikay123@gmail.com,2018-04-13T22:03+05:30,4,1,16,0,2,9,2,19,49188,1,3,57,16,1268,2

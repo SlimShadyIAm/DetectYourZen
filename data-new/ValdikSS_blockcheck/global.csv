@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.Exprfinalbody
+0,81879695b768c28d12597718577cad2f6859b874,ValdikSS,iam@valdikss.org.ru,2019-09-28T07:56+03:00,ValdikSS,iam@valdikss.org.ru,2019-09-28T07:56+03:00,2,3,1,58504,3,36,1452,1

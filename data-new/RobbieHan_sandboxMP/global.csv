@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,counters.classmethod,counters.property,NestedFunctionCount.n,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc
+0,9216755a5bf05f33b8a62fd33b8fa607772d3725,RobbieHan,robbie_han@outlook.com,2019-02-26T12:52+08:00,RobbieHan,robbie_han@outlook.com,2019-02-26T12:52+08:00,0,3,2,2,1,0,123,6,2,91861,9,117,3,3,0,2548

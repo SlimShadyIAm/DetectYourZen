@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.property,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.Yield
+0,4dd5c6a216934d2342bb3494729b4ec319e8a17b,James Bennett,james@b-list.org,2021-04-19T03:11-07:00,GitHub,noreply@github.com,2021-04-19T03:11-07:00,0,7,2,0,39,22,82559,80,7,0,2113,2

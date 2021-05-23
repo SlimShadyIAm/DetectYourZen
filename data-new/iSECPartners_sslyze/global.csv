@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.join,counters.staticmethod,counters.classmethod,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,ba3926fa75fc4074185d43254398941da205052f,Tom Ritter,tom@ritter.vg,2014-10-14T11:08-05:00,Tom Ritter,tom@ritter.vg,2014-10-14T11:08-05:00,6,12,8,1,37,2,140012,3,99,20,3555,11,5

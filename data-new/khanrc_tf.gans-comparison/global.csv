@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.join,counters.GeneratorExpargs,NestedFunctionCount.n,counters.filter,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Exprfinalbody
+0,4e79266b11a9a051499fa9befc8e6a2d2f7b5bf5,khanrc,khanrc@naver.com,2017-09-23T19:28+09:00,khanrc,khanrc@naver.com,2017-09-23T19:28+09:00,2,2,1,1,9,4,83,87890,4,5,90,2115,4,1

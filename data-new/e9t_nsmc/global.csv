@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,counters.filter,counters.map,counters.Withbody,FileMeta.bytes,MethodCount.n,FileMeta.loc
+0,cc0670e872d4ac27bfe36c87456783004b39ef6c,Lucy Park,me@lucypark.kr,2016-06-28T09:46+09:00,GitHub,noreply@github.com,2016-06-28T09:46+09:00,1,1,2,1,4711,7,151

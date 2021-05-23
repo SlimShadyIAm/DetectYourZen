@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.deque,counters.pprint,FileMeta.loc,counters.Yield
+0,5c5093dea2f327235d29492184344c535d3da184,kingname,contact@kingname.info,2021-02-17T11:01+08:00,GitHub,noreply@github.com,2021-02-17T11:01+08:00,0,7,4,28259,2,37,1,1,759,1

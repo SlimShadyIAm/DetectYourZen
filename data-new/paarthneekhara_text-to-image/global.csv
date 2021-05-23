@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.join,MagicMethods.level2,counters.defaultdict,MagicMethods.level1,NestedFunctionCount.n,counters.OrderedDict,counters.zip,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,b5475c140ecb254096c493850ae09c1bc9da8f7a,Paarth Neekhara,paarth.n@gmail.com,2018-01-30T08:29-08:00,GitHub,noreply@github.com,2018-01-30T08:29-08:00,52,0,4,2,3,10,4,4,30,89108,22,2,100,0,2714,18

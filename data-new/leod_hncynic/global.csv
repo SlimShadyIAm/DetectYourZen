@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,counters.zip,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,383769ce4d047afb3a945c539d55da12716f5b0c,Leonard Dahlmann,leo.dahlmann@gmail.com,2019-09-18T14:13+02:00,Leonard Dahlmann,leo.dahlmann@gmail.com,2019-09-18T14:13+02:00,0,1,1,0,1,7,5,35802,2,46,0,1184,1

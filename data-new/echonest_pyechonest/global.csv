@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,counters.filter,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,ReprStrs.level1,MagicMethods.level3,FileMeta.loc
+0,d8c7af6c1da699b50b2f4b1bd3c0febe72e7f1ee,David DesRoches,delicious@echonest.com,2015-01-07T17:29-05:00,David DesRoches,delicious@echonest.com,2015-01-07T17:29-05:00,0,12,15,1,6,19,149161,22,6,139,9,0,4141

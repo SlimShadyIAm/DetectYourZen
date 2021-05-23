@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,counters.zip,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate,counters.Yield
+0,c0b88ff923842bca0009be906e11aff8deeb7e79,dfaker,35278260+dfaker@users.noreply.github.com,2020-06-19T01:26+01:00,GitHub,noreply@github.com,2020-06-19T01:26+01:00,0,2,2,10,2,5,5,86488,5,75,0,2445,9,5

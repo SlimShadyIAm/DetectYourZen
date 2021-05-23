@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level3,FileMeta.loc
+0,aef4b47b4346ffdd603158737b8232b9e0f22e57,Kenneth Love,kennethlove@gmail.com,2019-12-30T12:26-08:00,Kenneth Love,kennethlove@gmail.com,2019-12-30T12:26-08:00,0,1,1,15,137,40,138330,2,10,280,0,3962

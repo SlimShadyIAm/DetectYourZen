@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.deque,FileMeta.loc,counters.enumerate
+0,0850008e9204cef5fcb1fe508d4c99576b37f995,Seungwon Park (박승원),yyyyy@snu.ac.kr,2019-06-26T10:42+09:00,GitHub,noreply@github.com,2019-06-26T10:42+09:00,0,7,2,9,28520,11,26,1,829,1

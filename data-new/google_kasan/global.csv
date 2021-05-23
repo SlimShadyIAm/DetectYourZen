@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,counters.defaultdict,MagicMethods.level1,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,ea6103125e2c7e4cef8bc117d4219eaf0db2cac6,Marco Elver,elver@google.com,2021-05-18T12:58+02:00,GitHub,noreply@github.com,2021-05-18T12:58+02:00,0,1,2,0,3,1,10956,19,0,368,2

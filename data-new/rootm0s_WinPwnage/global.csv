@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.classmethod,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,32c67be04eb743c224a3580de4c00bab389a8694,rootm0s,rootm0s@protonmail.com,2021-02-04T23:04+01:00,GitHub,noreply@github.com,2021-02-04T23:04+01:00,0,2,1,0,30,15,128777,90,1,0,3368,1

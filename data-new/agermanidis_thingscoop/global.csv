@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,NestedFunctionCount.n,counters.filter,counters.zip,ClassCount.n,counters.map,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,FileMeta.loc,counters.enumerate
+0,9c61079d4469a2011e232b950a5e17c4dfaf4ef1,Anastasis Germanidis,agermanidis@gmail.com,2016-05-11T17:26+01:00,Anastasis Germanidis,agermanidis@gmail.com,2016-05-11T17:26+01:00,1,2,2,2,9,14,25525,3,11,65,815,2

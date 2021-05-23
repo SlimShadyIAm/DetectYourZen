@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,counters.zip,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,ReprStrs.level1,counters.format,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,909cd33020ad908f5997e8b1067f16e0ff705958,John Lambert,johnlambert@gatech.edu,2021-04-29T21:38-07:00,GitHub,noreply@github.com,2021-04-29T21:38-07:00,0,20,5,3,8,33,6,191678,14,201,2,1,0,5551,5

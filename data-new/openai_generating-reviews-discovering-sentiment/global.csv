@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Yield
+0,0032e4b87903713ad4242599f5dda2eb7b8c40fd,Christopher Hesse,christopherhesse@users.noreply.github.com,2018-11-21T16:38-08:00,GitHub,noreply@github.com,2018-11-21T16:38-08:00,1,2,4,10399,5,19,320,3,2

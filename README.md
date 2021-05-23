@@ -27,7 +27,8 @@ git://github.com/chrismsimpson/Metropolis.git
 git://github.com/dmulholland/ivy.git
 git://github.com/kamyu104/LeetCode.git
 git://github.com/livid/v2ex.git
-git://github.com/m4ll0k/WAScan.git
+git://github.com/m4ll0k/WAScan.gitgit://github.com/Azure/azure-sdk-for-python.git
+
 git://github.com/mwhite/resume.git
 git://github.com/threerocks/studyFiles.git
 
@@ -48,3 +49,9 @@ git://github.com/threerocks/studyFiles.git
 <!-- git://github.com/crossbario/crossbar.git -->
 <!-- git://github.com/crossbario/autobahn-python.git -->
 <!--  git://github.com/coffeehb/Some-PoC-oR-ExP.git -->
+
+
+
+<!-- new -->
+<!-- git://github.com/owid/covid-19-data.git - NPE -->
+<!-- git://github.com/Azure/azure-sdk-for-python.git - OOM -->

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.Counter,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,2221de3323032faef7bde744b0e211bd274cb2d0,Shaojie Bai,jerrybai1995@gmail.com,2020-02-18T13:40-05:00,GitHub,noreply@github.com,2020-02-18T13:40-05:00,0,3,1,0,16,16,65757,2,74,0,1750,6

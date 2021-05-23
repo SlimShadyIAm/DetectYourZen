@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,FileMeta.loc
+0,98e275bfc58b5be2a443bd8e9d050903c74fa8d2,Michael Chu,mchchu88@gmail.com,2021-05-14T10:33-04:00,GitHub,noreply@github.com,2021-05-14T10:33-04:00,1,1,1,8,37162,7,1,93,1226

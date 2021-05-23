@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc
+0,ecb0c814604c7503fc9cf2ff704e86086ffb6bd9,Anant Gupta,anantzoid@users.noreply.github.com,2018-06-18T12:01-04:00,GitHub,noreply@github.com,2018-06-18T12:01-04:00,0,3,8,19060,2,19,461

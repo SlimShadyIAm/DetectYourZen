@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.join,counters.izip_longest,counters.defaultdict,NestedFunctionCount.n,counters.zip,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.enumerate
+0,99be95d61bf9302495e741fa53cf63b7e9a91a35,Avi Singh,avisingh599@users.noreply.github.com,2017-06-12T16:50-07:00,GitHub,noreply@github.com,2017-06-12T16:50-07:00,1,1,1,0,23,46105,5,20,1210,1

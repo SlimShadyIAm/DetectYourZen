@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,ReprStrs.level1,counters.format,MagicMethods.level3,FileMeta.loc,counters.enumerate,counters.Exprfinalbody,counters.Yield
+0,e54bcf3f0f951babcd2fa153de2dd8556aa3506d,Graham Gilbert,graham@grahamgilbert.com,2020-07-18T21:23-07:00,GitHub,noreply@github.com,2020-07-18T21:23-07:00,0,4,1,10,92,30,545568,7,831,4,1,0,14679,1,2,1

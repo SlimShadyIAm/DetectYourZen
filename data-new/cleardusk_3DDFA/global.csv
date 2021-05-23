@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,ReprStrs.level1,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,d5c1f6a647a89070b1f9ea4e88c910b743a1a87a,Jianzhu Guo,jianzhu.guo@nlpr.ia.ac.cn,2021-01-26T18:25+08:00,GitHub,noreply@github.com,2021-01-26T18:25+08:00,0,8,10,12,1,7,92952,4,1,136,1,0,2913,3

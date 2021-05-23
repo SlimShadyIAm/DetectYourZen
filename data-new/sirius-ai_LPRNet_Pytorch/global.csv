@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate,counters.Exprfinalbody
+0,7c976664b3f3879efabeaff59c7a117e49d5f29e,andy.wei@kneron.us,andy.wei@kneron.us,2020-01-09T14:37+08:00,andy.wei@kneron.us,andy.wei@kneron.us,2020-01-09T14:37+08:00,0,2,0,3,23100,1,22,0,610,8,1

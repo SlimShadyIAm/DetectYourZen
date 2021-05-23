@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,counters.filter,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.Yield
+0,010b4e399c04a199e7ca25995286f3db0337500d,Joe Gregorio,joe@bitworking.org,2016-04-11T11:20-04:00,Joe Gregorio,joe@bitworking.org,2016-04-11T11:20-04:00,4,9,16,1,95,1,1,327316,13,475,0,7604,4

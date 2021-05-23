@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,counters.OrderedDict,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc
+0,26c3878fff742c535058bf5d08643d0135cde2af,Daniel Pizetta,daniel.pizetta@usp.br,2021-04-01T12:33-03:00,Daniel Pizetta,daniel.pizetta@usp.br,2021-04-01T12:33-03:00,2,0,1,6,16,1445406,4,8,46,2,25054

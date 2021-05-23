@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.staticmethod,counters.property,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,counters.Namedecorator_list,FileMeta.loc
+0,4b999bd0f4eb32535f320f5e593e040df1a3849d,Yuto,git@aiotter.com,2021-05-08T03:53+09:00,GitHub,noreply@github.com,2021-05-07T14:53-04:00,1,6,4,9,3,66418,86,7,2056

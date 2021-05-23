@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,counters.defaultdict,MagicMethods.level1,counters.staticmethod,counters.property,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,80608723ac3aac0f7059ffa0558f082252524493,Weihua Hu,weihua916@gmail.com,2021-05-15T11:41-07:00,GitHub,noreply@github.com,2021-05-15T11:41-07:00,0,1,11,7,11,2,39,9,257174,47,200,3,18,0,6138,32

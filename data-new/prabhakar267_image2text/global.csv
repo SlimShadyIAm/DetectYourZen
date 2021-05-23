@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,FileMeta.loc,counters.enumerate
+0,6dfd5430b5d20a4409bb29d6f7b27cd854527c95,Prabhakar Gupta,prabhakar.gupta@nsitonline.in,2019-10-21T19:46+05:30,Prabhakar Gupta,prabhakar.gupta@nsitonline.in,2019-10-21T19:46+05:30,0,1,1,9962,14,273,1

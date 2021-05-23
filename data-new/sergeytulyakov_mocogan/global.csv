@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.staticmethod,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,937a99de73a3385fe0c0d1cde65dfa8a2c4177ec,Sergey Tulyakov,sergei.tulyakov@gmail.com,2019-01-30T14:05+01:00,GitHub,noreply@github.com,2019-01-30T14:05+01:00,0,10,2,2,14,2,39113,3,60,2,0,1093,7

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,MethodCount.n,FileMeta.loc,counters.enumerate
+0,a552b9cf5419fa8a9017adb73cce713221c2a26d,root,root@raspberrypi.(none),2014-05-18T21:45+01:00,root,root@raspberrypi.(none),2014-05-18T21:45+01:00,0,2,19255,8,583,1

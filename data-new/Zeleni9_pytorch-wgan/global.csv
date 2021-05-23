@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate,counters.Yield
+0,c301178fee4351ee64505ec61b6ef4be165c72f2,Green9,9580716+Zeleni9@users.noreply.github.com,2021-02-02T09:49+01:00,GitHub,noreply@github.com,2021-02-02T09:49+01:00,0,2,1,14,6,76038,1,81,0,1919,12,2

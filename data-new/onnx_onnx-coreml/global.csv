@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.staticmethod,counters.classmethod,NestedFunctionCount.n,counters.zip,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,141fc33d7217674ea8bda36494fa8089a543a3f3,Aseem Wadhwa,aseem.elec@gmail.com,2020-06-28T11:37-07:00,GitHub,noreply@github.com,2020-06-28T11:37-07:00,0,14,7,7,58,3,85,1,3,393795,47,426,14,0,9826,23

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,ef75d38817626488db82eeac9664c4403ce3d138,Po-Chih Huang,brianhuang1019@gmail.com,2020-09-21T23:26+08:00,GitHub,noreply@github.com,2020-09-21T23:26+08:00,0,1,0,13,1,63915,53,0,1957,4

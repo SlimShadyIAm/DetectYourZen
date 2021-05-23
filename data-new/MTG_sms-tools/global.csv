@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.classmethod,NestedFunctionCount.n,counters.filter,counters.zip,ClassCount.n,FileMeta.bytes,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,3e93dc33e5185e6a01b1fb21ab530aba237dd910,Xavier Serra,xavier.serra@upf.edu,2020-11-03T16:03+01:00,Xavier Serra,xavier.serra@upf.edu,2020-11-03T16:03+01:00,0,8,3,1,1,2,28,475331,198,4,3,0,13035,2

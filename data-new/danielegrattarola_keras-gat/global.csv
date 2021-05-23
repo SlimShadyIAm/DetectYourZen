@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,FileMeta.loc
+0,c870d198a6137201d354fddbe4f7250903ab483c,Daniele Grattarola,daniele.grattarola@gmail.com,2020-10-26T10:46+01:00,GitHub,noreply@github.com,2020-10-26T10:46+01:00,0,1,1,14300,8,354

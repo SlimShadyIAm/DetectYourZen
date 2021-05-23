@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.property,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,45bde57d9675f503d765420fd921d748541a800f,YadiraF,sheldol.f@live.com,2017-09-08T11:23+08:00,GitHub,noreply@github.com,2017-09-08T11:23+08:00,0,15,12,0,26,13,60061,10,99,12,0,1809,3

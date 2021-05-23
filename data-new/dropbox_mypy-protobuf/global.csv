@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,counters.defaultdict,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.enumerate,counters.Yield
+0,f8ccdf31c6b8d415e9121542433cfb9d88129e3a,Andrew Haigh,nelfin@gmail.com,2021-02-26T09:40+11:00,GitHub,noreply@github.com,2021-02-25T14:40-08:00,0,1,1,9,2,6,28,63112,20,72,2,0,1803,2,11

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,ReprStrs.level1,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,cb5b773a49c38e533989026ef46596aea142133b,fcole,fcole@google.com,2020-09-10T16:28-04:00,GitHub,noreply@github.com,2020-09-10T16:28-04:00,0,8,3,17,3,87318,1,103,1,0,2245,2

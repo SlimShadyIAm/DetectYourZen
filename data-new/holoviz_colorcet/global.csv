@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,counters.filter,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,ae9deb9e27cb73cc274ce15fa1a9ec8aa8b557dd,Jean-Luc Stevens,jlrstevens@gmail.com,2021-01-17T05:02-06:00,James A. Bednar,jbednar@users.noreply.github.com,2021-02-26T15:18-06:00,1,3,2,6,1,3,685159,4,6,39,0,22729,2

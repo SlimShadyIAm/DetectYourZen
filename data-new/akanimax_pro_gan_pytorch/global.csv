@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.staticmethod,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,cdd9002ad171ee47c65c3670318473a76eb682e2,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,2021-01-04T22:07+05:30,GitHub,noreply@github.com,2021-01-04T17:37+01:00,0,4,4,2,18,4,76857,6,82,1,4,0,2275,1

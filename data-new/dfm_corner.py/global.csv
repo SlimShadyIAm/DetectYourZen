@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,counters.OrderedDict,counters.zip,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.enumerate
+0,cfca9b3089551d4678cf1ae75430aa857beb3f57,pre-commit-ci[bot],66853113+pre-commit-ci[bot]@users.noreply.github.com,2021-05-17T13:51-04:00,GitHub,noreply@github.com,2021-05-17T13:51-04:00,0,1,4,3,6,57643,10,60,1975,5

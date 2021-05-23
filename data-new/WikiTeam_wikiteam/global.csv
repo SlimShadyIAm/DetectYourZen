@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,ReprStrs.level1,MagicMethods.level3,FileMeta.loc,counters.enumerate,counters.Yield
+0,0cfde9e9d11ce2f12fcb5bfa11bfc8757c54cabc,nemobis,federicoleva@tiscali.it,2020-08-28T10:47+03:00,GitHub,noreply@github.com,2020-08-28T10:47+03:00,0,2,2,6,5,1,35,341909,14,2,197,2,0,8179,1,26

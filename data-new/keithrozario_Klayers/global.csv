@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.enumerate
+0,7fbb592fff6f999b52a23378697ab9c334d7a40b,klayersbot,keith+klayersbot@keithrozario.com,2021-05-17T02:10Z,klayersbot,keith+klayersbot@keithrozario.com,2021-05-17T02:10Z,0,2,12,65418,7,64,1665,2

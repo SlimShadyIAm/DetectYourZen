@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.classmethod,counters.property,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,527f83c0d6c3d6f14961f1704d9029711c225ad6,jayanam,jayanam.games@gmail.com,2021-05-04T19:05+02:00,jayanam,jayanam.games@gmail.com,2021-05-04T19:05+02:00,0,6,27,71,0,57,1,253844,9,669,6,98,0,8158,7

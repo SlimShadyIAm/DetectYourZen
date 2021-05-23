@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc
+0,1f9d47f9516f6121dc7da37aa2ffbc3013f67195,Youngjoo Jo,47443174+run-youngjoo@users.noreply.github.com,2019-11-07T16:45+09:00,GitHub,noreply@github.com,2019-11-07T16:45+09:00,0,1,2,0,5,3,26959,40,2,0,658

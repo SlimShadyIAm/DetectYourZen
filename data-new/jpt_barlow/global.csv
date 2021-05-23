@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,FileMeta.bytes,MethodCount.n,FileMeta.loc,counters.enumerate
+0,dc2940e2e04ef4ec96c07e23e0f02aefbddd343b,Jeremy Tribby,jpt@users.noreply.github.com,2020-07-08T18:32-07:00,GitHub,noreply@github.com,2020-07-08T18:32-07:00,0,5751,1,189,2

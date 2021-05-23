@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.staticmethod,counters.classmethod,counters.property,NestedFunctionCount.n,counters.zip,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,639c3a771d57c29a27c307140cc94a1008ee9f55,Artur Bekasov,artur.bekasov@gmail.com,2021-02-21T15:17Z,GitHub,noreply@github.com,2021-02-21T15:17Z,3,2,9,21,4,130,1,74,305449,5,506,14,8496,1,2

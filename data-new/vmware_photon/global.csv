@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.staticmethod,NestedFunctionCount.n,counters.OrderedDict,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Exprfinalbody
+0,ba85148947bf76b949b85e7e8f82a1733eb4d93d,suezzelur,anishs@vmware.com,2021-05-19T00:11-07:00,Anish Swaminathan,anishs@vmware.com,2021-05-18T23:36-07:00,99,3,1,41,1,42,333002,1,478,108,7895,5,1

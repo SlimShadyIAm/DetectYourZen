@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.property,NestedFunctionCount.n,ClassCount.n,counters.map,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.Yield
+0,cef16a9f64d836a3221a344ca7d571644280d829,Sylvain Peyrefitte,citronneur@gmail.com,2020-04-10T21:12+02:00,GitHub,noreply@github.com,2020-04-10T21:12+02:00,4,17,1,55,378,5,7,569347,6,95,929,1,1,9,15009,1

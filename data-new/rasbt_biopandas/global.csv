@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.staticmethod,counters.property,NestedFunctionCount.n,counters.zip,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,a93b3f5e7ac36de7bc2dd55e9b74a10274cdca88,Sebastian Raschka,mail@sebastianraschka.com,2021-04-06T22:17-05:00,GitHub,noreply@github.com,2021-04-06T22:17-05:00,15,2,6,3,5,22,92677,13,1,107,17,2690,7,2

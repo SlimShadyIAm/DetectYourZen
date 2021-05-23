@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.join,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,counters.zip,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,da0ec4f150f515021a05fc8202299708e290447c,akanazawa,akanazawa@users.noreply.github.com,2020-07-09T18:53-04:00,GitHub,noreply@github.com,2020-07-09T18:53-04:00,34,0,2,4,5,6,50,173790,16,4,136,0,5218,6

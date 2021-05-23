@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,counters.zip,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level3,FileMeta.loc,counters.enumerate,counters.Yield
+0,bb1908d23ed80e9aeb706166007830760769daf0,Sander Dieleman,sanderdieleman@gmail.com,2014-08-13T13:10-04:00,Sander Dieleman,sanderdieleman@gmail.com,2014-08-13T13:10-04:00,0,11,2,122,53,39,653275,191,336,0,16188,58,18

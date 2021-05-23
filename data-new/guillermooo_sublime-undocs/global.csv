@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,FileMeta.loc,counters.enumerate
+0,73d3b17dd5d8b28a6f3b1f84b892f530d8e1a4df,FichteFoll,fichtefoll2@googlemail.com,2020-03-20T23:57+01:00,GitHub,noreply@github.com,2020-03-20T23:57+01:00,0,1,2,15360,3,396,1

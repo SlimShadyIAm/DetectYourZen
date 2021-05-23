@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,counters.filter,counters.zip,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level3,counters.zip_longest,FileMeta.loc,counters.Yield
+0,881f3e42526e31199d1c9571a6cc8744af4383be,Giuseppe Attardi,attardi@gmail.com,2021-03-18T01:14+01:00,GitHub,noreply@github.com,2021-03-18T01:14+01:00,1,4,1,1,1,1,8,3,97522,4,4,76,2,1,2828,4

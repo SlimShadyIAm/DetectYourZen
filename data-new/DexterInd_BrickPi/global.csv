@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,ReprStrs.level1,MagicMethods.level3,FileMeta.loc,counters.Exprfinalbody
+0,1a1a2503c53b7a8727abd7f974c3f166604326f9,Robert Lucian Chiriac,robert.lucian.chiriac@gmail.com,2019-01-28T18:57+02:00,GitHub,noreply@github.com,2019-01-28T18:57+02:00,0,6,11,10,49,9,449280,48,337,2,0,11859,27

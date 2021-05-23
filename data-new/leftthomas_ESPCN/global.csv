@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.join,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level3,FileMeta.loc
+0,b1dd698406b0a6dbdbb9c2618bbb06dc903e9b06,Hao Ren,leftthomas@qq.com,2019-11-04T14:43+08:00,GitHub,noreply@github.com,2019-11-04T14:43+08:00,2,0,2,3,0,3,14182,5,21,0,392

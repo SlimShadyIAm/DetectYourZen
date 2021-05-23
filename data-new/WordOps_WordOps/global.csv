@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,counters.staticmethod,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,ReprStrs.level1,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.Exprfinalbody
+0,68cc21aa84b1eb02216d0c9e2e5dae06f3fe2d63,VirtuBox,thomas@virtubox.net,2021-05-20T17:16+02:00,GitHub,noreply@github.com,2021-05-20T17:16+02:00,0,3,12,2,8,104,134,599816,328,2,2,0,13127,1

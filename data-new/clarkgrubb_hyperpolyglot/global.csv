@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,ReprStrs.level1,counters.pprint,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,93041eccd95d3a320dc78bed2f4b62a9b7cc81d9,Clark Grubb,clarkgrubb@gmail.com,2019-09-17T09:49-07:00,Clark Grubb,clarkgrubb@gmail.com,2019-09-17T09:49-07:00,0,10,0,39,1,70649,132,10,1,0,2095,7

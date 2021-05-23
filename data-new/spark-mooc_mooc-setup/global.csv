@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,counters.map,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,FileMeta.loc,counters.Yield
+0,d70369cc5bcd6e7ba94683a07a16a82b6091251c,Brian Clapper,bmc@clapper.org,2016-08-31T10:44-07:00,Brian Clapper,bmc@clapper.org,2016-08-31T10:44-07:00,0,1,2228642,1,4,4,1165,1

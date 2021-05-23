@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody
+0,99862aba74ee4704c5366ac197191ed6ab5f0f13,Steve Smith,essandess@users.noreply.github.com,2018-12-16T07:42-05:00,GitHub,noreply@github.com,2018-12-16T07:42-05:00,5,14,4,53690,2,84,4,1131,1

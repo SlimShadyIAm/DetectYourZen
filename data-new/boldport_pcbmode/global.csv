@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,ReprStrs.level1,MagicMethods.level3,FileMeta.loc,counters.enumerate
+0,26f4ffe245f19eff0d85532b23a6f28d2f8bc399,Saar Drimer,saardrimer@gmail.com,2019-12-23T12:50Z,GitHub,noreply@github.com,2019-12-23T12:50Z,0,5,1,5,10,12,284314,4,3,182,1,0,8139,5

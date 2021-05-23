@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,counters.property,NestedFunctionCount.n,counters.zip,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.deque,counters.Namedecorator_list,MagicMethods.level3,FileMeta.loc,counters.enumerate,counters.Yield
+0,efc71f600a2dca38e188f18ca85b654b37efd9d2,Ilya Kostrikov,ikostrikov@gmail.com,2021-04-15T12:42-04:00,GitHub,noreply@github.com,2021-04-15T12:42-04:00,0,2,5,2,1,26,6,69657,1,6,95,1,5,0,2049,2,2

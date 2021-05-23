@@ -12,7 +12,7 @@ object CrawlerNew extends App with CSVStats {
 
   val datadir = args(0)
 
-  val projects = Source.fromFile("./python.txt").getLines
+  val projects = Source.fromFile("./sources_new.txt").getLines
 
   val gitLocalDir = "/tmp/lisa/"
 

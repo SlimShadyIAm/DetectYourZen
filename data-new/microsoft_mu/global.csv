@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,MagicMethods.level2,MagicMethods.level1,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,ReprStrs.level1,MagicMethods.level3,FileMeta.loc
+0,e22cf099f2ff60c041803d21696a155a389c4dad,Bret Barkelew,bret@corthon.com,2020-11-08T21:10-08:00,GitHub,noreply@github.com,2020-11-08T21:10-08:00,0,1,0,5,2,29790,38,1,0,807
