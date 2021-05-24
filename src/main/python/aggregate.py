@@ -106,29 +106,17 @@ if args.tex:
         print("\hline\hline")
         for name, meta in idioms.items():
             stats = idiomStats.get(meta[2])
-            if stats is not None:
+
+            if stats is not None and stats.get("present"):
                 # Idioms without a description
-                if not meta[3]:
-                    # print("\\textbf{%s} %s %s & \\np{%d} & \\np{%d} \\\\" %
-                    print("\\textbf{%s} & \\textbf{%d} & \\textbf{%d} \\\\" %
-                    (name,
-                    # tag_perf if meta[0] else "",
-                    # tag_read if meta[1] else "",
-                    stats["present"],
-                    stats["count"])
-                    )
-                # All others
-                else:
-                    # print("\\textbf{%s} & \\np{%d} & \\np{%d} \\\\ \\multicolumn{3}{p{8cm}}{\idiom{%s}\\vspace{1mm}} \\\\" %
-                    print("\\textbf{%s} & \\textbf{%d} & \\textbf{%d} \\\\ " %
-                    (name,
-                    # tag_perf if meta[0] else "",
-                    # tag_read if meta[1] else "",
-                    stats["present"],
-                    stats["count"],
-                    # meta[3])
-                    )
-                    )
+
+                print("\\textbf{%s} & \\textbf{%d} & \\textbf{%d} \\\\ " %
+                (name,
+                stats["present"],
+                stats["count"],
+                # meta[3])
+                )
+                )
         print("\end{tabular}")
         print("\end{center}")
     else:
@@ -156,28 +144,18 @@ if args.tex:
         
         print("\hline\hline")
         for name, meta in idioms.items():
+            stats = all_projects[0].get(meta[2])
+            if stats is None:
+                continue
             line = "\\textbf{" + name + "}"
             for idiomStats in all_projects:
                 line += " & "
                 stats = idiomStats.get(meta[2])
-                if stats is not None:
-                    # Idioms without a description
-                    if not meta[3]:
-                        # print("\\textbf{%s} %s %s & \\np{%d} & \\np{%d} \\\\" %
-                        line += ("\\textbf{%d} & \\textbf{%d}" %
-                        (stats["present"],
-                        stats["count"])
-                        )
-                    # All others
-                    else:
-                        # print("\\textbf{%s} & \\np{%d} & \\np{%d} \\\\ \\multicolumn{3}{p{8cm}}{\idiom{%s}\\vspace{1mm}} \\\\" %
-                        line += ("\\textbf{%d} & \\textbf{%d}" %
-                        (
-                        stats["present"],
-                        stats["count"],
-                        # meta[3])
-                        )
-                        )
+                # Idioms without a description
+                line += ("\\textbf{%d} & \\textbf{%d}" %
+                    (stats["present"],
+                    stats["count"])
+                    )
             line += " \\\\"
             print(line)
         print("\end{tabular}")
