@@ -53,82 +53,138 @@ itertools = [
 ]
 
 argp = argparse.ArgumentParser()
-argp.add_argument('datadir', type=str,
-                   help="Path containing project directories")
+argp.add_argument('-d',
+                   help="Path containing project directories", nargs="+", action="append")
 argp.add_argument('--tex', dest='tex', action='store_true')
 argp.add_argument('--stdout', dest='stdout', action='store_true')
 argp.set_defaults(tex=False, stdout=False)
 args = argp.parse_args()
 
-allData = OrderedDict()
-idiomStats = OrderedDict()
+all_projects = []
 headers = set()
 skipHeaders = 8
 
-for project in sorted(glob.glob(os.path.join(args.datadir, '*'))):
-    datafile = os.path.join(project, "global.csv")
-    if os.path.exists(datafile):
-        with open(datafile, 'r') as csv_in:
-            pName = os.path.basename(project)
-            csvreader = csv.reader(csv_in, delimiter=',')
-            headerRow = next(csvreader)[skipHeaders:]
-            dataRow = next(csvreader)
-            data = {}
-            for i, header in enumerate(headerRow):
-                headers.add(header)
-                data[header] = dataRow[i+skipHeaders]
-            allData[pName] = data
+for datadir in args.d:
+    allData = OrderedDict()
+    datadir = datadir[0]
+    idiomStats = OrderedDict()
+    for project in sorted(glob.glob(os.path.join(datadir, '*'))):
+        datafile = os.path.join(project, "global.csv")
+        if os.path.exists(datafile):
+            with open(datafile, 'r') as csv_in:
+                pName = os.path.basename(project)
+                csvreader = csv.reader(csv_in, delimiter=',')
+                headerRow = next(csvreader)[skipHeaders:]
+                dataRow = next(csvreader)
+                data = {}
+                for i, header in enumerate(headerRow):
+                    headers.add(header)
+                    data[header] = dataRow[i+skipHeaders]
+                allData[pName] = data
 
-headers.add("itertools")
-for header in sorted(headers):
-    stats = {"present": 0, "count": 0}
-    for project, data in sorted(allData.items()):
-        # add up itertools stats
-        data['itertools'] = 0
-        for tool in itertools:
-            if tool in data:
-                data['itertools'] += int(data[tool])
-        # aggregate stats
-        if header in data and int(data[header]) > 0:
-            stats["present"] += 1
-            stats["count"] += int(data[header])
-    idiomStats[header] = stats
-
+    headers.add("itertools")
+    for header in sorted(headers):
+        stats = {"present": 0, "count": 0}
+        for project, data in sorted(allData.items()):
+            # add up itertools stats
+            data['itertools'] = 0
+            for tool in itertools:
+                if tool in data:
+                    data['itertools'] += int(data[tool])
+            # aggregate stats
+            if header in data and int(data[header]) > 0:
+                stats["present"] += 1
+                stats["count"] += int(data[header])
+        idiomStats[header] = stats
+    all_projects.append(idiomStats)
 if args.tex:
-    print("\\begin{center}")
-    print("\\begin{tabular}{||c c c||}")
-    print("\hline\hline Idiom & Projects & Use Count \\\\ [0.5ex]")
-    print("\hline\hline")
-    for name, meta in idioms.items():
-        stats = idiomStats.get(meta[2])
-        if stats is not None:
-            # Idioms without a description
-            if not meta[3]:
-                # print("\\textbf{%s} %s %s & \\np{%d} & \\np{%d} \\\\" %
-                print("\\textbf{%s} & \\textbf{%d} & \\textbf{%d} \\\\" %
-                (name,
-                # tag_perf if meta[0] else "",
-                # tag_read if meta[1] else "",
-                stats["present"],
-                stats["count"])
-                )
-            # All others
-            else:
-                # print("\\textbf{%s} & \\np{%d} & \\np{%d} \\\\ \\multicolumn{3}{p{8cm}}{\idiom{%s}\\vspace{1mm}} \\\\" %
-                print("\\textbf{%s} & \\textbf{%d} & \\textbf{%d} \\\\ " %
-                (name,
-                # tag_perf if meta[0] else "",
-                # tag_read if meta[1] else "",
-                stats["present"],
-                stats["count"],
-                # meta[3])
-                )
-                )
-    print("\hline\hline")
-    print("\end{tabular}")
-    print("\end{center}")
-if args.stdout:
-    import pprint
-    pp = pprint.PrettyPrinter(depth=6)
-    pp.pprint(idiomStats)
+    if len(all_projects) == 0:
+        idiomStats = all_projects[0]
+        print("\\begin{center}")
+        print("\\begin{tabular}{c | c | c} \\\\")
+        print("Idiom & Projects & Use Count \\\\ [0.5ex]")
+        print("\hline\hline")
+        for name, meta in idioms.items():
+            stats = idiomStats.get(meta[2])
+            if stats is not None:
+                # Idioms without a description
+                if not meta[3]:
+                    # print("\\textbf{%s} %s %s & \\np{%d} & \\np{%d} \\\\" %
+                    print("\\textbf{%s} & \\textbf{%d} & \\textbf{%d} \\\\" %
+                    (name,
+                    # tag_perf if meta[0] else "",
+                    # tag_read if meta[1] else "",
+                    stats["present"],
+                    stats["count"])
+                    )
+                # All others
+                else:
+                    # print("\\textbf{%s} & \\np{%d} & \\np{%d} \\\\ \\multicolumn{3}{p{8cm}}{\idiom{%s}\\vspace{1mm}} \\\\" %
+                    print("\\textbf{%s} & \\textbf{%d} & \\textbf{%d} \\\\ " %
+                    (name,
+                    # tag_perf if meta[0] else "",
+                    # tag_read if meta[1] else "",
+                    stats["present"],
+                    stats["count"],
+                    # meta[3])
+                    )
+                    )
+        print("\end{tabular}")
+        print("\end{center}")
+    else:
+        print("\\begin{center}")
+        print("\\begin{tabular} { c || " + ' || '.join(['c | c' for _ in range(len(all_projects))]) + "} \\\\")
+        headers = "Idioms"
+        
+        for i, header in enumerate(args.d):
+            headers += " & \multicolumn{2}{c}{" + header[0] + "}"
+        
+        print(headers + " \\\\")
+        
+        # line = (f"\cline")
+        yes = ""
+        for i in range(len(all_projects)):
+            i += 1
+            i *= 2
+            
+            yes += "\cline{" + str(i) + "-" + str(i+1) + "} "
+            
+        for _ in range(len(all_projects)):
+            yes += (f" & Projects & Use Count")
+        yes += " \\\\ [0.5ex]"
+        print(yes)
+        
+        print("\hline\hline")
+        for name, meta in idioms.items():
+            line = "\\textbf{" + name + "}"
+            for idiomStats in all_projects:
+                line += " & "
+                stats = idiomStats.get(meta[2])
+                if stats is not None:
+                    # Idioms without a description
+                    if not meta[3]:
+                        # print("\\textbf{%s} %s %s & \\np{%d} & \\np{%d} \\\\" %
+                        line += ("\\textbf{%d} & \\textbf{%d}" %
+                        (stats["present"],
+                        stats["count"])
+                        )
+                    # All others
+                    else:
+                        # print("\\textbf{%s} & \\np{%d} & \\np{%d} \\\\ \\multicolumn{3}{p{8cm}}{\idiom{%s}\\vspace{1mm}} \\\\" %
+                        line += ("\\textbf{%d} & \\textbf{%d}" %
+                        (
+                        stats["present"],
+                        stats["count"],
+                        # meta[3])
+                        )
+                        )
+            line += " \\\\"
+            print(line)
+        print("\end{tabular}")
+        print("\end{center}")
+
+# if args.stdout:
+#     import pprint
+#     pp = pprint.PrettyPrinter(depth=6)
+#     pp.pprint(idiomStats)
 
