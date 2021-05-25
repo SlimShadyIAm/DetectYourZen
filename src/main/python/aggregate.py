@@ -100,7 +100,7 @@ for datadir in args.d:
 if args.tex:
     if len(all_projects) == 0:
         idiomStats = all_projects[0]
-        print("\\begin{center}")
+        print("\\centering")
         print("\\begin{tabular}{c | c | c} \\\\")
         print("Idiom & Projects & Use Count \\\\ [0.5ex]")
         print("\hline\hline")
@@ -108,8 +108,6 @@ if args.tex:
             stats = idiomStats.get(meta[2])
 
             if stats is not None and stats.get("present"):
-                # Idioms without a description
-
                 print("\\textbf{%s} & \\textbf{%d} & \\textbf{%d} \\\\ " %
                 (name,
                 stats["present"],
@@ -118,9 +116,8 @@ if args.tex:
                 )
                 )
         print("\end{tabular}")
-        print("\end{center}")
     else:
-        print("\\begin{center}")
+        print("\\centering")
         print("\\begin{tabular} { c || " + ' || '.join(['c | c' for _ in range(len(all_projects))]) + "} \\\\")
         headers = "Idioms"
         
@@ -144,23 +141,31 @@ if args.tex:
         
         print("\hline\hline")
         for name, meta in idioms.items():
-            stats = all_projects[0].get(meta[2])
-            if stats is None:
+            found = False
+            for idiomStats in all_projects:
+                stats = idiomStats.get(meta[2])
+                if stats is not None:
+                    found = True
+                    break
+                
+            if not found:
                 continue
+            
             line = "\\textbf{" + name + "}"
             for idiomStats in all_projects:
                 line += " & "
                 stats = idiomStats.get(meta[2])
-                # Idioms without a description
-                line += ("\\textbf{%d} & \\textbf{%d}" %
-                    (stats["present"],
-                    stats["count"])
-                    )
+                if stats is None:
+                    line += ("\\textbf{---} & \\textbf{---}")
+                else:
+                    # Idioms without a description
+                    line += ("\\textbf{%d} & \\textbf{%d}" %
+                        (stats["present"],
+                        stats["count"])
+                        )
             line += " \\\\"
             print(line)
         print("\end{tabular}")
-        print("\end{center}")
-
 # if args.stdout:
 #     import pprint
 #     pp = pprint.PrettyPrinter(depth=6)
