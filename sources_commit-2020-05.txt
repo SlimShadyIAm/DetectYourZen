@@ -1,5 +1,9 @@
 git://github.com/Rapptz/discord.py.git 0fd5eca0d57c3dc49c84ebd0222288ea323b137b
-git://github.com/matplotlib/matplotlib.git 5348428b91c8e199c945db24ca2f10c0517a4fc8
+git://github.com/matplotlib/matplotlib.git 61eb48017e81f80892c706c7000ee7d1c852820d
 git://github.com/kubernetes-sigs/kubespray.git 3997aa9a0f05332dc412f6812711747faaf2c189
 git://github.com/dask/dask.git dff82970dbce9173b4b3cd06ab36a0ec93985c24
 git://github.com/netbox-community/netbox.git 28a14cf5ae8d112c2108fac165ce3cc104118991
+git://github.com/scikit-image/scikit-image.git 8f703bddbb6d25325be08e94b2724dddbecd7864
+git://github.com/conan-io/conan.git 90e6d64cbf5b3e9e52c3a1a80dbc21787c464d2a
+git://github.com/sympy/sympy.git 03bef477d4b133a28cdee87b09f32b822fc482b5
+https://github.com/spesmilo/electrum 446f21c2062b2734bbddb994a43fce2b4ba77050

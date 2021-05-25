@@ -7,7 +7,11 @@ repos = ["git://github.com/Rapptz/discord.py.git", \
         "git://github.com/matplotlib/matplotlib.git", \
         "git://github.com/kubernetes-sigs/kubespray.git", \
         "git://github.com/dask/dask.git", \
-        "git://github.com/netbox-community/netbox.git" \
+        "git://github.com/netbox-community/netbox.git", \
+        "git://github.com/scikit-image/scikit-image.git", \
+        "git://github.com/conan-io/conan.git", \
+        "git://github.com/sympy/sympy.git", \
+        "https://github.com/spesmilo/electrum", \
 ]
 times = [('2021-04-31', '2021-05-31'), 
          ('2020-10-31', '2020-11-31'), 
@@ -18,8 +22,6 @@ times = [('2021-04-31', '2021-05-31'),
          ('2018-04-31', '2018-05-31'),
          ]
 time_period_to_commits = defaultdict(list)
-
-headers = {"Authorization": "token OAUTH-TOKEN"}
 
 def retrieve_commits(url, session):
     parts = url.split("/")
