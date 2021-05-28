@@ -4,6 +4,7 @@ git://github.com/kubernetes-sigs/kubespray.git 93a1693040d6197e559d9807010722e30
 git://github.com/dask/dask.git c27f33ee3f5b71fc6666ce9beb34004eac100cb1
 git://github.com/netbox-community/netbox.git 181f5c991b5f808b7ef42229059eeef7b80cd226
 git://github.com/scikit-image/scikit-image.git aef392b9ff63f8b6259031e3dba3333bc52eeaa0
-git://github.com/conan-io/conan.git e086e37e4f93d8486212f7de5913e7c7e329092d
-git://github.com/sympy/sympy.git 667eb1f134f5a251e57abf63cc3f4b9044296b65
-https://github.com/spesmilo/electrum a5acb7d695e9c493b7ec47c2031b3ad135eb51a1
+git://github.com/conan-io/conan.git 959728df59cdd6f523b7301dc7de8305098a4701
+git://github.com/sympy/sympy.git f28f833171646e00b09f1dc3f186f6d7a7a6e6ee
+https://github.com/spesmilo/electrum 9fced6d2b1f22bc3023b7a927776dcfb9d128d30
+git://github.com/openstack/swift.git 22c778412adc09f53602ca9264c75af29298ea11

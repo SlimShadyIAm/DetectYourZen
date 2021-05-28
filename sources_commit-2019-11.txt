@@ -5,5 +5,6 @@ git://github.com/dask/dask.git 1f87ae6329c3ae1c6f3f31945f891c33642c64ba
 git://github.com/netbox-community/netbox.git 4f0d82ac168913b4a6289b2740dbf7cc309161a2
 git://github.com/scikit-image/scikit-image.git d0ca5c2b49e4d63dcd214de42e7e420ca4e073fe
 git://github.com/conan-io/conan.git e439bec34db2a85ecdd02c3eaa64e19cde00a43b
-git://github.com/sympy/sympy.git 414fdc1bf88c8345e0bc748febe6ed52ab9f96c3
+git://github.com/sympy/sympy.git 7e3c2245317a2ef21e2d991ce9c32893d5ff9a03
 https://github.com/spesmilo/electrum 61dfcba092c8b2ad68a5821010bd1a16fd1d57cc
+git://github.com/openstack/swift.git 281ffab2a52f348aa3f8ad39e800a43c6047e1cf

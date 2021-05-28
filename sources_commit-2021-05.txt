@@ -1,9 +1,10 @@
-git://github.com/Rapptz/discord.py.git 2e12f6de9cd99a82faea370158689d79d23a9738
-git://github.com/matplotlib/matplotlib.git b909939eb51452420d4a60195fef6d8ce94e0c2b
-git://github.com/kubernetes-sigs/kubespray.git 96e6a6ac3f0c1bcbc19acf9df1bb70e74cdb06ae
-git://github.com/dask/dask.git a81fed43830c32f836a988a07c10ca8f99279bec
-git://github.com/netbox-community/netbox.git d6a0cbb1a0b0f34c008ef4a395d7945c69ea3c76
+git://github.com/Rapptz/discord.py.git cc56f31bcdb913577b2d6a3feb67ae534a27192d
+git://github.com/matplotlib/matplotlib.git 5958725c4d6bb899310c6df31ce57e5a076e15ca
+git://github.com/kubernetes-sigs/kubespray.git b1b407a0b4df51b54fe0b6013dafd77a9017cdf2
+git://github.com/dask/dask.git 600d4d22d1e9502ffa1adb88f3f3241c19d66f5e
+git://github.com/netbox-community/netbox.git dc573329880f35e349ff98d2749caa824e4a51f3
 git://github.com/scikit-image/scikit-image.git 1c125a12189695dfee383022640c72e003928ccd
-git://github.com/conan-io/conan.git b5d46d80fc4ef2fce58490520058902a6caebf52
-git://github.com/sympy/sympy.git c94c66e82794c9cacbbf0e2da30330a916764684
+git://github.com/conan-io/conan.git ee107d5a77d47743f30eca15cab83a37135941d6
+git://github.com/sympy/sympy.git f937644784eb05ca89247a07340e2d439062ca2e
 https://github.com/spesmilo/electrum 6ce96306ca4614a009f4c281ebb9ddb2cff97c95
+git://github.com/openstack/swift.git 04fab8d9a4d9e3b16d9494a664edda8504d76318

@@ -12,6 +12,7 @@ repos = ["git://github.com/Rapptz/discord.py.git", \
         "git://github.com/conan-io/conan.git", \
         "git://github.com/sympy/sympy.git", \
         "https://github.com/spesmilo/electrum", \
+        "git://github.com/openstack/swift.git", \
 ]
 times = [('2021-04-31', '2021-05-31'), 
          ('2020-10-31', '2020-11-31'), 
