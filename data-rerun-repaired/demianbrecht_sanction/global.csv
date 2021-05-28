@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.Lambdaargs,counters.map,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.filter
+0,08575f149c7ece20c902148c4d1576ab162ae0a8,Demian Brecht,demianbrecht@gmail.com,2014-05-14T10:45-07:00,Demian Brecht,demianbrecht@gmail.com,2014-05-14T10:45-07:00,6,3,1,35578,3,2,50,8,1007,1

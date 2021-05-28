@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.OrderedDict,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate,counters.Yield
+0,c25c84c888415a8f242e133c97242e26c3070fe6,Beau Uriona,beau.uriona@gmail.com,2021-03-09T01:53-07:00,GitHub,noreply@github.com,2021-03-09T09:53+01:00,6,6,9,68,27,349828,17,4,2,268,2,3,9897,1,4,8

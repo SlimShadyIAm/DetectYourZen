@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,d400a570bf64b0c216aa7c8e1795820b911a7404,Michael Robinson,mike@pagesofinterest.net,2016-01-25T14:16+13:00,Michael Robinson,mike@pagesofinterest.net,2016-01-25T14:16+13:00,0,2,0,9,46641,31,0,1355

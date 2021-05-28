@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.izip_longest,counters.enumerate,counters.filter
+0,c752defc1b718cfffbf0e0e15532fa1d7840bf6d,Emre Yilmaz,mail@emreyilmaz.me,2018-08-07T22:46+03:00,Emre Yilmaz,mail@emreyilmaz.me,2018-08-07T22:46+03:00,2,1,0,8,12,62680,1,101,0,1960,1,3,1

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,c5c18e55cb7e04fb6d6d8e64024a7dbac1f6b431,nodiscc,nodiscc@gmail.com,2018-10-11T08:12Z,GitHub,noreply@github.com,2018-10-11T08:12Z,7,2,0,62,6,263727,23,2,492,1,0,5,7918,6

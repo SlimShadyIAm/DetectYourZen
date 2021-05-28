@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.namedtuple,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,FileMeta.loc,counters.enumerate
+0,b458aab61c0ac2257c0990119b5de15c1e886f02,Soumith Chintala,soumith@gmail.com,2017-06-09T18:12+03:00,GitHub,noreply@github.com,2017-06-09T18:12+03:00,4,0,5,20,96480,4,6,2,75,2608,1

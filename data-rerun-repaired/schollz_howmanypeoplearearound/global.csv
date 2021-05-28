@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.enumerate
+0,b05e06a78c8182d2a92a5a817ba5ad3cb373ee10,Zack,zack.scholl@gmail.com,2020-05-13T15:37-07:00,GitHub,noreply@github.com,2020-05-13T15:37-07:00,1,6,5591027,1,9,476,3

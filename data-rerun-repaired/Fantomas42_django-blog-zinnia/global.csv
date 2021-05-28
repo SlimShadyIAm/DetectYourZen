@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate,counters.Yield
+0,881101a9d1d455b2fc581d6f4ae0947cdd8126c6,Fantomas42,fantomas42@gmail.com,2020-03-09T21:52+01:00,Fantomas42,fantomas42@gmail.com,2020-03-09T21:52+01:00,32,4,0,222,174,558965,21,3,5,781,0,67,13144,1,2,3

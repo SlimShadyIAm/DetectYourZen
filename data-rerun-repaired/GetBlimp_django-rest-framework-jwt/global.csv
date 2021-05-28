@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,FileMeta.loc
+0,4021e0bd46eed8ca7dd0ea9337e2606951cb55fb,José Padilla,jpadilla@webapplicate.com,2019-08-12T22:11-04:00,José Padilla,jpadilla@webapplicate.com,2019-08-12T22:11-04:00,0,35,6,67721,2,116,2,2086

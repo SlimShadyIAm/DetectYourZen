@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc
+0,67a08c75857365188cc800fcdc64beea546cf892,Maciej Delmanowski,drybjed@drybjed.net,2018-02-02T08:31+01:00,Maciej Delmanowski,drybjed@drybjed.net,2018-02-02T08:31+01:00,1,1,4,3,28638,10,45,817

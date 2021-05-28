@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,003660b70bbe16e218fb8b28377603e86e9d1b36,Kenneth Reitz,me@kennethreitz.org,2017-05-30T13:23-04:00,GitHub,noreply@github.com,2017-05-30T13:23-04:00,1,1,0,3,2,4848,9,0,150

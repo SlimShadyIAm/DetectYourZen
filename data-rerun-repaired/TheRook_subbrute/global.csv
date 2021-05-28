@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield,counters.filter
+0,07d29259c337787bf33626ddc1a713275cf9bc9b,rook,mbrooks@bishopfox.com,2017-02-12T10:49-08:00,rook,mbrooks@bishopfox.com,2017-02-12T10:49-08:00,30,4,45,0,50,3,199033,13,1,1,6,306,1,30,5630,8,2

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody
+0,30faf113932fb7d018c880f4a7eed0fb290e09a2,Sergey Gorbaty,sgorbaty@users.noreply.github.com,2021-05-18T14:16-07:00,GitHub,noreply@github.com,2021-05-18T14:16-07:00,1,0,1,0,13,140302,7,56,1,0,1,3767,68

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,1e24d4dfa960eacddb566f00269eb3d1878a4e00,egrcc,zhaolujun1994@gmail.com,2016-07-18T19:32+08:00,egrcc,zhaolujun1994@gmail.com,2016-07-18T19:32+08:00,0,10,80594,87,5,5,2002,39

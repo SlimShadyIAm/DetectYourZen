@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate
+0,50cecd2209094f2cd0df44c3c412e36a596d349d,junyanz,junyanzhu89@gmail.com,2020-08-04T21:05-04:00,junyanz,junyanzhu89@gmail.com,2020-08-04T21:05-04:00,0,31,0,46,10,152226,6,16,294,0,4352,14

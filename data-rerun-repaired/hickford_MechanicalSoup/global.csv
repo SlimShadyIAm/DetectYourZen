@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
+0,b5b42e3eac4efbd312f1e490c6ea5420970a2358,Dan Hemberger,846186+hemberger@users.noreply.github.com,2021-05-01T11:01-07:00,GitHub,noreply@github.com,2021-05-01T11:01-07:00,1,1,3,7,0,8,44,127097,7,154,3,0,7,3504

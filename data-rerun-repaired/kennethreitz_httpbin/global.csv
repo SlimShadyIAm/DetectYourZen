@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,f8ec666b4d1b654e4ff6aedd356f510dcac09f83,Kenneth Reitz,me@kennethreitz.org,2018-11-07T15:31-05:00,GitHub,noreply@github.com,2018-11-07T15:31-05:00,1,4,2,0,2,4,95418,1,1,1,169,0,4,3270,7

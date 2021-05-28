@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.map,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Yield
+0,3d0b36016bd33bcef682c2bdbcc907b8c2d81f65,Spencer Phillip Young,spencer.young@spyoung.com,2020-04-05T07:25-07:00,GitHub,noreply@github.com,2020-04-05T07:25-07:00,9,4,14389,6,1,37,451,1,2

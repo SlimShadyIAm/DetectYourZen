@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.Lambdaargs,counters.map,MethodCount.n,FileMeta.loc,counters.filter
+0,0cb1c2c619eeed2c5b4cf05a123bf98992e60cd6,Jake Wharton,github@jakewharton.com,2021-04-05T09:19-04:00,GitHub,noreply@github.com,2021-04-05T09:19-04:00,1,0,1,12789,3,2,10,362,2

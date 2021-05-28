@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
+0,f0cf1848ef03783dab2bf56e492ae7bc8258e74c,castis,castis@users.noreply.github.com,2021-01-13T17:08-05:00,GitHub,noreply@github.com,2021-01-13T16:08-06:00,1,0,1,0,3,6,14870,1,17,2,0,5,478

@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,MethodCount.n,FileMeta.loc
+0,d06d7ee1e0dc7f063eea44093353db940af44bd5,Hiroki Nakayama,light.tree.1.13@gmail.com,2018-10-31T20:42+09:00,GitHub,noreply@github.com,2018-10-31T20:42+09:00,1,2,11258,15,317

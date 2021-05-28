@@ -78,6 +78,34 @@ The below repositories were removed from lists due to errors such as:
 `git://github.com/Uberi/speech.git`
 `git://github.com/ageitgey/face.git`
 `git://github.com/alex/django-ta.git`
+`git://github.com/amueller/word.git`
+`git://github.com/andersbll/neural.git`
+`git://github.com/apprenticeharper/DeDRM.git`
+`git://github.com/bitly/data.git`
+`git://github.com/christabor/flask.git`
+`git://github.com/corna/me.git`
+`git://github.com/dalocean/netbox.git`
+`git://github.com/fabianp/memory.git`
+`git://github.com/gnemoug/distribute.git`
+`git://github.com/grantjenks/sorted.git`
+`git://github.com/gregmalcolm/python.git`
+`git://github.com/hanc00l/wooyun.git`
+`git://github.com/instabot-py/instabot.py.git`
+`git://github.com/jinfagang/weibo.git`
+`git://github.com/joshnewlan/say.git`
+`git://github.com/kamyu104/LeetCode.git`
+`git://github.com/kemayo/sublime-text.git`
+`git://github.com/kennethreitz/l.git`
+`git://github.com/livid/v2ex.git`
+`git://github.com/nst/objc.git`
+`git://github.com/oarriaga/face.git`
+`git://github.com/rkern/line.git`
+`git://github.com/sublimehq/anim.git`
+`git://github.com/wbond/package.git`
+`git://github.com/x0rz/tweets.git`
+`git://github.com/xiyouMc/WebHubBot.git`
+`git://github.com/yadayada/acd.git`
+`git://github.com/zzw922cn/Automatic.git`
 
 #### Incorrect "original" sources list
 

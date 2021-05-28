@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.map,MethodCount.n,FileMeta.loc,counters.Exprfinalbody
+0,f17f50606fac5ef30f42c0b5e0fa57b58f696b99,David Kennedy,david.kennedy@trustedsec.com,2021-03-15T19:10-04:00,David Kennedy,david.kennedy@trustedsec.com,2021-03-15T19:10-04:00,2,1,2,323746,1,1,44,10600,1

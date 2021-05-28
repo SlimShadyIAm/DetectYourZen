@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate
+0,6ccbecc1a0dfd04065b081950d2d35b1dac0aaa8,René Scheibe,rene.scheibe@gmail.com,2021-02-02T07:23+01:00,GitHub,noreply@github.com,2021-02-02T15:23+09:00,10,21,16,0,62,48,289005,18,1,1,449,1,4,8670,56,4

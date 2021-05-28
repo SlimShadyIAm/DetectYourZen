@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,73867064fdd24550e06016b9787967f74f2c48b6,mdipierro,massimo.dipierro@gmail.com,2017-10-10T13:05-05:00,mdipierro,massimo.dipierro@gmail.com,2017-10-10T13:05-05:00,28,66,16,0,16,83704,44,5,227,6,4,9,2676,9,1

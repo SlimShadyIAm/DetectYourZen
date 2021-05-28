@@ -146,10 +146,8 @@ git://github.com/amonapp/amon.git
 git://github.com/amperka/ino.git
 git://github.com/amperser/proselint.git
 git://github.com/amscanne/huptime.git
-git://github.com/amueller/word.git
 git://github.com/andelf/fuck12306.git
 git://github.com/andersbll/deeppy.git
-git://github.com/andersbll/neural.git
 git://github.com/andresriancho/w3af.git
 git://github.com/androguard/androguard.git
 git://github.com/andymccurdy/redis-py.git
@@ -164,7 +162,6 @@ git://github.com/antiboredom/videogrep.git
 git://github.com/apache/incubator-airflow.git
 git://github.com/apache/libcloud.git
 git://github.com/apenwarr/sshuttle.git
-git://github.com/apprenticeharper/DeDRM.git
 git://github.com/arthepsy/ssh-audit.git
 git://github.com/asciimoo/drawille.git
 git://github.com/asciimoo/searx.git
@@ -194,7 +191,6 @@ git://github.com/billryan/algorithm-exercise.git
 git://github.com/binux/pyspider.git
 git://github.com/biolab/orange3.git
 git://github.com/biopython/biopython.git
-git://github.com/bitly/data.git
 git://github.com/blaze/blaze.git
 git://github.com/bndr/pipreqs.git
 git://github.com/bokeh/bokeh.git
@@ -240,7 +236,6 @@ git://github.com/chriskiehl/Gooey.git
 git://github.com/chrissimpkins/Hack.git
 git://github.com/chrissimpkins/codeface.git
 git://github.com/chrissimpkins/crypto.git
-git://github.com/christabor/flask.git
 git://github.com/chubin/wttr.in.git
 git://github.com/circus-tent/circus.git
 git://github.com/ckan/ckan.git
@@ -258,7 +253,6 @@ git://github.com/commaai/research.git
 git://github.com/commixproject/commix.git
 git://github.com/conan-io/conan.git
 git://github.com/conda/conda.git
-git://github.com/corna/me.git
 git://github.com/cosven/FeelUOwn.git
 git://github.com/coursera-dl/coursera-dl.git
 git://github.com/cpfair/tapiriik.git
@@ -272,7 +266,6 @@ git://github.com/cuemacro/finmarketpy.git
 git://github.com/cython/cython.git
 git://github.com/dabeaz/curio.git
 git://github.com/dae/anki.git
-git://github.com/dalocean/netbox.git
 git://github.com/danilobellini/audiolazy.git
 git://github.com/darknessomi/musicbox.git
 git://github.com/dask/dask.git
@@ -369,7 +362,6 @@ git://github.com/evhub/coconut.git
 git://github.com/evilsocket/opensnitch.git
 git://github.com/evonove/django-oauth-toolkit.git
 git://github.com/explosion/spaCy.git
-git://github.com/fabianp/memory.git
 git://github.com/fabric/fabric.git
 git://github.com/fabtools/fabtools.git
 git://github.com/facebook/PathPicker.git
@@ -426,7 +418,6 @@ git://github.com/giampaolo/psutil.git
 git://github.com/gitpython-developers/GitPython.git
 git://github.com/gleitz/howdoi.git
 git://github.com/gmate/gmate.git
-git://github.com/gnemoug/distribute.git
 git://github.com/goldsmith/Wikipedia.git
 git://github.com/gongjianhui/AppleDNS.git
 git://github.com/google/enjarify.git
@@ -442,13 +433,11 @@ git://github.com/google/seq2seq.git
 git://github.com/google/yapf.git
 git://github.com/googlemaps/google-maps-services-python.git
 git://github.com/gorakhargosh/watchdog.git
-git://github.com/grantjenks/sorted.git
 git://github.com/graphific/DeepDreamVideo.git
 git://github.com/graphite-project/carbon.git
 git://github.com/graphql-python/graphene.git
 git://github.com/gratipay/gratipay.com.git
 git://github.com/gravitational/workshop.git
-git://github.com/gregmalcolm/python.git
 git://github.com/groveco/django-sql-explorer.git
 git://github.com/gruns/furl.git
 git://github.com/guillermooo/Vintageous.git
@@ -456,7 +445,6 @@ git://github.com/gunthercox/ChatterBot.git
 git://github.com/gurgeh/selfspy.git
 git://github.com/gutomaia/pyNES.git
 git://github.com/hack4impact/flask-base.git
-git://github.com/hanc00l/wooyun.git
 git://github.com/hannes-brt/hebel.git
 git://github.com/harelba/q.git
 git://github.com/hellerve/programming-talks.git
@@ -484,7 +472,6 @@ git://github.com/idan/oauthlib.git
 git://github.com/idank/explainshell.git
 git://github.com/imwilsonxu/fbone.git
 git://github.com/insanum/gcalcli.git
-git://github.com/instabot-py/instabot.py.git
 git://github.com/ipython/ipython.git
 git://github.com/isnowfy/snownlp.git
 git://github.com/isocpp/CppCoreGuidelines.git
@@ -512,7 +499,6 @@ git://github.com/jelmer/dulwich.git
 git://github.com/jesolem/PCV.git
 git://github.com/jgm/CommonMark.git
 git://github.com/jiaaro/pydub.git
-git://github.com/jinfagang/weibo.git
 git://github.com/jisaacks/GitGutter.git
 git://github.com/jisungk/deepjazz.git
 git://github.com/jlsutherland/doc2text.git
@@ -532,7 +518,6 @@ git://github.com/jopohl/urh.git
 git://github.com/jorgebastida/awslogs.git
 git://github.com/jorgebastida/glue.git
 git://github.com/jorgebastida/gordon.git
-git://github.com/joshnewlan/say.git
 git://github.com/jostmey/NakedTensor.git
 git://github.com/jpadilla/pyjwt.git
 git://github.com/jrief/django-angular.git
@@ -548,19 +533,16 @@ git://github.com/justquick/django-activity-stream.git
 git://github.com/jwilder/nginx-proxy.git
 git://github.com/kachayev/fn.py.git
 git://github.com/kamalgill/flask-appengine-template.git
-git://github.com/kamyu104/LeetCode.git
 git://github.com/karpathy/arxiv-sanity-preserver.git
 git://github.com/karpathy/neuraltalk.git
 git://github.com/kbengine/kbengine.git
 git://github.com/keleshev/schema.git
-git://github.com/kemayo/sublime-text.git
 git://github.com/kennethreitz/clint.git
 git://github.com/kennethreitz/envoy.git
 git://github.com/kennethreitz/flask-sockets.git
 git://github.com/kennethreitz/grequests.git
 git://github.com/kennethreitz/httpbin.git
 git://github.com/kennethreitz/inbox.py.git
-git://github.com/kennethreitz/l.git
 git://github.com/kennethreitz/maya.git
 git://github.com/kennethreitz/osx-gcc-installer.git
 git://github.com/kennethreitz/pipenv.git
@@ -598,7 +580,6 @@ git://github.com/lisa-lab/pylearn2.git
 git://github.com/litl/rauth.git
 git://github.com/littlecodersh/ItChat.git
 git://github.com/liuwons/wxBot.git
-git://github.com/livid/v2ex.git
 git://github.com/lk-geimfari/elizabeth.git
 git://github.com/lmacken/pyrasite.git
 git://github.com/locustio/locust.git
@@ -697,7 +678,6 @@ git://github.com/nodejs/node-gyp.git
 git://github.com/nose-devs/nose.git
 git://github.com/novnc/websockify.git
 git://github.com/nryoung/algorithms.git
-git://github.com/nst/objc.git
 git://github.com/numba/numba.git
 git://github.com/numenta/nupic.git
 git://github.com/nvbn/everpad.git
@@ -705,7 +685,6 @@ git://github.com/nvbn/thefuck.git
 git://github.com/nvdv/vprof.git
 git://github.com/nvie/rq.git
 git://github.com/nylas/sync-engine.git
-git://github.com/oarriaga/face.git
 git://github.com/odoo/odoo.git
 git://github.com/olgabot/prettyplotlib.git
 git://github.com/oliver006/elasticsearch-gmail.git
@@ -814,7 +793,6 @@ git://github.com/rg3/youtube-dl.git
 git://github.com/rhiever/tpot.git
 git://github.com/ricequant/rqalpha.git
 git://github.com/richzhang/colorization.git
-git://github.com/rkern/line.git
 git://github.com/robotframework/robotframework.git
 git://github.com/rolando/scrapy-redis.git
 git://github.com/roots/trellis.git
@@ -885,7 +863,6 @@ git://github.com/stephenmcd/django-socketio.git
 git://github.com/stephenmcd/mezzanine.git
 git://github.com/streamlink/streamlink.git
 git://github.com/sublimehq/Packages.git
-git://github.com/sublimehq/anim.git
 git://github.com/sylnsfar/qrcode.git
 git://github.com/sympy/sympy.git
 git://github.com/taigaio/taiga-back.git
@@ -938,7 +915,6 @@ git://github.com/warmheartli/ChatBotCourse.git
 git://github.com/warner/magic-wormhole.git
 git://github.com/waylan/Python-Markdown.git
 git://github.com/wbond/oscrypto.git
-git://github.com/wbond/package.git
 git://github.com/web2py/web2py.git
 git://github.com/webpy/webpy.git
 git://github.com/wepe/MachineLearning.git
@@ -952,12 +928,9 @@ git://github.com/worldveil/dejavu.git
 git://github.com/wrobstory/vincent.git
 git://github.com/wting/autojump.git
 git://github.com/wuub/SublimeREPL.git
-git://github.com/x0rz/tweets.git
 git://github.com/xchaoinfo/fuck-login.git
 git://github.com/xianhu/LearnPython.git
-git://github.com/xiyouMc/WebHubBot.git
 git://github.com/xonsh/xonsh.git
-git://github.com/yadayada/acd.git
 git://github.com/yahoo/TensorFlowOnSpark.git
 git://github.com/yandex/gixy.git
 git://github.com/yandex/yandex-tank.git
@@ -976,5 +949,4 @@ git://github.com/zeromq/pyzmq.git
 git://github.com/zoofIO/flexx.git
 git://github.com/zsdonghao/tensorlayer.git
 git://github.com/zulip/zulip.git
-git://github.com/zzw922cn/Automatic.git
 git://github.com/zzzeek/sqlalchemy.git

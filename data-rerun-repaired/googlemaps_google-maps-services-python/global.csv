@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.Yield
+0,a9460c0138ea95d4eacfe4ed2dcd1528ad7c4b54,dependabot-preview[bot],27856297+dependabot-preview[bot]@users.noreply.github.com,2021-04-29T15:29-06:00,GitHub,noreply@github.com,2021-04-29T15:29-06:00,6,7,0,26,31,176358,1,190,0,5057,1

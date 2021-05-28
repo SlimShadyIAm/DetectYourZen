@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,b612190f279da3c11dd8b1396dd5e72779f8e463,Ross Girshick,ross.girshick@gmail.com,2018-01-22T21:59-08:00,GitHub,noreply@github.com,2018-01-22T21:59-08:00,5,8,13,99860,11,2,112,1,9,2767,7

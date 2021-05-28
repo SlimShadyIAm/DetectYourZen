@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.OrderedDict,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.Yield
+0,3dfcffc91fa2663734c25f2e0edc0193c2cf8601,Jannis Gebauer,jayfk@users.noreply.github.com,2020-01-04T11:11+01:00,GitHub,noreply@github.com,2020-01-04T11:11+01:00,2,1,2,4,23826,3,36,728,1

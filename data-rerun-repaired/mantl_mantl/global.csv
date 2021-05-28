@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Yield,counters.filter
+0,b042447bfd874d811cdf08c59e0d221e722c5398,Travis Rowland,travis.rowland@gmail.com,2018-02-02T19:49-08:00,GitHub,noreply@github.com,2018-02-02T19:49-08:00,2,11,3,3,6,95603,3,2,2,110,10,2818,6,1

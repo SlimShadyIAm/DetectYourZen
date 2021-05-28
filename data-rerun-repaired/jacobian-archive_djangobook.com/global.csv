@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc
+0,e39a02a405c2f7fad1164bbd0b88b1b6c39bd587,Jacob Kaplan-Moss,jacob@jacobian.org,2014-08-30T10:46-07:00,Jacob Kaplan-Moss,jacob@jacobian.org,2014-08-30T10:46-07:00,2,15777,2,17,452

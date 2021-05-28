@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,48d8e29ad3e2e7051097092eceda4dbe5b67e3da,Andrew Moffat,arwmoffat@gmail.com,2020-12-28T09:23-08:00,GitHub,noreply@github.com,2020-12-28T09:23-08:00,5,10,10,43956,136,5,1593,2,5

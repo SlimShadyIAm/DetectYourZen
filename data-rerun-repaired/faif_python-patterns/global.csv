@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
+0,4fcbf1b27f30820f5800c68aa406e0c1cfc7df05,Sakis Kasampalis,faif@users.noreply.github.com,2021-01-25T23:10+01:00,GitHub,noreply@github.com,2021-01-25T23:10+01:00,6,43,26,0,144,16,117182,1,1,1,420,9,0,35,4315
