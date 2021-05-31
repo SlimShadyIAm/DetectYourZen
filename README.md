@@ -121,6 +121,10 @@ The below repositories were removed from lists due to errors such as:
 `git://github.com/owid/covid-19-data.git`
 `git://github.com/Azure/azure-sdk-for-python.git`
 
+<!-- despite less projects, new set had 4% higher lines of code so we weighted it on projects -->
+<!-- 997
+952 -->
+
 
 <!-- error files -->
 <!-- git://github.com/abatchy17/WindowsExploits.git -->

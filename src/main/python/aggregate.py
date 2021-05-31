@@ -57,18 +57,25 @@ argp.add_argument('-d',
                    help="Path containing project directories", nargs="+", action="append")
 argp.add_argument('--tex', dest='tex', action='store_true')
 argp.add_argument('--stdout', dest='stdout', action='store_true')
+argp.add_argument('--weighted', dest='weighted', action='store_true')
 argp.set_defaults(tex=False, stdout=False)
 args = argp.parse_args()
 
-all_projects = []
+all_projects_initial = []
 headers = set()
 skipHeaders = 8
+max_projects = -1
 
 for datadir in args.d:
     allData = OrderedDict()
     datadir = datadir[0]
     idiomStats = OrderedDict()
-    for project in sorted(glob.glob(os.path.join(datadir, '*'))):
+    
+    projects = sorted(glob.glob(os.path.join(datadir, '*')))
+    if len(projects) > max_projects:
+        max_projects = len(projects)
+        
+    for project in projects:
         datafile = os.path.join(project, "global.csv")
         if os.path.exists(datafile):
             with open(datafile, 'r') as csv_in:
@@ -96,76 +103,62 @@ for datadir in args.d:
                 stats["present"] += 1
                 stats["count"] += int(data[header])
         idiomStats[header] = stats
-    all_projects.append(idiomStats)
-if args.tex:
-    if len(all_projects) == 0:
-        idiomStats = all_projects[0]
-        print("\\centering")
-        print("\\begin{tabular}{c | c | c} \\\\")
-        print("Idiom & Projects & Use Count \\\\ [0.5ex]")
-        print("\hline\hline")
-        for name, meta in idioms.items():
-            stats = idiomStats.get(meta[2])
+    all_projects_initial.append((idiomStats, len(projects)))
 
-            if stats is not None and stats.get("present"):
-                print("\\textbf{%s} & \\textbf{%d} & \\textbf{%d} \\\\ " %
-                (name,
-                stats["present"],
-                stats["count"],
-                # meta[3])
-                )
-                )
-        print("\end{tabular}")
-    else:
-        print("\\centering")
-        print("\\begin{tabular} { c || " + ' || '.join(['c | c' for _ in range(len(all_projects))]) + "} \\\\")
-        headers = "Idioms"
-        
-        for i, header in enumerate(args.d):
-            headers += " & \multicolumn{2}{c}{" + header[0] + "}"
-        
-        print(headers + " \\\\")
-        
-        # line = (f"\cline")
-        yes = ""
-        for i in range(len(all_projects)):
-            i += 1
-            i *= 2
+all_projects = []
+for idiomStats, numProjects in all_projects_initial:
+    all_projects.append((idiomStats, max_projects / numProjects))
             
-            yes += "\cline{" + str(i) + "-" + str(i+1) + "} "
-            
-        for _ in range(len(all_projects)):
-            yes += (f" & Projects & Use Count")
-        yes += " \\\\ [0.5ex]"
-        print(yes)
+if args.tex:
+    print("\\centering")
+    print("\\begin{tabular} { c || " + ' || '.join(['c | c' for _ in range(len(all_projects))]) + "} \\\\")
+    headers = "Idioms"
+    
+    for i, header in enumerate(args.d):
+        headers += " & \multicolumn{2}{c}{" + header[0] + "}"
+    
+    print(headers + " \\\\")
+    
+    # line = (f"\cline")
+    yes = ""
+    for i in range(len(all_projects)):
+        i += 1
+        i *= 2
         
-        print("\hline\hline")
-        for name, meta in idioms.items():
-            found = False
-            for idiomStats in all_projects:
-                stats = idiomStats.get(meta[2])
-                if stats is not None:
-                    found = True
-                    break
-                
-            if not found:
-                continue
+        yes += "\cline{" + str(i) + "-" + str(i+1) + "} "
+        
+    for _ in range(len(all_projects)):
+        yes += (f" & Projects & Use Count")
+    yes += " \\\\ [0.5ex]"
+    print(yes)
+    
+    print("\hline\hline")
+    for name, meta in idioms.items():
+        found = False
+        for idiomStats, _ in all_projects:
+            stats = idiomStats.get(meta[2])
+            if stats is not None:
+                found = True
+                break
             
-            line = "\\textbf{" + name + "}"
-            for idiomStats in all_projects:
-                line += " & "
-                stats = idiomStats.get(meta[2])
-                if stats is None:
-                    line += ("\\textbf{---} & \\textbf{---}")
+        if not found:
+            continue
+        
+        line = "\\textbf{" + name + "}"
+        for idiomStats, weight in all_projects:
+            line += " & "
+            stats = idiomStats.get(meta[2])
+            if stats is None:
+                line += ("\\textbf{---} & \\textbf{---}")
+            else:
+                # Idioms without a description
+                if args.weighted:
+                    line += (f'\\textbf{(int(stats["present"]*weight))} & \\textbf{(int(stats["count"]*weight))}')
                 else:
-                    # Idioms without a description
-                    line += ("\\textbf{%d} & \\textbf{%d}" %
-                        (stats["present"],
-                        stats["count"])
-                        )
-            line += " \\\\"
-            print(line)
-        print("\end{tabular}")
+                    line += (f'\\textbf{(int(stats["present"]))} & \\textbf{(int(stats["count"]))}')
+        line += " \\\\"
+        print(line)
+    print("\end{tabular}")
 # if args.stdout:
 #     import pprint
 #     pp = pprint.PrettyPrinter(depth=6)
