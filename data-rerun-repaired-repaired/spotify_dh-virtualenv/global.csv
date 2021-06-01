@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,2dc93574865d6dd9e1fc470541e3232dcbad3337,Jyrki Pulliainen,jyrki@dywypi.org,2021-04-12T21:40+03:00,GitHub,noreply@github.com,2021-04-12T21:40+03:00,1,2,1,4,31,68602,4,6,85,6,1854,1,3

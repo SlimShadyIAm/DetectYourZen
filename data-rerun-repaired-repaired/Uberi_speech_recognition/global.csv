@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate
+0,c89856088ad81d81d38be314e3db50905481c5fe,Anthony Zhang,me@anthonyz.ca,2019-07-02T13:29-04:00,GitHub,noreply@github.com,2019-07-02T13:29-04:00,7,1,8,0,15,50,136703,1,1,86,3,0,3,2333,8,1

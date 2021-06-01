@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,44937c508397486722e2e6d8c044792a818acfe3,Lie Ryan,lie.1296@gmail.com,2020-03-01T22:28+11:00,Jonathan Slenders,jonathan@slenders.be,2020-03-06T21:25+01:00,6,33,2,0,36,6,123534,10,16,300,0,22,3949,4,8

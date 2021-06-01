@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,counters.GeneratorExpargs,counters.namedtuple,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,d6d8ad56e3144d32984966942ed88c4f119a668c,Matteo Piano,mpiano@yelp.com,2019-06-19T16:40+01:00,GitHub,noreply@github.com,2019-06-19T16:40+01:00,8,2,1,6,2,0,15,39,86070,15,1,142,0,31,2313,1

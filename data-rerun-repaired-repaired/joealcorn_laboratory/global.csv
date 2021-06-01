@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,counters.OrderedDict,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody
+0,972250191633fa52aa8af03b0b1f3ea270140cc4,Joseph Porter,joseph.porter@warbyparker.com,2020-08-09T17:35-04:00,Joe Alcorn,joealcorn123@gmail.com,2020-09-03T11:24+01:00,1,1,8,3,0,7,5,24363,3,8,52,0,2,784,1

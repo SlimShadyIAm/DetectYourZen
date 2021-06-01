@@ -8,10 +8,9 @@ for dir_ in dirs:
     
     if len(dir_) == 1:
         continue
-        
     else:
         owner = dir_[0]
-        repo = dir_[1]
+        repo = "_".join(dir_[1:])
         
         url = f"git://github.com/{owner}/{repo}.git"
         folder_set.add(url.strip())

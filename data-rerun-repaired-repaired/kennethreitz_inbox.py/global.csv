@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,MethodCount.n,FileMeta.loc
+0,493f8d9834a41ac9012f13da5693697efdcb1826,Kenneth Reitz,me@kennethreitz.org,2016-07-11T13:18-04:00,GitHub,noreply@github.com,2016-07-11T13:18-04:00,0,2,3029,6,108

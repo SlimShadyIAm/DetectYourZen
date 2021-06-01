@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.DictCompargs,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,counters.map,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
+0,96f73ec21fa3b6e12461d1004bd8560d4eb063fe,Daniel Johnson,hexahedria@gmail.com,2017-05-10T12:37-07:00,GitHub,noreply@github.com,2017-05-10T12:37-07:00,1,4,5,3,28672,24,6,1,2,52,3,743,3

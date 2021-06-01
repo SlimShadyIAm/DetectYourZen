@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.filter
+0,fe31c32d8241adbdaa479223850d6e9e510a8d58,buckket,felix@buckket.org,2021-01-24T22:01+01:00,GitHub,noreply@github.com,2021-01-24T22:01+01:00,5,4,6,8,0,5,23,73910,3,126,1,0,32,2275,1

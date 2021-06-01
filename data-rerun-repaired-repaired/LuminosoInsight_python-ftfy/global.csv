@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,4e87b8cfde3a28e837a418544f7b840d0fa3adb7,Robyn Speer,gh@arborelia.net,2021-05-17T15:04-04:00,GitHub,noreply@github.com,2021-05-17T15:04-04:00,5,10,5,122199,5,85,1,1,3395,1,1

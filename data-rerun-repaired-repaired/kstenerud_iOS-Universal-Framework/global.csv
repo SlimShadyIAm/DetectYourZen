@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,MethodCount.n,FileMeta.loc,counters.Exprfinalbody,counters.enumerate,counters.filter
+0,7b88ec6b294ac83eb96251d7ea869300e7b1ff9b,Karl Stenerud,kstenerud@gmail.com,2016-06-21T14:19-07:00,GitHub,noreply@github.com,2016-06-21T14:19-07:00,1,0,2,7,39530,13,1,13,57,962,1,1,10

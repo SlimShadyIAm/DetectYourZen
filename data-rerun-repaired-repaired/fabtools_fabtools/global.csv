@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,5fdc7174c3fae5e93a16d677d0466f41dc2be175,Ronan Amicel,ronan@amicel.net,2019-09-16T11:19+02:00,GitHub,noreply@github.com,2019-09-16T11:19+02:00,3,2,6,0,32,224,372896,23,7,12,682,0,7,13752,51,23

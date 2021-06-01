@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.Lambdaargs,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate,counters.Yield
+0,95a30c4959963377c9e3324878f89a37753060e1,Gustavo Iñiguez Goia,gooffy1@gmail.com,2021-05-31T20:22+02:00,Gustavo Iñiguez Goia,gooffy1@gmail.com,2021-05-31T20:22+02:00,2,17,13,222749,4,312,12,12,5380,3,9,1

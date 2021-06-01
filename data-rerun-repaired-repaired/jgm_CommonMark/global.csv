@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc
+0,37f6e702350e446b5415647dd90a62cfabc36c50,John MacFarlane,jgm@berkeley.edu,2021-02-06T22:29-08:00,John MacFarlane,jgm@berkeley.edu,2021-02-06T22:29-08:00,0,3,1,13741,1,21,377

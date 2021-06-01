@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.zip,counters.map,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,48baeb287f54c0448bf6cd509245b85345e772b4,Daniel Schep,dschep@gmail.com,2020-10-30T16:18-04:00,Daniel Schep,dschep@gmail.com,2020-10-30T16:18-04:00,2,1,0,25,3,92909,1,2,129,0,2921

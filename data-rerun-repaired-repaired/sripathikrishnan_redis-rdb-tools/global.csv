@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,counters.namedtuple,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.map,MethodCount.n,FileMeta.loc,counters.enumerate
+0,548b11ec3c81a603f5b321228d07a61a0b940159,Oran Agra,oran@redislabs.com,2020-06-28T17:21+03:00,Oran Agra,oran@redislabs.com,2020-06-28T17:21+03:00,13,1,1,25,3,154749,2,2,424,3797,1

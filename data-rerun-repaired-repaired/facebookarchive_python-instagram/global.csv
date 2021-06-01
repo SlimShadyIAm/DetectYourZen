@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,da51708ed59e8e3d602b4a3c7389a66905f57677,Joel Marcey,joelm@fb.com,2018-01-02T16:17-08:00,GitHub,noreply@github.com,2018-01-02T16:17-08:00,6,3,5,0,29,59017,1,145,12,6,1579,1,1

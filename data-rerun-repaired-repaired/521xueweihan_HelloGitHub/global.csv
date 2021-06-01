@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,795d8ac8a8d08b65e6927dbfd9f5272fcf92b1bd,xueweihan,595666367@qq.com,2021-05-28T00:04+08:00,xueweihan,595666367@qq.com,2021-05-28T08:32+08:00,0,1,0,1,2,8497,15,0,313

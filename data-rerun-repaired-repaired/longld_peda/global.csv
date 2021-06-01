@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
+0,84d38bda505941ba823db7f6c1bcca1e485a2d43,Long Le,longld@vnsecurity.net,2021-01-03T09:17+07:00,GitHub,noreply@github.com,2021-01-03T09:17+07:00,2,19,8,0,23,284691,20,1,1,319,9,2,47,8603,13,6

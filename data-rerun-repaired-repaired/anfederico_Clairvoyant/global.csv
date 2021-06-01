@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.enumerate
+0,282e2c5e9114d8d24d812ec9555fb3b306594553,anfederico,anfederico@users.noreply.github.com,2018-08-29T16:27-04:00,GitHub,noreply@github.com,2018-08-29T16:27-04:00,0,2,0,11,20531,4,39,0,488,1

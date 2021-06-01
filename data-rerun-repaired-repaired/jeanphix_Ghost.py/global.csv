@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
+0,d0f6c9a2e95d529966ef9c9fcb626f94ae2b036c,jean-philippe serafin,serafinjp@gmail.com,2017-05-03T08:00+02:00,GitHub,noreply@github.com,2017-05-03T08:00+02:00,3,6,6,0,17,6,76935,3,9,176,0,13,2328,2,2

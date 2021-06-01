@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,counters.namedtuple,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,FileMeta.loc,counters.filter
+0,59e8bd3cd1587086337602c667c2d31db5053252,Dylan Ayrey,dxa4481@rit.edu,2021-05-04T07:31-07:00,GitHub,noreply@github.com,2021-05-04T07:31-07:00,6,1,0,2,3,28956,2,1,23,608,1

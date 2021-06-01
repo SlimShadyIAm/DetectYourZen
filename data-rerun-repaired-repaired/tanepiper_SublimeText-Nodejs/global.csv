@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.Yield
+0,877e3d80b7e3115c1de936ca5dc136a4e584fc7e,Vardan Pogosian,vardan.pogosyan@gmail.com,2020-04-26T11:11+03:00,GitHub,noreply@github.com,2020-04-26T11:11+03:00,2,27,4,40320,1,12,106,3,3,1139,16

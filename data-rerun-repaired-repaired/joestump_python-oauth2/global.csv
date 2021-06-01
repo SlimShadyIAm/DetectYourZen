@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.classmethod,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
+0,b94f69b1ad195513547924e380d9265133e995fa,Daniel Holmes,daniel.holmes@djcentric.com,2018-02-12T16:35+10:00,GitHub,noreply@github.com,2018-02-12T16:35+10:00,5,2,5,3,0,31,120708,3,16,193,3,0,12,3207

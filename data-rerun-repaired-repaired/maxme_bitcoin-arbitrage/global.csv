@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc
+0,32613f0d19427786a6e8f4eb65c8e053bee5681f,Maxime Biais,maxime.biais@gmail.com,2019-12-09T08:56+01:00,Maxime Biais,maxime.biais@gmail.com,2019-12-09T08:56+01:00,0,1,0,49,60071,1,175,0,1918

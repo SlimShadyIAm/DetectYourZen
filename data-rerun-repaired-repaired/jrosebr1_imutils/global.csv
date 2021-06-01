@@ -1,0 +1,2 @@
+N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.OrderedDict,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Yield,counters.filter
+0,c12f15391fcc945d0d644b85194b8c044a392e0a,Adrian Rosebrock,adrian@pyimagesearch.com,2021-01-15T05:46-05:00,Adrian Rosebrock,adrian@pyimagesearch.com,2021-01-15T05:46-05:00,2,0,11,71485,3,2,1,81,2176,7,1,1
