@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.Yield
-0,4e150ba3428013e55c274b06829b0360704d6750,Josh Junon,junon@wavetilt.com,2021-01-29T17:48+01:00,Josh Junon,junon@wavetilt.com,2021-01-29T17:48+01:00,2,2,0,12,3,27239,7,66,0,970,8

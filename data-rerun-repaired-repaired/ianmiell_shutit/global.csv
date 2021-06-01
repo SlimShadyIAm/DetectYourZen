@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.filter
-0,509e273584408f01d216b5cc80058c03fe6654f4,ian,ian.miell@gmail.com,2020-01-30T11:10Z,ian,ian.miell@gmail.com,2020-01-30T11:10Z,2,8,13,0,25,6,694535,16,3,7,368,1,0,2,14641,1,3

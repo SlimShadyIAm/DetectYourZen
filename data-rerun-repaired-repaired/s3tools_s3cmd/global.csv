@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
-0,ee4b303d814d35230ee51d5b04ef51d302d35506,Florent Viard,florent@sodria.com,2021-04-26T01:55+02:00,Florent Viard,florent@sodria.com,2021-04-26T01:55+02:00,12,19,0,50,9,370754,14,1,2,423,17,7,17,9251,14

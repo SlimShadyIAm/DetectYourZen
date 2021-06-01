@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
-0,556ad287dc3b0879a539549fed776f3ef2ef4a1a,PeterDing,dfhayst@gmail.com,2021-01-21T16:12+08:00,PeterDing,dfhayst@gmail.com,2021-01-21T16:12+08:00,30,5,0,18,20,313851,51,4,338,9,0,9,8832,2,2

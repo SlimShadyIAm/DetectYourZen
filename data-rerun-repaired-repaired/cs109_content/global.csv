@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc,counters.Yield
-0,caffc21c8f7c758c1884852ed023d29dccea063f,Chris Beaumont,beaumont@hawaii.edu,2014-07-07T10:02-04:00,Chris Beaumont,beaumont@hawaii.edu,2014-07-07T10:02-04:00,0,1,0,8,26414,4,43,0,861,25

@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,FileMeta.loc
-0,b37f324f9a4df68c3799da5b7dc2559921293e9b,gaosen,0x5e@sina.cn,2016-06-28T23:42+08:00,gaosen,0x5e@sina.cn,2016-06-28T23:42+08:00,0,1,14799,2,1,1,17,572

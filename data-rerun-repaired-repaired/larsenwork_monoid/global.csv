@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.Yield
-0,0673c8d6728df093faee9f183b6dfa62939df8c0,Andreas Larsen,andreas@larsenwork.com,2020-10-26T08:45+01:00,GitHub,noreply@github.com,2020-10-26T08:45+01:00,6,8381,4,20,252,1

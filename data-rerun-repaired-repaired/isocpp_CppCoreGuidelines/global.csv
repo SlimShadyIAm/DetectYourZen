@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
-0,e5839299964d9ceacc84cb595692b72c89c21e73,Herb Sutter,herb.sutter@gmail.com,2021-05-13T11:48-07:00,Herb Sutter,herb.sutter@gmail.com,2021-05-13T11:48-07:00,4,0,12,5,258682,7,179,1,1,6720,2

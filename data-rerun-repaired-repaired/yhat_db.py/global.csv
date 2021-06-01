@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
-0,df2dbb8ef947c2d4253d31f29eb58c4084daffc5,Greg Lamp,lamp.greg@gmail.com,2017-03-31T10:41-04:00,Greg Lamp,lamp.greg@gmail.com,2017-03-31T10:41-04:00,2,1,12,0,9,6,98549,5,124,1,0,4,2506

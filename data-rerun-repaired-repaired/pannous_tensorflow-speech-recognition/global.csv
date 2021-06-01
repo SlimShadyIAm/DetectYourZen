@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,counters.map,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield,counters.filter
-0,ee483450c73f13a0e4f0c11ea26dba75fcc1913e,pannous,info@pannous.net,2018-06-20T20:08Z,GitHub,noreply@github.com,2018-06-20T20:08Z,3,6,20,122778,15,3,3,7,107,5,3388,5,4,1

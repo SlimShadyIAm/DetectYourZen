@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,counters.OrderedDict,NestedFunctionCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,MethodCount.n,FileMeta.loc,counters.enumerate
-0,61e12a7a0453bdc62013c7c07b7f7c331059d360,Ryan Kiros,rkiros@cs.toronto.edu,2015-11-14T13:36-05:00,Ryan Kiros,rkiros@cs.toronto.edu,2015-11-14T13:36-05:00,4,9,5,7,43291,4,3,2,64,1398,8

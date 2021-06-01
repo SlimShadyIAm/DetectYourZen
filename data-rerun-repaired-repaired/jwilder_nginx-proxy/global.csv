@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
-0,49b2b5cd9798582b1d64e9a6b00f72ff712c72c0,Nicolas Duchon,nicolas.duchon@gmail.com,2021-05-28T12:07+02:00,GitHub,noreply@github.com,2021-05-28T12:07+02:00,8,1,0,2,12,58930,2,6,1,166,1,0,1,1548,7

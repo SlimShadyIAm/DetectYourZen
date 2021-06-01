@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.map,MethodCount.n,FileMeta.loc,counters.enumerate,counters.Yield,counters.filter
-0,5eb8e09204190baa75e9a853dd45282e7b8e7a81,Nick Fisher,spadgos@gmail.com,2015-08-17T23:19+02:00,Nick Fisher,spadgos@gmail.com,2015-08-17T23:19+02:00,7,23,72689,1,2,141,2045,8,1,1

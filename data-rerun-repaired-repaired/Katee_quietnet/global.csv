@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,FileMeta.bytes,counters.ListComp,MethodCount.n,FileMeta.loc,counters.Yield
-0,a38869187ca3ea64fa0333f1516c4b4b0d5d86c9,katee,hello@kate.io,2017-10-14T19:49-04:00,katee,hello@kate.io,2017-10-14T19:49-04:00,0,14385,7,32,509,1

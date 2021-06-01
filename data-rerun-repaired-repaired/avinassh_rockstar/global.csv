@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.map,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.Yield
-0,4cdbfb9a82f53b888f32b094d359ff8dacc92a13,avi,hi@avi.im,2021-05-11T18:00+05:30,avi,hi@avi.im,2021-05-11T18:00+05:30,1,1,5,20155,2,1,10,1,1,655,1

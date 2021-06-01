@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.defaultdict,counters.OrderedDict,counters.GeneratorExpargs,counters.namedtuple,NestedFunctionCount.n,counters.groupby,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.Yield
-0,19c78909d4d75212addcc8085cc8fbab5d9f94f6,Nick Stenning,nick@whiteink.com,2020-03-22T18:58+01:00,Nick Stenning,nick@whiteink.com,2020-03-22T18:58+01:00,2,2,5,2,7,1,33,8,86947,6,3,220,1,2898,1,7

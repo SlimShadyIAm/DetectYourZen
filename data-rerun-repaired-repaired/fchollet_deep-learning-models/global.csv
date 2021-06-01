@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.zip,counters.Lambdaargs,MethodCount.n,FileMeta.loc
-0,ccd0eb24996b4cbff4231b90cd44b057c0b20f14,Francois Chollet,fchollet@fchollet-macbookpro.roam.corp.google.com,2017-09-08T14:10-07:00,Francois Chollet,fchollet@fchollet-macbookpro.roam.corp.google.com,2017-09-08T14:10-07:00,0,1,112830,1,1,1,30,2764

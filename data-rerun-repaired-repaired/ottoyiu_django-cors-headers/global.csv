@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.Yield
-0,962ce4df143b69fd3937981351c14948d580e248,pre-commit-ci[bot],66853113+pre-commit-ci[bot]@users.noreply.github.com,2021-06-01T08:54+01:00,GitHub,noreply@github.com,2021-06-01T08:54+01:00,4,6,9,5,44349,2,116,11,1200,1,1

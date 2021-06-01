@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.map,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Yield
-0,8433cc30fd4dff046a95dd02e26a3e901595be21,Michael Elsdörfer,michael@elsdoerfer.info,2020-02-29T00:06Z,Michael Elsdörfer,michael@elsdoerfer.info,2020-02-29T00:06Z,2,4,0,15,7,49650,1,2,73,0,1,1375,1

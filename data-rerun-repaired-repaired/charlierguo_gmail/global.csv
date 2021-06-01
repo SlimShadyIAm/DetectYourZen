@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,counters.Namedecorator_list,FileMeta.loc,counters.filter
-0,4626823d3fbf159d242a50b33251576aeddbd9ad,Charlie Guo,charlierguo@gmail.com,2014-02-04T14:59-08:00,Charlie Guo,charlierguo@gmail.com,2014-02-04T14:59-08:00,1,8,1,22693,2,2,1,61,1,706,1

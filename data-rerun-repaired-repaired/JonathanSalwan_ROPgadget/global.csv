@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.enumerate,counters.filter
-0,2f49bdf84cfaf9af13c7efabb4052f30e30e21d0,Alexey Vishnyakov,vishnya@ispras.ru,2021-04-02T12:28+03:00,GitHub,noreply@github.com,2021-04-02T12:28+03:00,7,1,44,118972,5,3,2,154,1,1,3059,1,1

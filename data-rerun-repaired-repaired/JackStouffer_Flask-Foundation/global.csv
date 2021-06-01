@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,MethodCount.n,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc
-0,5c9025b1410d917cb837e7d684043462f0c16625,Jack Stouffer,jack@jackstouffer.com,2017-07-25T13:10-04:00,GitHub,noreply@github.com,2017-07-25T13:10-04:00,1,1,0,10,11049,31,0,2,346

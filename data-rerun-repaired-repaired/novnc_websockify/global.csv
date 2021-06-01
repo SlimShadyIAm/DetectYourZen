@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody
-0,eca301c05b5a5ae9b6896128a44fe2b6c7883c4d,Pierre Ossman,ossman@cendio.se,2021-05-03T14:34+02:00,Pierre Ossman,ossman@cendio.se,2021-05-03T14:34+02:00,19,1,0,60,6,153128,2,244,3,0,3,4279,2

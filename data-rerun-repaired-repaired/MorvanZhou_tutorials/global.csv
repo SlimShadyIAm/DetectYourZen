@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,NestedFunctionCount.n,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,counters.zip,counters.map,MethodCount.n,counters.staticmethod,counters.Namedecorator_list,FileMeta.loc,counters.enumerate
-0,c36c8995951bc09890efd329635c2b74bd532610,morvanzhou,morvanzhou@hotmail.com,2020-10-31T11:07+08:00,morvanzhou,morvanzhou@hotmail.com,2020-10-31T11:07+08:00,6,12,58,180122,2,5,2,100,4,4,5423,2

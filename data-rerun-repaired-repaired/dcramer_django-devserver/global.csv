@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.GeneratorExpargs,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,FileMeta.bytes,counters.ListComp,counters.Lambdaargs,counters.map,MethodCount.n,counters.staticmethod,MagicMethods.level2,counters.Namedecorator_list,FileMeta.loc,counters.Exprfinalbody,counters.enumerate
-0,35f9abf601e6cc2ed3cdbb78fb60018d7bd5a48d,Edwin Grubbs,edwin@grubbs.org,2016-03-05T09:18-06:00,Edwin Grubbs,edwin@grubbs.org,2016-03-05T09:18-06:00,5,4,4,0,26,47065,2,1,4,88,1,0,1,1363,2,1

@@ -1,2 +1,0 @@
-N,Hash,AuthorName,AuthorEmail,AuthorDate,CommitterName,CommitterEmail,CommitterDate,counters.DictCompargs,counters.GeneratorExpargs,counters.namedtuple,NestedFunctionCount.n,MagicMethods.level1,MagicMethods.level3,ClassCount.n,counters.Withbody,FileMeta.bytes,counters.ListComp,MethodCount.n,MagicMethods.level2,FileMeta.loc
-0,8015bc1b3c9f43bcf9baa8407330338224232689,Tim Gates,tim.gates@iress.com,2020-02-10T21:46+11:00,GitHub,noreply@github.com,2020-02-10T10:46Z,1,1,1,3,7,1,31,20,111859,20,148,0,3260
