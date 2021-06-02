@@ -32,7 +32,6 @@ idioms = OrderedDict([
     ("collections.deque",          [1, 1, "counters.deque", "deque"]),
     ("heapq",          [1, 1, "counters.heapq", "heapq"]),
     ("collections.Counter",        [0, 1, "counters.Counter", "counter"]),
-    ("pprint.pprint",              [0, 1, "counters.pprint", "pprint"]),
     ("@classmethod",               [0, 1, "counters.classmethod", "classmethod"]),
     ("@staticmethod",              [0, 1, "counters.staticmethod", "staticmethod"]),
     ("@property",              [0, 1, "counters.property", "property"]),
