@@ -51,12 +51,34 @@ itertools = [
   "counters.groupby",
 ]
 
+ignore_list = [
+    "data-original/AKSHAYUBHAT_DeepVideoAnalytics",
+    "data-original/Russell91_pythonpy",
+    "data-original/SirCmpwn_evilpass",
+    "data-original/alex_django-ta",
+    "data-original/dalocean_netbox",
+    "data-original/instabot_py/instabot.py",
+    "data-original/kamyu104_LeetCode",
+    "data-original/kemayo_sublime-text",
+    "data-original/kennethreitz_l",
+    "data-original/livid_v2ex",
+    "data-original/xiyouMc_WebHubBot",
+    "data-original/PressLabsfs",
+    "data-original/anishathalye-remote-dropbox",
+    "data-original/arc90-sweep",
+    "data-original/donnemartinsome",
+    "data-original/gelstudiosfiti",
+    "data-original/git-cola-cola",
+    "data-original/sdg-mitless"
+]
+
 argp = argparse.ArgumentParser()
 argp.add_argument('-d',
                    help="Path containing project directories", nargs="+", action="append")
 argp.add_argument('--tex', dest='tex', action='store_true')
 argp.add_argument('--stdout', dest='stdout', action='store_true')
 argp.add_argument('--weighted', dest='weighted', action='store_true')
+argp.add_argument('--diffy', dest='diffy', action='store_true')
 argp.set_defaults(tex=False, stdout=False)
 args = argp.parse_args()
 
@@ -69,12 +91,15 @@ for datadir in args.d:
     allData = OrderedDict()
     datadir = datadir[0]
     idiomStats = OrderedDict()
-    
+
     projects = sorted(glob.glob(os.path.join(datadir, '*')))
     if len(projects) > max_projects:
         max_projects = len(projects)
         
     for project in projects:
+        if project in ignore_list:
+            continue
+        
         datafile = os.path.join(project, "global.csv")
         if os.path.exists(datafile):
             with open(datafile, 'r') as csv_in:
@@ -110,11 +135,17 @@ for idiomStats, numProjects in all_projects_initial:
             
 if args.tex:
     print("\\centering")
-    print("\\begin{tabular} { c || " + ' || '.join(['c | c' for _ in range(len(all_projects))]) + "} \\\\")
+    if args.diffy:
+        print("\\begin{tabular} { c || " + ' || '.join(['c | c' for _ in range(len(all_projects) + 2)]) + "} \\\\")
+    else:
+        print("\\begin{tabular} { c || " + ' || '.join(['c | c' for _ in range(len(all_projects))]) + "} \\\\")
     headers = "Idioms"
     
     for i, header in enumerate(args.d):
-        headers += " & \multicolumn{2}{c}{" + header[0] + "}"
+        headers += " & \multicolumn{2}{c||}{" + header[0] + "}"
+    
+    if args.diffy:
+        headers += " & \multicolumn{2}{c||}{Percentage difference}"
     
     print(headers + " \\\\")
     
@@ -126,8 +157,12 @@ if args.tex:
         
         yes += "\cline{" + str(i) + "-" + str(i+1) + "} "
         
+    if args.diffy:
+        yes += "\cline{6-7} "
     for _ in range(len(all_projects)):
         yes += (f" & Projects & Use Count")
+    if args.diffy:
+        yes += " & Difference Projects & Difference Use Count"
     yes += " \\\\ [0.5ex]"
     print(yes)
     
@@ -144,17 +179,54 @@ if args.tex:
             continue
         
         line = "\\textbf{" + name + "}"
-        for idiomStats, weight in all_projects:
+        if args.diffy:
+            idiomStats_before, _ = all_projects[0]
+            idiomStats_after, _ = all_projects[1]
             line += " & "
-            stats = idiomStats.get(meta[2])
-            if stats is None:
-                line += ("\\textbf{---} & \\textbf{---}")
+            stats_before = idiomStats_before.get(meta[2])
+            do_diffy = True
+            if stats_before is None:
+                    line += ("\\textbf{---} & \\textbf{---}")
+                    do_diffy = False
             else:
-                # Idioms without a description
-                if args.weighted:
-                    line += (f'\\textbf{(int(stats["present"]*weight))} & \\textbf{(int(stats["count"]*weight))}')
+                line += (f'\\textbf{(int(stats_before["present"]))} & \\textbf{(int(stats_before["count"]))}')
+            line += " & "
+
+            stats_after = idiomStats_after.get(meta[2])
+            if stats_after is None:
+                    line += ("\\textbf{---} & \\textbf{---}")
+                    do_diffy = False
+            else:
+                line += (f'\\textbf{(int(stats_after["present"]))} & \\textbf{(int(stats_after["count"]))}')
+
+            line += " & "
+            if do_diffy:
+                diff_projects = round((int(stats_after["present"]) - int(stats_before["present"])) / int(stats_before["present"]) * 100, 2)
+                if diff_projects < 0:
+                    diff_projects = "\cellcolor{red!25}{" + str(-1*diff_projects) + "}"
                 else:
-                    line += (f'\\textbf{(int(stats["present"]))} & \\textbf{(int(stats["count"]))}')
+                    diff_projects = "\cellcolor{green!25}{" + str(diff_projects) + "}"
+                
+                diff_count = round((int(stats_after["count"]) - int(stats_before["count"])) / int(stats_before["count"]) * 100, 2)
+                if diff_count < 0:
+                    diff_count = "\cellcolor{red!25}{" + str(-1*diff_count) + "}"
+                else:
+                    diff_count = "\cellcolor{green!25}{" + str(diff_count) + "}"
+                line += ("\\textbf{" + str(diff_projects) + "\%}& \\textbf{" + str(diff_count) + "\%}")
+            else:
+                line += ("\\textbf{---} & \\textbf{---}")
+        else:
+            for idiomStats, weight in all_projects:
+                line += " & "
+                stats = idiomStats.get(meta[2])
+                if stats is None:
+                    line += ("\\textbf{---} & \\textbf{---}")
+                else:
+                    # Idioms without a description
+                    if args.weighted:
+                        line += (f'\\textbf{(int(stats["present"]*weight))} & \\textbf{(int(stats["count"]*weight))}')
+                    else:
+                        line += (f'\\textbf{(int(stats["present"]))} & \\textbf{(int(stats["count"]))}')
         line += " \\\\"
         print(line)
     print("\end{tabular}")
