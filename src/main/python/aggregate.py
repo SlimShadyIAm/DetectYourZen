@@ -93,13 +93,15 @@ for datadir in args.d:
     idiomStats = OrderedDict()
 
     projects = sorted(glob.glob(os.path.join(datadir, '*')))
+    if len(projects) == 0:
+         raise FileNotFoundError(f"{datadir} was not found! Exiting...")
+    
     if len(projects) > max_projects:
         max_projects = len(projects)
         
     for project in projects:
-        if project in ignore_list:
+        if project in ignore_list or project in [f"./{i}" for i in ignore_list]:
             continue
-        
         datafile = os.path.join(project, "global.csv")
         if os.path.exists(datafile):
             with open(datafile, 'r') as csv_in:
@@ -112,7 +114,7 @@ for datadir in args.d:
                     headers.add(header)
                     data[header] = dataRow[i+skipHeaders]
                 allData[pName] = data
-
+        
     headers.add("itertools")
     for header in sorted(headers):
         stats = {"present": 0, "count": 0}
@@ -230,8 +232,10 @@ if args.tex:
         line += " \\\\"
         print(line)
     print("\end{tabular}")
-# if args.stdout:
-#     import pprint
-#     pp = pprint.PrettyPrinter(depth=6)
-#     pp.pprint(idiomStats)
+if args.stdout:
+    for key, values in idiomStats.items():
+        print(f"{key}")
+        for k, v in values.items():
+            print(f"    {k}: {v}")
+        print("---")
 

@@ -4,23 +4,32 @@
 #### Source selection
 
 - The original sources used by Alexandru et. al are found in `sources_original_repaired.txt`. These were used in **Experiment 1** (the replication experiment) Some of the repos are removed from this list as they were removed, either due to a DMCA takedown or by the author themselves. These are listed below.
-- Our "new" sources for **Experiment 2**, which we found by re-running `src/bash/get-projects.bash`, can be found in `sources_new.txt`
+- Our "new" sources for **Experiment 2**, which we found by re-running `src/main/bash/get-projects.bash`, can be found in `sources_new.txt`. You can gather your own sources by running `/src/main/bash/get-projects.bash <ouputfilename>`.
+
 - The list of repositories and commit hashes we used for **Experiment 3** can be found in the `sources_commit_20xx_xx.txt` files
 
 #### Scripts
 - The original scripts Alexandru et al. wrote are also included in this repositories
 - The new scripts we wrote are:
-    - `src/main/python/aggregate.py`  -- this was slightly overhauled to fix LaTeX support, and also generate tables from multiple sources and automatically add columns in one go.
-    - `src/main/python/random-selection-projects.py` -- This computes the overlap between the original sources and the "new" sources we collected, and displays 10 of them randomly
-    - `src/main/python/get-commits.py` -- This script uses the GitHub API to find, given a list of Git repository sources and chosen time periods, commit hashes for each time period for each of the repositories. This was used for Experiment 3.
-    - `src/main/python/repair-sources.py` -- The list of repositories the original authors gave did not correspond to the repositories of the resulting data in `./data-original`. We tried to reconstruct the list just using the folder names using this script.
-    - `./aggregate-timeperiods.ipynb` was used to generate graphs using the data discovered in Experiment 3 in `data-commits/`
+    - `src/main/python/aggregate.py`  -- this was slightly overhauled to fix LaTeX support, and also generate tables from multiple sources and automatically add columns in one go. Instructions in `Aggregating results` section.
+    - `src/main/python/random-selection-projects.py` -- This computes the overlap between the original sources and the "new" sources we collected, and displays 10 of them randomly. Can simply be run using `python3 src/main/python/random-selection-projects.py`, outputs to standard output.
+    - `src/main/python/get-commits.py` -- This script uses the GitHub API to find, given a list of Git repository sources and chosen time periods, commit hashes for each time period for each of the repositories. This was used for Experiment 3. The list of repositories was taken from `random-selection-projects.py` and you can change the list on line 6 of `get-commits.py` to change this list. You can also change the ranges of dates to use on line 17. After that, running  `python3 src/main/python/get-commits.py` will create the `.txt` files needed with the sources and commit hashes.
+    - `src/main/python/repair-sources.py` -- The list of repositories the original authors gave did not correspond to the repositories of the resulting data in `./data-original`. We tried to reconstruct the list just using the folder names using this script. Run using `python3 src/main/python/repair-sources.py` and it will save the repaired sources list to `sources_original_repaired.txt`.
+    - `./aggregate-timeperiods.ipynb` was used to generate graphs using the data discovered in Experiment 3 in `data-commits/`. This can be run using Jupyter notebook.
+
+The remaining script, i.e `project-stats.bash` were from the authors of the orignal paper and is not used in this project.
 
 #### Detectors
 - The original detector is in `src/main/scala/CrawlerOrig.scala`. This was unmodified from the replication package.
 - The new detector, which makes use of the enhanced idiom detector analyses, is in `src/main/scala/CrawlerNew.scala`.
 - The new detector with the new Git Agent, which can additionally check out commit hashes after cloning repos, can be found in `src/main/scala/CrawlerNewCommit.scala`.
 - The new analyses and Git Agent are in `src/main/scala/slim`.
+
+***NOTE***: These scripts may take several hours to run if using all ~1,000 sources. You can terminate early at any time with `CTRL+C` because stats are saved after detection on each project is finished, not at the end. And if restarting the script, it will pick up where you left off.
+
+If you want to test on a small selection of sources, `sources_commit-2018-05.txt` contains 10 repositories, so modifying `src/main/scala/CrawlerNew.scala` to use this text file would terminate after a few minutes.
+
+Alternatively, you can add a new `.txt` file with a subset of the sources and modify the `Source.fromFile()` function call in `src/main/scala/CrawlerNew.scala` to use your new file.
 
 ### Results
 - The results from Alexandru et. al are found in `./data-original`
@@ -38,13 +47,17 @@ Changing the source file (list of repositories to use as sources) can be done by
 To run the analyses:
 
 ```
-sbt 'runMain <crawler to use> ./<destination folder>'
+sbt 'runMain <crawler to use> ./<destination folder to store result CSVs>'
 ```
+
+A description of each crawler is given above in the `Detectors` section.
 
 Example: 
 ```
 sbt 'runMain CrawlerNew ./data-new'
 ```
+
+As the script runs, you will see in the output the progress of the analyses: cloning the git repository, analyzing the files, and then it will move on to the next project.
 
 ### Aggregating results
 
@@ -62,6 +75,12 @@ Or combine multiple sources of data into one table:
 ```
 ./src/main/python/aggregate.py -d ./data-original -d ./data-repaired -d ./data-new --tex 
 ```
+
+### Reproducing each of the tables in paper
+Note that calculations for percentage difference and grouping were done by hand, so these results will not be included in the outputs.
+
+- Table 2: `./src/main/python/aggregate.py -d ./data-original -d ./data-rerun-repaired  --tex`
+- Table 3: `./src/main/python/aggregate.py -d ./data-rerun-repaired -d ./data-new --tex `
 
 ### Removed sources
 The below repositories were removed from lists due to errors such as:
