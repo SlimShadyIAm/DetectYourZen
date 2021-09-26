@@ -27,7 +27,7 @@ The remaining script, i.e `project-stats.bash` were from the authors of the orig
 
 ***NOTE***: These scripts may take several hours to run if using all ~1,000 sources. You can terminate early at any time with `CTRL+C` because stats are saved after detection on each project is finished, not at the end. And if restarting the script, it will pick up where you left off.
 
-If you want to test on a small selection of sources, `sources_commit-2018-05.txt` contains 10 repositories, so modifying `src/main/scala/CrawlerNew.scala` to use this text file would terminate after a few minutes.
+If you want to test on a small selection of sources, `sources_sample.txt` contains 10 repositories, so modifying `src/main/scala/CrawlerNew.scala` to use this text file would terminate after a few minutes.
 
 Alternatively, you can add a new `.txt` file with a subset of the sources and modify the `Source.fromFile()` function call in `src/main/scala/CrawlerNew.scala` to use your new file.
 

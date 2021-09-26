@@ -191,7 +191,7 @@ if args.tex:
                     line += ("\\textbf{---} & \\textbf{---}")
                     do_diffy = False
             else:
-                line += (f'\\textbf{(int(stats_before["present"]))} & \\textbf{(int(stats_before["count"]))}')
+                line += ('\\textbf{' + str(stats_before["present"]) + '} & \\textbf{' + str(stats_before["count"]) + '}')
             line += " & "
 
             stats_after = idiomStats_after.get(meta[2])
@@ -199,7 +199,7 @@ if args.tex:
                     line += ("\\textbf{---} & \\textbf{---}")
                     do_diffy = False
             else:
-                line += (f'\\textbf{(int(stats_after["present"]))} & \\textbf{(int(stats_after["count"]))}')
+               line += ('\\textbf{' + str(stats_after["present"]) + '} & \\textbf{' + str(stats_after["count"]) + '}')
 
             line += " & "
             if do_diffy:
@@ -226,9 +226,9 @@ if args.tex:
                 else:
                     # Idioms without a description
                     if args.weighted:
-                        line += (f'\\textbf{(int(stats["present"]*weight))} & \\textbf{(int(stats["count"]*weight))}')
+                        line += ('\\textbf{' + str(stats["present"]*weight) + '} & \\textbf{' + str(stats["count"]*weight) + '}')
                     else:
-                        line += (f'\\textbf{(int(stats["present"]))} & \\textbf{(int(stats["count"]))}')
+                        line += ('\\textbf{' + str(stats["present"]) + '} & \\textbf{' + str(stats["count"]) + '}')
         line += " \\\\"
         print(line)
     print("\end{tabular}")
