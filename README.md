@@ -73,7 +73,7 @@ You can also generate a LaTeX table:
 
 Or combine multiple sources of data into one table:
 ```
-./src/main/python/aggregate.py -d ./data-original -d ./data-repaired -d ./data-new --tex 
+./src/main/python/aggregate.py -d ./data-original -d ./data-rerun-repaired -d ./data-new --tex 
 ```
 
 ### Reproducing each of the tables in paper
